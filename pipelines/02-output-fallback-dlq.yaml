@@ -1,0 +1,29 @@
+# Runnable fallback pattern. The DLQ is attempted if the primary output fails.
+# For a deterministic live demo, rehearse the failure timing before the talk.
+input:
+  kafka:
+    addresses: ["${KAFKA_BROKERS:localhost:19092}"]
+    topics: ["orders"]
+    consumer_group: "bento-presenterm-fallback"
+    start_from_oldest: true
+    checkpoint_limit: 1
+
+pipeline:
+  processors:
+    - mapping: |
+        root = this
+        root.demo_processed = true
+        root.failure_route = "primary"
+
+output:
+  fallback:
+    - kafka:
+        addresses: ["${KAFKA_BROKERS:localhost:19092}"]
+        topic: "orders-processed"
+        key: '${! json("order_id") }'
+        target_version: "2.1.0"
+    - kafka:
+        addresses: ["${KAFKA_BROKERS:localhost:19092}"]
+        topic: "orders-dlq"
+        key: '${! json("order_id") }'
+        target_version: "2.1.0"

@@ -1,0 +1,23 @@
+# Illustrative only: requires an HTTP service at CUSTOMER_API_URL.
+# This is intentionally not wired into the Redpanda-only Compose demo.
+input:
+  kafka:
+    addresses: ["${KAFKA_BROKERS:localhost:19092}"]
+    topics: ["orders"]
+    consumer_group: "bento-http-enrichment"
+    start_from_oldest: true
+
+pipeline:
+  processors:
+    - branch:
+        request_map: 'root = this.customer_id'
+        processors:
+          - http:
+              url: '${CUSTOMER_API_URL:http://localhost:8080/customers}/${! content().string() }'
+              verb: GET
+              timeout: 3s
+        result_map: 'root.customer = this'
+
+output:
+  stdout:
+    codec: lines

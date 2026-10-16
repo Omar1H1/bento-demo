@@ -1,0 +1,22 @@
+# Runnable demo: Redpanda topic orders -> Bloblang mapping -> orders-processed.
+input:
+  kafka:
+    addresses: ["${KAFKA_BROKERS:localhost:19092}"]
+    topics: ["orders"]
+    consumer_group: "bento-presenterm-demo"
+    start_from_oldest: true
+    checkpoint_limit: 16
+
+pipeline:
+  processors:
+    - mapping: |
+        root = this
+        root.demo_processed = true
+        root.processed_at = now()
+
+output:
+  kafka:
+    addresses: ["${KAFKA_BROKERS:localhost:19092}"]
+    topic: "orders-processed"
+    key: '${! json("order_id") }'
+    target_version: "2.1.0"
