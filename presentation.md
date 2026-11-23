@@ -11,43 +11,22 @@ theme:
       height: 3
 author: Omar HAMAD
 ---
-
 <!-- alignment: center -->
-
-# Bento
-
-## Simplifier vos pipelines de données
-
-<!-- pause -->
-
-Des pipelines lisibles. Des erreurs pensées.
-
-<!-- speaker_note: TODO -->
-
-<!-- end_slide -->
-
-<!-- alignment: center -->
-
+<!-- font_size: 1 -->
 # whoami
 
+
 <!-- pause -->
+![image:width:100%](./assets/me.png)
+
+<!--end_slide-->
+<!-- alignment: center -->
+# whoami
 
 ```bash +exec
 /// whoami() { echo "/maif/dsi/datathèque/TED/omar-hamad"; }
 whoami
 ```
-
-<!-- end_slide -->
-
-<!-- alignment: center -->
-
-# Pas une couche de code en plus.
-
-<!-- pause -->
-
-Une description de ce que le pipeline doit faire.
-
-<!-- speaker_note: TODO -->
 
 <!-- end_slide -->
 
@@ -99,77 +78,14 @@ De la donnée qui va d'un **point A** vers un **point B**, des sources et des si
 
 <!-- end_slide -->
 
-# Le trajet n'est pas toute l'histoire
+# C'est le voyage, pas la destination
 
 <!-- pause -->
+<!-- new_line -->
+<!-- new_line -->
+<!-- new_line -->
 
-Entre A et B, il faut parfois...
-
-<!-- pause -->
-
-**Transformer** la donnée.
-
-<!-- pause -->
-
-**Enrichir** un message avec un appel HTTP.
-
-<!-- pause -->
-
-**Gérer** une destination indisponible.
-
-<!-- pause -->
-
-**Limiter** le travail en cours pour ne pas saturer le système.
-
-<!-- speaker_note: TODO -->
-
-<!-- end_slide -->
-
-# Comment lisez-vous un fichier CSV de 20 Go ?
-
-<!-- pause -->
-
-**Tout charger en mémoire** : simple, jusqu'au manque de mémoire.
-
-<!-- pause -->
-
-**Lire progressivement** : combien de lignes ou de messages en vol ?
-
-<!-- pause -->
-
-**Et si la destination ralentit ?** La source doit-elle continuer à produire ?
-
-<!-- pause -->
-
-## Ce sont des décisions de flux, pas seulement de syntaxe.
-
-<!-- speaker_note: TODO -->
-
-<!-- end_slide -->
-
-# Deux notions à garder en tête
-
-<!-- column_layout: [1, 1] -->
-
-<!-- column: 0 -->
-
-**In-flight data**
-
-Combien de messages sont en cours de traitement ?
-
-<!-- column: 1 -->
-
-**Backpressure**
-
-Comment ralentir l'amont quand l'aval ne suit plus ?
-
-<!-- reset_layout -->
-
-<!-- pause -->
-
-Ces mécanismes doivent être compris, configurés et observés.
-
-<!-- speaker_note: TODO -->
+![image:width:100%](./assets/check.png)
 
 <!-- end_slide -->
 
@@ -189,7 +105,7 @@ DNS. Timeout. Réseau. Service indisponible.
 
 <!-- pause -->
 
-## Une erreur technique peut changer le destin de tout un batch.
+## Une erreur technique peut changer le destin de tout un flow
 
 <!-- speaker_note: TODO -->
 
@@ -221,26 +137,29 @@ Le 20ᵉ échoue : le service est indisponible.
 
 # Le piège : confondre échec et succès partiel
 
-```go
+```go {all|2|3|7|9}
 func processBatch(messages []kafka.Message) error {
-    for i, msg := range messages {
+    for _, msg := range messages {
         resp, err := httpClient.Post(enrichURL, msg.Body)
         if err != nil {
-            return err // le commit final n'est pas atteint
+            return err
         }
-        if resp.StatusCode == http.StatusNotFound {
-            log.Printf("message %d: utilisateur absent, skip", i)
-            continue
-        }
-        index(msg, resp)
+        producer.Write(msg, resp)
     }
     return consumer.CommitBatch(messages)
 }
 ```
+<!--pause-->
+À première vue :
+
+✅ si une erreur survient, on retourne une erreur
+<!--new_line-->
+✅ si tout se passe bien, on commit le batch
 
 <!-- pause -->
-
-Si le commit porte sur le batch entier, l'échec du dernier appel peut entraîner le rejeu des messages précédents.
+Mais ..
+<!-- pause -->
+❌ Si le commit porte sur le batch entier, l'échec du dernier appel peut entraîner le rejeu des messages précédents.
 
 <!-- pause -->
 
@@ -267,12 +186,6 @@ Les choix explicites de reprise, de fallback et de DLQ.
 <!-- pause -->
 
 ## Pas toute la plomberie du flux.
-
-<!-- pause -->
-
-Trois démos pour le montrer : le transport de base, une destination qui échoue, et ce que l'enrichissement HTTP change à l'équation.
-
-<!-- speaker_note: TODO -->
 
 <!-- end_slide -->
 
@@ -315,6 +228,10 @@ La configuration décrit le flux ; le runtime exécute les composants et appliqu
 <!-- speaker_note: TODO -->
 
 <!-- end_slide -->
+<!-- newlines: 10-->
+![image:width:100%](./assets/flow.png)
+
+<!--end_slide-->
 
 # Ce que Bento prend en charge
 
