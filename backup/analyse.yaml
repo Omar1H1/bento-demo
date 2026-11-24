@@ -1,0 +1,13 @@
+# Cas 3 — Postgres fait le calcul, Bento publie le résultat
+input:
+  sql_select:
+    driver: postgres
+    dsn: postgres://bento:bento@localhost:15432/assurance?sslmode=disable
+    table: stats_par_type
+    columns: [ "*" ]
+
+output:
+  kafka:
+    addresses: [ "localhost:19092" ]
+    topic: sinistres-stats
+    key: '${! json("type") }'

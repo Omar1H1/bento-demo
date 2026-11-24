@@ -1,0 +1,22 @@
+# Cas 4a — Postgres -> fichiers compressés, par lots de 500
+input:
+  sql_select:
+    driver: postgres
+    dsn: postgres://bento:bento@localhost:15432/assurance?sslmode=disable
+    table: sinistres
+    columns: [ "*" ]
+
+output:
+  broker:
+    pattern: fan_out
+    outputs:
+      - file:
+          path: 'archives/sinistres-${! timestamp_unix_nano() }.jsonl.gz'
+          codec: all-bytes
+    batching:
+      count: 500
+      processors:
+        - archive:
+            format: lines
+        - compress:
+            algorithm: gzip

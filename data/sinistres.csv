@@ -1,0 +1,2001 @@
+sinistre_id,contrat_id,client_id,type,montant,date_declaration,statut
+SIN-00001,CTR-28289,53,grêle,589.91,2026-09-03,indemnisé
+SIN-00002,CTR-88907,14,collision,13433.69,2026-04-23,indemnisé
+SIN-00003,CTR-10851,82,grêle,3039.55,2026-07-11,en_expertise
+SIN-00004,CTR-59797,50,vol,173.71,2026-06-20,en_expertise
+SIN-00005,CTR-20328,283,vol,4621.63,2026-10-28,en_expertise
+SIN-00006,CTR-47930,41,catastrophe naturelle,536.52,2026-04-28,ouvert
+SIN-00007,CTR-58520,182,bris de glace,366.91,2026-05-23,indemnisé
+SIN-00008,CTR-42087,84,incendie,11818.71,2026-07-09,indemnisé
+SIN-00009,CTR-40021,17,catastrophe naturelle,631.82,2026-06-13,en_expertise
+SIN-00010,CTR-51245,109,grêle,25284.12,2026-08-13,indemnisé
+SIN-00011,CTR-80644,135,grêle,14385.34,2026-10-14,indemnisé
+SIN-00012,CTR-74686,47,catastrophe naturelle,39916.28,2026-01-28,ouvert
+SIN-00013,CTR-18326,198,incendie,29136.36,2026-10-15,indemnisé
+SIN-00014,CTR-25014,275,catastrophe naturelle,38042.65,2026-05-25,indemnisé
+SIN-00015,CTR-44522,257,catastrophe naturelle,332.55,2026-03-17,ouvert
+SIN-00016,CTR-36071,79,vol,27724.28,2026-03-18,indemnisé
+SIN-00017,CTR-57576,158,bris de glace,829.90,2026-01-08,indemnisé
+SIN-00018,CTR-79822,65,bris de glace,854.38,2026-08-18,ouvert
+SIN-00019,CTR-80686,103,grêle,267.95,2026-05-13,indemnisé
+SIN-00020,CTR-42493,116,dégât des eaux,598.90,2026-06-01,indemnisé
+SIN-00021,CTR-92719,31,bris de glace,6244.49,2026-02-02,en_expertise
+SIN-00022,CTR-80678,68,grêle,100.94,2026-10-19,en_expertise
+SIN-00023,CTR-22704,221,vol,248.98,2026-07-14,en_expertise
+SIN-00024,CTR-22899,32,incendie,28217.49,2026-06-26,ouvert
+SIN-00025,CTR-34050,143,incendie,1870.07,2026-04-28,ouvert
+SIN-00026,CTR-95477,277,catastrophe naturelle,421.09,2026-01-03,ouvert
+SIN-00027,CTR-17685,85,incendie,3376.77,2026-01-13,en_expertise
+SIN-00028,CTR-82845,250,bris de glace,15698.47,2026-04-10,ouvert
+SIN-00029,CTR-51104,30,dégât des eaux,24434.64,2026-10-16,indemnisé
+SIN-00030,CTR-20500,96,dégât des eaux,7933.91,2026-10-03,indemnisé
+SIN-00031,CTR-42271,297,collision,38014.27,2026-01-20,ouvert
+SIN-00032,CTR-36772,161,bris de glace,3876.73,2026-05-13,ouvert
+SIN-00033,CTR-11220,235,collision,617.65,2026-10-04,ouvert
+SIN-00034,CTR-19016,126,vol,3480.01,2026-05-06,en_expertise
+SIN-00035,CTR-79329,5,grêle,26797.04,2026-09-10,indemnisé
+SIN-00036,CTR-82512,80,vol,129.08,2026-05-20,ouvert
+SIN-00037,CTR-76244,251,vol,1938.35,2026-01-03,indemnisé
+SIN-00038,CTR-93507,135,bris de glace,404.28,2026-08-18,indemnisé
+SIN-00039,CTR-29536,280,dégât des eaux,8558.29,2026-06-19,indemnisé
+SIN-00040,CTR-56898,108,grêle,167.36,2026-04-22,ouvert
+SIN-00041,CTR-30257,122,catastrophe naturelle,35740.23,2026-03-26,ouvert
+SIN-00042,CTR-63964,128,vol,1026.41,2026-03-26,indemnisé
+SIN-00043,CTR-36158,236,vol,132.96,2026-05-27,ouvert
+SIN-00044,CTR-19099,143,vol,4266.17,2026-09-13,indemnisé
+SIN-00045,CTR-44237,92,collision,883.79,2026-05-02,ouvert
+SIN-00046,CTR-89457,262,dégât des eaux,2663.00,2026-07-19,ouvert
+SIN-00047,CTR-97900,101,vol,6057.50,2026-07-03,indemnisé
+SIN-00048,CTR-49363,260,vol,831.86,2026-07-11,en_expertise
+SIN-00049,CTR-59695,90,collision,12522.56,2026-10-10,en_expertise
+SIN-00050,CTR-86019,165,incendie,902.07,2026-08-15,indemnisé
+SIN-00051,CTR-32241,44,vol,36640.15,2026-09-22,indemnisé
+SIN-00052,CTR-98184,159,bris de glace,572.56,2026-04-05,ouvert
+SIN-00053,CTR-69692,213,grêle,79.74,2026-10-07,indemnisé
+SIN-00054,CTR-10726,55,catastrophe naturelle,14295.47,2026-07-08,ouvert
+SIN-00055,CTR-42662,63,incendie,21794.70,2026-03-26,en_expertise
+SIN-00056,CTR-90301,259,incendie,5938.25,2026-09-15,ouvert
+SIN-00057,CTR-93579,142,catastrophe naturelle,679.54,2026-09-16,indemnisé
+SIN-00058,CTR-45614,172,vol,245.75,2026-09-03,ouvert
+SIN-00059,CTR-18418,213,incendie,169.71,2026-06-18,en_expertise
+SIN-00060,CTR-12560,295,incendie,20284.88,2026-08-01,en_expertise
+SIN-00061,CTR-80545,280,catastrophe naturelle,2888.93,2026-10-08,en_expertise
+SIN-00062,CTR-97670,208,grêle,3122.76,2026-03-27,en_expertise
+SIN-00063,CTR-87580,289,grêle,5901.68,2026-01-03,indemnisé
+SIN-00064,CTR-59689,168,bris de glace,5320.94,2026-08-11,en_expertise
+SIN-00065,CTR-43065,42,incendie,2833.54,2026-01-24,indemnisé
+SIN-00066,CTR-95426,21,catastrophe naturelle,84.79,2026-01-08,ouvert
+SIN-00067,CTR-97747,59,collision,4068.81,2026-04-15,indemnisé
+SIN-00068,CTR-25012,84,vol,26600.35,2026-02-19,ouvert
+SIN-00069,CTR-61990,102,dégât des eaux,3836.56,2026-10-23,indemnisé
+SIN-00070,CTR-88697,62,catastrophe naturelle,16253.81,2026-10-26,ouvert
+SIN-00071,CTR-94874,175,dégât des eaux,18599.41,2026-07-27,en_expertise
+SIN-00072,CTR-30052,223,bris de glace,5800.02,2026-09-21,en_expertise
+SIN-00073,CTR-67091,138,vol,5590.05,2026-04-27,ouvert
+SIN-00074,CTR-89997,195,vol,31516.19,2026-01-16,en_expertise
+SIN-00075,CTR-46655,142,collision,1981.81,2026-01-17,ouvert
+SIN-00076,CTR-72402,252,incendie,113.63,2026-01-03,en_expertise
+SIN-00077,CTR-58368,243,collision,16411.01,2026-09-12,en_expertise
+SIN-00078,CTR-45509,157,vol,3706.98,2026-04-04,indemnisé
+SIN-00079,CTR-34267,99,bris de glace,24219.37,2026-08-09,indemnisé
+SIN-00080,CTR-35443,152,bris de glace,547.04,2026-06-06,en_expertise
+SIN-00081,CTR-82529,150,grêle,52.17,2026-03-21,en_expertise
+SIN-00082,CTR-67733,175,bris de glace,962.55,2026-01-09,en_expertise
+SIN-00083,CTR-92502,28,bris de glace,22719.38,2026-03-26,indemnisé
+SIN-00084,CTR-64548,116,catastrophe naturelle,14438.49,2026-09-13,en_expertise
+SIN-00085,CTR-50026,292,collision,2416.50,2026-01-20,indemnisé
+SIN-00086,CTR-96563,42,bris de glace,4789.96,2026-04-06,indemnisé
+SIN-00087,CTR-71592,150,dégât des eaux,21317.13,2026-04-10,indemnisé
+SIN-00088,CTR-44675,102,incendie,283.14,2026-02-18,ouvert
+SIN-00089,CTR-17816,85,catastrophe naturelle,596.97,2026-05-20,indemnisé
+SIN-00090,CTR-49857,207,vol,5598.08,2026-09-18,en_expertise
+SIN-00091,CTR-52247,129,dégât des eaux,36240.38,2026-02-08,indemnisé
+SIN-00092,CTR-45325,296,dégât des eaux,38326.73,2026-03-16,indemnisé
+SIN-00093,CTR-67132,252,dégât des eaux,12170.63,2026-08-12,en_expertise
+SIN-00094,CTR-63955,254,vol,4317.68,2026-07-27,indemnisé
+SIN-00095,CTR-62976,264,catastrophe naturelle,71.56,2026-01-22,indemnisé
+SIN-00096,CTR-75338,227,catastrophe naturelle,23626.94,2026-01-07,en_expertise
+SIN-00097,CTR-73532,63,dégât des eaux,20895.95,2026-10-26,ouvert
+SIN-00098,CTR-22217,116,catastrophe naturelle,2484.83,2026-02-15,ouvert
+SIN-00099,CTR-76698,140,incendie,1685.25,2026-08-16,ouvert
+SIN-00100,CTR-76616,70,catastrophe naturelle,12480.75,2026-02-09,en_expertise
+SIN-00101,CTR-47072,153,catastrophe naturelle,332.29,2026-10-19,indemnisé
+SIN-00102,CTR-53573,283,catastrophe naturelle,1657.84,2026-09-13,en_expertise
+SIN-00103,CTR-84946,197,bris de glace,842.25,2026-07-02,en_expertise
+SIN-00104,CTR-96991,78,incendie,4496.66,2026-01-05,indemnisé
+SIN-00105,CTR-23069,270,incendie,2593.17,2026-01-24,ouvert
+SIN-00106,CTR-44737,174,collision,4239.38,2026-07-21,ouvert
+SIN-00107,CTR-51505,250,catastrophe naturelle,5246.94,2026-09-02,indemnisé
+SIN-00108,CTR-21846,223,dégât des eaux,98.84,2026-02-15,ouvert
+SIN-00109,CTR-48452,184,vol,636.84,2026-07-05,ouvert
+SIN-00110,CTR-32946,41,collision,496.80,2026-07-20,indemnisé
+SIN-00111,CTR-93611,131,incendie,5555.43,2026-05-22,ouvert
+SIN-00112,CTR-30706,38,incendie,15779.48,2026-06-19,en_expertise
+SIN-00113,CTR-36111,197,catastrophe naturelle,3063.98,2026-08-04,ouvert
+SIN-00114,CTR-48696,12,catastrophe naturelle,16059.66,2026-07-09,ouvert
+SIN-00115,CTR-89482,255,catastrophe naturelle,526.70,2026-05-25,ouvert
+SIN-00116,CTR-42850,71,grêle,27645.01,2026-02-21,indemnisé
+SIN-00117,CTR-27224,47,vol,4921.91,2026-06-24,en_expertise
+SIN-00118,CTR-79579,257,vol,1574.01,2026-03-09,en_expertise
+SIN-00119,CTR-71385,39,bris de glace,871.95,2026-04-28,indemnisé
+SIN-00120,CTR-57942,47,catastrophe naturelle,38887.17,2026-07-01,en_expertise
+SIN-00121,CTR-44362,300,incendie,28876.16,2026-06-04,indemnisé
+SIN-00122,CTR-52992,114,grêle,36063.98,2026-02-21,en_expertise
+SIN-00123,CTR-15943,20,vol,822.07,2026-08-04,ouvert
+SIN-00124,CTR-97881,277,incendie,3641.49,2026-10-24,indemnisé
+SIN-00125,CTR-90694,209,vol,3015.91,2026-01-23,en_expertise
+SIN-00126,CTR-23022,189,collision,3167.95,2026-06-02,en_expertise
+SIN-00127,CTR-22015,109,grêle,5837.86,2026-10-01,ouvert
+SIN-00128,CTR-36896,36,catastrophe naturelle,10281.41,2026-09-07,indemnisé
+SIN-00129,CTR-88116,2,vol,225.72,2026-03-05,indemnisé
+SIN-00130,CTR-27275,8,vol,255.56,2026-04-19,en_expertise
+SIN-00131,CTR-78955,59,grêle,2253.37,2026-02-16,en_expertise
+SIN-00132,CTR-39038,23,grêle,9707.84,2026-09-10,en_expertise
+SIN-00133,CTR-65872,56,incendie,1058.87,2026-08-03,ouvert
+SIN-00134,CTR-92978,300,collision,10290.51,2026-06-13,indemnisé
+SIN-00135,CTR-24996,283,grêle,496.28,2026-04-14,en_expertise
+SIN-00136,CTR-64524,49,vol,3010.45,2026-07-11,indemnisé
+SIN-00137,CTR-18799,47,catastrophe naturelle,5763.32,2026-02-03,en_expertise
+SIN-00138,CTR-17861,288,collision,33600.16,2026-06-22,ouvert
+SIN-00139,CTR-16743,148,collision,5355.40,2026-05-12,ouvert
+SIN-00140,CTR-24184,180,catastrophe naturelle,537.01,2026-09-12,ouvert
+SIN-00141,CTR-91490,286,dégât des eaux,33445.53,2026-10-22,indemnisé
+SIN-00142,CTR-54541,180,dégât des eaux,1820.12,2026-03-28,ouvert
+SIN-00143,CTR-14018,47,grêle,10823.74,2026-09-07,en_expertise
+SIN-00144,CTR-52517,291,collision,18581.81,2026-02-02,ouvert
+SIN-00145,CTR-68079,218,incendie,4050.97,2026-10-15,en_expertise
+SIN-00146,CTR-24534,146,grêle,4750.21,2026-10-16,indemnisé
+SIN-00147,CTR-17180,4,bris de glace,19438.96,2026-05-07,ouvert
+SIN-00148,CTR-66446,90,bris de glace,2376.18,2026-07-18,indemnisé
+SIN-00149,CTR-19447,204,catastrophe naturelle,3749.49,2026-01-14,ouvert
+SIN-00150,CTR-85156,208,grêle,1297.10,2026-07-10,ouvert
+SIN-00151,CTR-70305,186,dégât des eaux,11843.69,2026-07-28,ouvert
+SIN-00152,CTR-50668,174,bris de glace,3903.24,2026-06-25,ouvert
+SIN-00153,CTR-55793,180,grêle,105.69,2026-03-08,ouvert
+SIN-00154,CTR-19876,91,catastrophe naturelle,26481.57,2026-08-15,indemnisé
+SIN-00155,CTR-94278,166,catastrophe naturelle,37421.24,2026-06-05,en_expertise
+SIN-00156,CTR-87518,29,vol,3155.26,2026-09-03,en_expertise
+SIN-00157,CTR-20057,47,collision,1091.80,2026-10-17,en_expertise
+SIN-00158,CTR-68947,293,grêle,437.93,2026-04-11,indemnisé
+SIN-00159,CTR-55015,44,collision,449.04,2026-03-02,ouvert
+SIN-00160,CTR-30807,187,vol,23818.33,2026-05-13,en_expertise
+SIN-00161,CTR-94843,172,dégât des eaux,7780.43,2026-06-04,indemnisé
+SIN-00162,CTR-88997,77,vol,30606.94,2026-02-19,indemnisé
+SIN-00163,CTR-96787,201,bris de glace,38901.68,2026-10-23,ouvert
+SIN-00164,CTR-97833,270,dégât des eaux,306.24,2026-07-17,en_expertise
+SIN-00165,CTR-73736,99,bris de glace,2475.22,2026-03-05,ouvert
+SIN-00166,CTR-79013,20,grêle,23261.45,2026-06-25,indemnisé
+SIN-00167,CTR-91885,85,grêle,11516.41,2026-08-02,en_expertise
+SIN-00168,CTR-47346,230,bris de glace,38966.01,2026-09-08,en_expertise
+SIN-00169,CTR-58213,293,incendie,870.41,2026-08-25,en_expertise
+SIN-00170,CTR-36174,71,catastrophe naturelle,709.19,2026-05-02,indemnisé
+SIN-00171,CTR-77621,64,vol,37765.98,2026-02-25,ouvert
+SIN-00172,CTR-22021,114,catastrophe naturelle,5517.06,2026-08-12,ouvert
+SIN-00173,CTR-20696,192,bris de glace,2921.92,2026-01-11,ouvert
+SIN-00174,CTR-15020,147,catastrophe naturelle,761.69,2026-08-23,ouvert
+SIN-00175,CTR-12490,132,bris de glace,692.60,2026-03-18,indemnisé
+SIN-00176,CTR-49472,63,dégât des eaux,563.64,2026-04-14,indemnisé
+SIN-00177,CTR-88215,275,dégât des eaux,3231.28,2026-09-19,ouvert
+SIN-00178,CTR-41531,293,incendie,2385.49,2026-03-22,indemnisé
+SIN-00179,CTR-81313,260,catastrophe naturelle,8301.10,2026-09-18,ouvert
+SIN-00180,CTR-43246,9,vol,3297.69,2026-02-12,ouvert
+SIN-00181,CTR-53583,69,dégât des eaux,32231.05,2026-06-18,en_expertise
+SIN-00182,CTR-72722,94,catastrophe naturelle,1792.95,2026-03-03,indemnisé
+SIN-00183,CTR-36144,22,vol,707.52,2026-05-17,en_expertise
+SIN-00184,CTR-35048,147,vol,14612.67,2026-01-28,indemnisé
+SIN-00185,CTR-67637,198,vol,1534.82,2026-03-16,indemnisé
+SIN-00186,CTR-65640,41,incendie,467.87,2026-10-27,ouvert
+SIN-00187,CTR-48750,157,incendie,8722.34,2026-10-23,en_expertise
+SIN-00188,CTR-56210,223,vol,21202.41,2026-01-03,indemnisé
+SIN-00189,CTR-30969,16,bris de glace,33237.26,2026-10-22,en_expertise
+SIN-00190,CTR-57467,197,collision,1242.89,2026-01-20,ouvert
+SIN-00191,CTR-85225,71,collision,623.99,2026-06-13,en_expertise
+SIN-00192,CTR-34385,256,collision,9857.25,2026-07-18,ouvert
+SIN-00193,CTR-47431,252,bris de glace,21173.29,2026-02-05,ouvert
+SIN-00194,CTR-99381,164,grêle,428.76,2026-06-23,ouvert
+SIN-00195,CTR-93584,90,catastrophe naturelle,513.00,2026-06-17,ouvert
+SIN-00196,CTR-13445,185,collision,1925.00,2026-10-12,en_expertise
+SIN-00197,CTR-18617,159,incendie,731.15,2026-08-17,en_expertise
+SIN-00198,CTR-94192,38,incendie,5099.03,2026-08-22,indemnisé
+SIN-00199,CTR-87042,94,catastrophe naturelle,32528.94,2026-03-14,indemnisé
+SIN-00200,CTR-49862,85,bris de glace,823.21,2026-06-23,ouvert
+SIN-00201,CTR-42847,101,grêle,337.58,2026-09-09,ouvert
+SIN-00202,CTR-32103,298,bris de glace,9176.57,2026-03-22,indemnisé
+SIN-00203,CTR-15399,15,dégât des eaux,34646.02,2026-01-21,indemnisé
+SIN-00204,CTR-93753,16,incendie,25452.66,2026-09-10,indemnisé
+SIN-00205,CTR-63227,153,incendie,33359.40,2026-02-23,ouvert
+SIN-00206,CTR-89516,74,vol,3019.67,2026-06-24,en_expertise
+SIN-00207,CTR-23917,164,bris de glace,18598.37,2026-08-04,en_expertise
+SIN-00208,CTR-90658,215,bris de glace,1618.48,2026-03-27,en_expertise
+SIN-00209,CTR-75308,264,incendie,843.03,2026-08-10,en_expertise
+SIN-00210,CTR-38199,299,vol,59.93,2026-01-02,en_expertise
+SIN-00211,CTR-47453,275,dégât des eaux,5399.93,2026-02-14,ouvert
+SIN-00212,CTR-15930,206,dégât des eaux,4610.29,2026-10-18,ouvert
+SIN-00213,CTR-82070,144,catastrophe naturelle,2371.87,2026-10-22,indemnisé
+SIN-00214,CTR-83116,188,catastrophe naturelle,5872.92,2026-03-07,indemnisé
+SIN-00215,CTR-53652,243,collision,477.85,2026-08-05,indemnisé
+SIN-00216,CTR-31299,202,collision,1612.88,2026-05-19,en_expertise
+SIN-00217,CTR-49294,244,catastrophe naturelle,22654.79,2026-01-12,en_expertise
+SIN-00218,CTR-92478,14,collision,25845.87,2026-08-09,indemnisé
+SIN-00219,CTR-16731,299,incendie,25639.57,2026-03-17,indemnisé
+SIN-00220,CTR-41745,17,collision,18926.47,2026-02-07,ouvert
+SIN-00221,CTR-63788,257,catastrophe naturelle,419.29,2026-10-16,indemnisé
+SIN-00222,CTR-52604,245,collision,23635.23,2026-07-11,ouvert
+SIN-00223,CTR-99226,136,collision,24573.29,2026-08-07,ouvert
+SIN-00224,CTR-47880,107,grêle,2422.35,2026-08-11,en_expertise
+SIN-00225,CTR-47721,63,collision,5661.87,2026-09-13,en_expertise
+SIN-00226,CTR-15513,148,grêle,5768.51,2026-02-12,en_expertise
+SIN-00227,CTR-45537,288,grêle,13275.55,2026-05-05,ouvert
+SIN-00228,CTR-79604,116,grêle,14243.57,2026-04-02,ouvert
+SIN-00229,CTR-10679,282,bris de glace,395.44,2026-07-21,en_expertise
+SIN-00230,CTR-47409,31,catastrophe naturelle,1917.23,2026-02-21,indemnisé
+SIN-00231,CTR-32946,214,catastrophe naturelle,239.71,2026-03-02,en_expertise
+SIN-00232,CTR-14910,5,vol,1850.19,2026-10-20,ouvert
+SIN-00233,CTR-81211,269,incendie,21447.87,2026-03-28,indemnisé
+SIN-00234,CTR-70150,132,grêle,442.50,2026-03-01,indemnisé
+SIN-00235,CTR-33002,208,catastrophe naturelle,329.92,2026-07-17,en_expertise
+SIN-00236,CTR-72580,166,bris de glace,114.59,2026-01-09,en_expertise
+SIN-00237,CTR-86344,294,dégât des eaux,4744.16,2026-05-21,en_expertise
+SIN-00238,CTR-30934,208,grêle,1216.83,2026-09-23,en_expertise
+SIN-00239,CTR-90560,114,bris de glace,4157.43,2026-03-16,ouvert
+SIN-00240,CTR-81989,242,catastrophe naturelle,18703.24,2026-09-26,indemnisé
+SIN-00241,CTR-20730,270,incendie,29131.63,2026-09-23,en_expertise
+SIN-00242,CTR-76255,104,collision,8099.77,2026-09-05,ouvert
+SIN-00243,CTR-86434,251,dégât des eaux,322.18,2026-09-15,ouvert
+SIN-00244,CTR-83242,237,grêle,429.95,2026-05-24,ouvert
+SIN-00245,CTR-19572,24,incendie,31357.35,2026-06-23,ouvert
+SIN-00246,CTR-14159,147,incendie,1207.30,2026-03-25,ouvert
+SIN-00247,CTR-59081,196,incendie,5889.50,2026-07-13,ouvert
+SIN-00248,CTR-55582,61,bris de glace,24336.21,2026-09-13,indemnisé
+SIN-00249,CTR-49107,238,grêle,149.52,2026-09-14,indemnisé
+SIN-00250,CTR-46129,97,grêle,366.18,2026-02-02,indemnisé
+SIN-00251,CTR-41544,106,dégât des eaux,400.55,2026-02-20,ouvert
+SIN-00252,CTR-15798,206,incendie,423.94,2026-04-18,ouvert
+SIN-00253,CTR-40692,295,vol,4857.92,2026-10-20,indemnisé
+SIN-00254,CTR-78321,114,incendie,35792.78,2026-05-09,ouvert
+SIN-00255,CTR-92050,219,collision,518.78,2026-08-02,en_expertise
+SIN-00256,CTR-64568,210,bris de glace,4323.85,2026-05-13,ouvert
+SIN-00257,CTR-28920,238,dégât des eaux,3314.95,2026-09-14,en_expertise
+SIN-00258,CTR-53288,41,incendie,519.27,2026-06-03,indemnisé
+SIN-00259,CTR-89294,21,catastrophe naturelle,15127.69,2026-02-07,indemnisé
+SIN-00260,CTR-49739,8,bris de glace,3750.14,2026-04-24,ouvert
+SIN-00261,CTR-89220,105,incendie,37091.00,2026-04-18,en_expertise
+SIN-00262,CTR-50425,134,vol,2841.37,2026-09-16,en_expertise
+SIN-00263,CTR-36624,190,vol,5904.72,2026-07-02,indemnisé
+SIN-00264,CTR-86550,297,grêle,6551.48,2026-07-10,ouvert
+SIN-00265,CTR-75444,282,grêle,208.72,2026-06-09,en_expertise
+SIN-00266,CTR-56160,87,bris de glace,871.20,2026-09-16,ouvert
+SIN-00267,CTR-78674,18,catastrophe naturelle,828.53,2026-02-27,indemnisé
+SIN-00268,CTR-40334,35,grêle,10674.71,2026-03-01,ouvert
+SIN-00269,CTR-90808,248,grêle,27006.40,2026-08-01,ouvert
+SIN-00270,CTR-46010,275,vol,6568.69,2026-01-17,indemnisé
+SIN-00271,CTR-22624,269,bris de glace,619.67,2026-04-07,indemnisé
+SIN-00272,CTR-20357,192,incendie,5057.59,2026-08-19,ouvert
+SIN-00273,CTR-95686,17,dégât des eaux,891.60,2026-07-13,en_expertise
+SIN-00274,CTR-20837,256,catastrophe naturelle,515.32,2026-07-21,en_expertise
+SIN-00275,CTR-15577,118,bris de glace,9242.30,2026-10-16,en_expertise
+SIN-00276,CTR-83860,17,bris de glace,37469.88,2026-06-01,ouvert
+SIN-00277,CTR-20084,154,bris de glace,4736.50,2026-10-08,indemnisé
+SIN-00278,CTR-60311,72,catastrophe naturelle,2884.70,2026-02-17,indemnisé
+SIN-00279,CTR-54642,204,catastrophe naturelle,877.92,2026-06-01,indemnisé
+SIN-00280,CTR-82487,193,incendie,5962.19,2026-03-22,indemnisé
+SIN-00281,CTR-19634,43,vol,608.18,2026-03-13,indemnisé
+SIN-00282,CTR-23965,47,dégât des eaux,1686.81,2026-05-15,en_expertise
+SIN-00283,CTR-68830,286,collision,1421.38,2026-09-14,ouvert
+SIN-00284,CTR-52523,198,dégât des eaux,9164.18,2026-05-14,en_expertise
+SIN-00285,CTR-84967,267,bris de glace,710.09,2026-07-06,ouvert
+SIN-00286,CTR-66973,142,incendie,271.27,2026-05-16,ouvert
+SIN-00287,CTR-87831,101,incendie,5715.53,2026-02-05,en_expertise
+SIN-00288,CTR-53193,226,vol,2918.03,2026-07-27,indemnisé
+SIN-00289,CTR-36326,246,vol,16902.62,2026-03-13,en_expertise
+SIN-00290,CTR-41775,167,incendie,22694.25,2026-05-27,en_expertise
+SIN-00291,CTR-33583,282,dégât des eaux,12793.20,2026-08-23,ouvert
+SIN-00292,CTR-98208,256,bris de glace,2385.79,2026-05-08,en_expertise
+SIN-00293,CTR-68860,246,collision,606.45,2026-07-18,indemnisé
+SIN-00294,CTR-57124,275,collision,834.21,2026-02-04,ouvert
+SIN-00295,CTR-83822,205,catastrophe naturelle,605.54,2026-06-26,en_expertise
+SIN-00296,CTR-77999,286,collision,13548.04,2026-10-08,en_expertise
+SIN-00297,CTR-75597,78,vol,29104.89,2026-01-16,ouvert
+SIN-00298,CTR-28569,179,vol,8919.06,2026-06-15,ouvert
+SIN-00299,CTR-69303,164,dégât des eaux,9319.18,2026-05-02,indemnisé
+SIN-00300,CTR-31542,125,collision,28030.98,2026-03-18,ouvert
+SIN-00301,CTR-92543,95,bris de glace,3074.48,2026-07-13,ouvert
+SIN-00302,CTR-60965,3,grêle,5403.80,2026-04-07,en_expertise
+SIN-00303,CTR-80371,96,vol,687.00,2026-06-07,en_expertise
+SIN-00304,CTR-51078,199,collision,22642.46,2026-07-19,ouvert
+SIN-00305,CTR-48986,44,grêle,26990.33,2026-03-11,ouvert
+SIN-00306,CTR-76954,199,incendie,245.17,2026-10-05,indemnisé
+SIN-00307,CTR-94575,89,collision,27607.06,2026-03-16,en_expertise
+SIN-00308,CTR-57059,5,incendie,160.66,2026-03-07,en_expertise
+SIN-00309,CTR-74451,213,grêle,22828.97,2026-08-16,ouvert
+SIN-00310,CTR-14285,141,bris de glace,1057.39,2026-09-10,ouvert
+SIN-00311,CTR-82053,262,dégât des eaux,3784.82,2026-10-04,en_expertise
+SIN-00312,CTR-67850,280,bris de glace,706.60,2026-07-04,indemnisé
+SIN-00313,CTR-68947,135,vol,753.86,2026-02-15,ouvert
+SIN-00314,CTR-55957,220,bris de glace,33563.89,2026-10-05,ouvert
+SIN-00315,CTR-46842,276,bris de glace,25382.53,2026-06-23,en_expertise
+SIN-00316,CTR-22481,70,catastrophe naturelle,35172.57,2026-07-02,en_expertise
+SIN-00317,CTR-29168,165,catastrophe naturelle,785.66,2026-04-25,indemnisé
+SIN-00318,CTR-64293,193,incendie,27501.67,2026-02-21,ouvert
+SIN-00319,CTR-69597,250,vol,4723.99,2026-10-01,indemnisé
+SIN-00320,CTR-56952,33,catastrophe naturelle,27584.58,2026-09-13,ouvert
+SIN-00321,CTR-47171,173,collision,5106.72,2026-10-05,indemnisé
+SIN-00322,CTR-16021,51,grêle,773.08,2026-08-01,ouvert
+SIN-00323,CTR-36518,68,grêle,1705.72,2026-05-06,en_expertise
+SIN-00324,CTR-95054,85,dégât des eaux,8802.30,2026-07-21,en_expertise
+SIN-00325,CTR-22475,1,bris de glace,664.35,2026-08-03,ouvert
+SIN-00326,CTR-55032,62,catastrophe naturelle,550.56,2026-07-23,ouvert
+SIN-00327,CTR-23526,161,vol,450.82,2026-05-05,en_expertise
+SIN-00328,CTR-28724,36,collision,10526.97,2026-10-01,indemnisé
+SIN-00329,CTR-29840,211,collision,30562.69,2026-08-28,ouvert
+SIN-00330,CTR-60335,180,incendie,31583.15,2026-06-26,ouvert
+SIN-00331,CTR-88644,146,catastrophe naturelle,14437.68,2026-01-28,indemnisé
+SIN-00332,CTR-61347,152,grêle,793.21,2026-01-26,ouvert
+SIN-00333,CTR-19307,271,dégât des eaux,22985.81,2026-06-11,ouvert
+SIN-00334,CTR-99514,89,catastrophe naturelle,20309.36,2026-08-25,ouvert
+SIN-00335,CTR-17925,204,collision,54.35,2026-05-21,indemnisé
+SIN-00336,CTR-93956,275,collision,470.90,2026-10-05,en_expertise
+SIN-00337,CTR-80305,168,incendie,111.89,2026-10-21,indemnisé
+SIN-00338,CTR-41278,30,bris de glace,29754.98,2026-02-14,ouvert
+SIN-00339,CTR-96252,90,dégât des eaux,16515.86,2026-01-23,ouvert
+SIN-00340,CTR-77793,133,bris de glace,38402.55,2026-06-05,indemnisé
+SIN-00341,CTR-53910,220,vol,711.77,2026-09-03,en_expertise
+SIN-00342,CTR-76949,185,dégât des eaux,3840.92,2026-08-28,indemnisé
+SIN-00343,CTR-98358,60,bris de glace,32293.18,2026-09-01,ouvert
+SIN-00344,CTR-60197,77,bris de glace,962.67,2026-01-18,indemnisé
+SIN-00345,CTR-51934,139,catastrophe naturelle,3038.78,2026-02-19,en_expertise
+SIN-00346,CTR-77603,24,incendie,142.68,2026-02-15,en_expertise
+SIN-00347,CTR-11044,189,bris de glace,2484.56,2026-05-19,en_expertise
+SIN-00348,CTR-35614,280,catastrophe naturelle,2137.18,2026-04-05,ouvert
+SIN-00349,CTR-11257,172,dégât des eaux,24412.54,2026-07-28,indemnisé
+SIN-00350,CTR-65026,252,dégât des eaux,665.40,2026-03-23,en_expertise
+SIN-00351,CTR-64140,191,incendie,36507.77,2026-02-19,ouvert
+SIN-00352,CTR-84425,32,incendie,19407.94,2026-03-08,en_expertise
+SIN-00353,CTR-52762,163,incendie,33227.77,2026-05-08,ouvert
+SIN-00354,CTR-30369,55,bris de glace,851.46,2026-08-15,en_expertise
+SIN-00355,CTR-69233,158,incendie,389.60,2026-05-28,ouvert
+SIN-00356,CTR-89076,21,bris de glace,16343.31,2026-06-05,ouvert
+SIN-00357,CTR-98759,154,vol,651.60,2026-03-01,en_expertise
+SIN-00358,CTR-70560,53,catastrophe naturelle,774.96,2026-03-04,ouvert
+SIN-00359,CTR-62505,191,grêle,93.04,2026-02-19,indemnisé
+SIN-00360,CTR-35919,228,catastrophe naturelle,262.59,2026-03-03,en_expertise
+SIN-00361,CTR-66774,203,incendie,7721.68,2026-01-13,indemnisé
+SIN-00362,CTR-46681,229,bris de glace,2705.11,2026-01-20,indemnisé
+SIN-00363,CTR-72787,32,dégât des eaux,22962.31,2026-05-13,ouvert
+SIN-00364,CTR-92674,279,catastrophe naturelle,400.54,2026-01-13,indemnisé
+SIN-00365,CTR-75849,165,incendie,22479.10,2026-05-06,ouvert
+SIN-00366,CTR-17679,242,collision,2017.00,2026-06-25,indemnisé
+SIN-00367,CTR-41608,137,collision,9404.57,2026-01-25,ouvert
+SIN-00368,CTR-33081,122,collision,535.10,2026-06-26,indemnisé
+SIN-00369,CTR-56095,291,collision,6959.02,2026-03-19,ouvert
+SIN-00370,CTR-50508,90,incendie,38993.18,2026-01-03,ouvert
+SIN-00371,CTR-53481,104,catastrophe naturelle,240.06,2026-03-11,indemnisé
+SIN-00372,CTR-12872,76,collision,192.62,2026-03-25,ouvert
+SIN-00373,CTR-96787,203,collision,5289.41,2026-02-11,en_expertise
+SIN-00374,CTR-93789,250,grêle,5876.89,2026-06-06,indemnisé
+SIN-00375,CTR-39260,90,incendie,4437.16,2026-05-24,indemnisé
+SIN-00376,CTR-85082,201,catastrophe naturelle,6061.13,2026-10-02,ouvert
+SIN-00377,CTR-93839,290,dégât des eaux,558.05,2026-08-05,en_expertise
+SIN-00378,CTR-93386,46,catastrophe naturelle,681.00,2026-06-15,ouvert
+SIN-00379,CTR-24160,1,dégât des eaux,2172.66,2026-07-15,indemnisé
+SIN-00380,CTR-56036,280,incendie,1748.33,2026-02-27,en_expertise
+SIN-00381,CTR-31319,232,dégât des eaux,718.31,2026-01-10,ouvert
+SIN-00382,CTR-59212,83,grêle,314.10,2026-02-18,ouvert
+SIN-00383,CTR-14062,221,grêle,36369.69,2026-03-20,en_expertise
+SIN-00384,CTR-63645,284,grêle,175.11,2026-09-09,indemnisé
+SIN-00385,CTR-82045,252,bris de glace,7687.61,2026-01-12,ouvert
+SIN-00386,CTR-72957,103,dégât des eaux,28508.69,2026-01-07,ouvert
+SIN-00387,CTR-50416,204,incendie,588.84,2026-08-22,en_expertise
+SIN-00388,CTR-58418,96,incendie,3675.04,2026-01-09,en_expertise
+SIN-00389,CTR-29808,50,dégât des eaux,439.95,2026-06-26,indemnisé
+SIN-00390,CTR-60738,268,incendie,396.03,2026-09-22,en_expertise
+SIN-00391,CTR-14551,258,collision,2101.77,2026-09-26,indemnisé
+SIN-00392,CTR-32659,86,bris de glace,4063.39,2026-04-05,ouvert
+SIN-00393,CTR-29382,133,vol,20803.37,2026-02-03,en_expertise
+SIN-00394,CTR-70051,7,catastrophe naturelle,35125.22,2026-10-19,indemnisé
+SIN-00395,CTR-87061,299,catastrophe naturelle,11087.84,2026-02-04,indemnisé
+SIN-00396,CTR-63856,136,incendie,4907.30,2026-08-19,indemnisé
+SIN-00397,CTR-89777,206,dégât des eaux,19701.11,2026-07-11,indemnisé
+SIN-00398,CTR-12651,173,catastrophe naturelle,4703.32,2026-05-10,en_expertise
+SIN-00399,CTR-27614,154,grêle,764.85,2026-08-25,en_expertise
+SIN-00400,CTR-67896,109,catastrophe naturelle,271.70,2026-07-24,en_expertise
+SIN-00401,CTR-30836,34,vol,33914.59,2026-09-13,ouvert
+SIN-00402,CTR-35265,103,catastrophe naturelle,711.24,2026-01-08,ouvert
+SIN-00403,CTR-58280,238,collision,5581.96,2026-07-21,ouvert
+SIN-00404,CTR-33276,243,collision,2133.88,2026-09-12,en_expertise
+SIN-00405,CTR-21847,146,dégât des eaux,31464.68,2026-07-02,ouvert
+SIN-00406,CTR-94853,116,grêle,774.29,2026-04-09,indemnisé
+SIN-00407,CTR-11166,243,bris de glace,32530.32,2026-03-20,ouvert
+SIN-00408,CTR-94245,141,incendie,38062.17,2026-07-28,en_expertise
+SIN-00409,CTR-91737,204,collision,16272.93,2026-02-01,indemnisé
+SIN-00410,CTR-94848,145,vol,34538.87,2026-02-16,ouvert
+SIN-00411,CTR-44229,153,bris de glace,2310.06,2026-03-17,ouvert
+SIN-00412,CTR-62965,164,grêle,33280.37,2026-03-24,ouvert
+SIN-00413,CTR-63031,199,grêle,5987.09,2026-01-19,indemnisé
+SIN-00414,CTR-39145,274,grêle,17667.68,2026-08-22,en_expertise
+SIN-00415,CTR-33741,151,dégât des eaux,34581.72,2026-08-05,indemnisé
+SIN-00416,CTR-99091,172,grêle,262.44,2026-02-08,en_expertise
+SIN-00417,CTR-58717,134,collision,5344.30,2026-05-15,ouvert
+SIN-00418,CTR-19334,242,bris de glace,25841.54,2026-09-04,indemnisé
+SIN-00419,CTR-28004,103,vol,368.24,2026-07-19,en_expertise
+SIN-00420,CTR-73908,171,grêle,163.17,2026-03-11,indemnisé
+SIN-00421,CTR-85534,82,incendie,89.89,2026-02-05,indemnisé
+SIN-00422,CTR-60242,3,dégât des eaux,3089.99,2026-09-07,indemnisé
+SIN-00423,CTR-34979,10,grêle,16955.25,2026-01-21,indemnisé
+SIN-00424,CTR-23462,197,collision,253.99,2026-10-10,ouvert
+SIN-00425,CTR-78195,269,vol,1133.16,2026-07-22,ouvert
+SIN-00426,CTR-31611,207,dégât des eaux,334.75,2026-04-08,indemnisé
+SIN-00427,CTR-32149,64,vol,6745.05,2026-01-13,indemnisé
+SIN-00428,CTR-96765,56,grêle,259.98,2026-01-02,indemnisé
+SIN-00429,CTR-72180,79,bris de glace,3166.00,2026-01-10,en_expertise
+SIN-00430,CTR-27978,215,catastrophe naturelle,15179.22,2026-02-17,indemnisé
+SIN-00431,CTR-36037,103,catastrophe naturelle,2341.80,2026-05-27,indemnisé
+SIN-00432,CTR-15164,281,incendie,876.88,2026-04-23,en_expertise
+SIN-00433,CTR-85255,253,bris de glace,324.32,2026-02-25,indemnisé
+SIN-00434,CTR-40298,234,vol,36762.50,2026-05-15,ouvert
+SIN-00435,CTR-57214,161,incendie,1790.98,2026-02-04,ouvert
+SIN-00436,CTR-56861,225,collision,1605.81,2026-05-24,ouvert
+SIN-00437,CTR-69839,140,catastrophe naturelle,2647.89,2026-07-23,en_expertise
+SIN-00438,CTR-27368,31,catastrophe naturelle,727.91,2026-03-04,en_expertise
+SIN-00439,CTR-33758,195,catastrophe naturelle,3361.64,2026-06-20,ouvert
+SIN-00440,CTR-73318,250,dégât des eaux,781.82,2026-07-15,ouvert
+SIN-00441,CTR-78788,296,grêle,6420.25,2026-10-08,indemnisé
+SIN-00442,CTR-22483,222,grêle,29400.22,2026-04-16,en_expertise
+SIN-00443,CTR-90335,28,dégât des eaux,11054.25,2026-03-17,en_expertise
+SIN-00444,CTR-52026,124,vol,5334.02,2026-05-02,indemnisé
+SIN-00445,CTR-20332,236,incendie,231.53,2026-10-15,ouvert
+SIN-00446,CTR-95638,10,dégât des eaux,3180.05,2026-07-14,ouvert
+SIN-00447,CTR-91142,156,collision,9090.45,2026-09-07,indemnisé
+SIN-00448,CTR-39218,233,vol,617.47,2026-09-25,indemnisé
+SIN-00449,CTR-24945,50,catastrophe naturelle,4554.96,2026-04-01,en_expertise
+SIN-00450,CTR-78417,192,grêle,33197.03,2026-02-02,ouvert
+SIN-00451,CTR-24019,131,collision,5091.38,2026-04-07,ouvert
+SIN-00452,CTR-54293,56,catastrophe naturelle,839.99,2026-07-02,indemnisé
+SIN-00453,CTR-69950,259,bris de glace,3902.94,2026-08-01,indemnisé
+SIN-00454,CTR-73298,261,catastrophe naturelle,20715.55,2026-03-23,indemnisé
+SIN-00455,CTR-88714,165,collision,9520.83,2026-07-14,indemnisé
+SIN-00456,CTR-48557,232,catastrophe naturelle,4788.11,2026-03-05,en_expertise
+SIN-00457,CTR-81802,161,grêle,23418.02,2026-09-21,ouvert
+SIN-00458,CTR-98129,68,grêle,4083.25,2026-03-17,indemnisé
+SIN-00459,CTR-83699,246,collision,2544.15,2026-10-22,indemnisé
+SIN-00460,CTR-65363,7,collision,4714.13,2026-02-01,en_expertise
+SIN-00461,CTR-47567,129,bris de glace,164.98,2026-01-23,en_expertise
+SIN-00462,CTR-23432,288,catastrophe naturelle,3659.98,2026-04-24,indemnisé
+SIN-00463,CTR-47701,25,incendie,32666.44,2026-07-14,indemnisé
+SIN-00464,CTR-36619,227,catastrophe naturelle,3715.84,2026-04-21,indemnisé
+SIN-00465,CTR-89087,101,catastrophe naturelle,26005.10,2026-04-10,en_expertise
+SIN-00466,CTR-77350,62,incendie,192.59,2026-01-14,en_expertise
+SIN-00467,CTR-10739,170,incendie,1563.34,2026-03-02,ouvert
+SIN-00468,CTR-90689,155,incendie,32304.47,2026-10-18,en_expertise
+SIN-00469,CTR-78236,35,catastrophe naturelle,102.68,2026-09-06,en_expertise
+SIN-00470,CTR-96944,170,vol,507.05,2026-06-10,ouvert
+SIN-00471,CTR-95105,5,dégât des eaux,22145.14,2026-06-15,ouvert
+SIN-00472,CTR-99463,165,incendie,817.87,2026-02-13,en_expertise
+SIN-00473,CTR-77411,261,incendie,2342.43,2026-08-02,en_expertise
+SIN-00474,CTR-31940,276,collision,812.52,2026-01-21,ouvert
+SIN-00475,CTR-65601,54,bris de glace,13247.95,2026-09-27,indemnisé
+SIN-00476,CTR-99921,79,dégât des eaux,795.63,2026-08-23,en_expertise
+SIN-00477,CTR-83149,37,collision,1273.56,2026-04-09,en_expertise
+SIN-00478,CTR-61052,61,collision,373.71,2026-01-21,indemnisé
+SIN-00479,CTR-19514,184,collision,25910.67,2026-02-10,indemnisé
+SIN-00480,CTR-59992,203,catastrophe naturelle,1341.18,2026-01-16,ouvert
+SIN-00481,CTR-48663,74,vol,19293.75,2026-06-01,indemnisé
+SIN-00482,CTR-88204,202,collision,7420.29,2026-09-03,en_expertise
+SIN-00483,CTR-64087,263,bris de glace,220.65,2026-03-06,ouvert
+SIN-00484,CTR-84356,28,catastrophe naturelle,9897.17,2026-09-15,indemnisé
+SIN-00485,CTR-35875,298,incendie,512.71,2026-06-12,ouvert
+SIN-00486,CTR-35362,163,incendie,617.31,2026-08-11,indemnisé
+SIN-00487,CTR-57774,162,incendie,11181.43,2026-03-01,en_expertise
+SIN-00488,CTR-46264,185,bris de glace,2029.78,2026-06-16,en_expertise
+SIN-00489,CTR-33038,42,catastrophe naturelle,423.01,2026-05-28,ouvert
+SIN-00490,CTR-20022,39,dégât des eaux,30940.52,2026-09-21,ouvert
+SIN-00491,CTR-14804,283,vol,738.87,2026-09-18,en_expertise
+SIN-00492,CTR-48141,69,incendie,19344.94,2026-09-17,ouvert
+SIN-00493,CTR-99674,85,catastrophe naturelle,28531.07,2026-09-05,en_expertise
+SIN-00494,CTR-73373,184,dégât des eaux,176.93,2026-04-25,en_expertise
+SIN-00495,CTR-37102,266,catastrophe naturelle,13956.63,2026-06-13,en_expertise
+SIN-00496,CTR-52476,53,grêle,7356.76,2026-09-21,en_expertise
+SIN-00497,CTR-59369,194,vol,757.99,2026-10-21,ouvert
+SIN-00498,CTR-63194,181,catastrophe naturelle,36846.24,2026-06-16,en_expertise
+SIN-00499,CTR-31706,118,dégât des eaux,933.65,2026-09-21,en_expertise
+SIN-00500,CTR-25509,118,incendie,18315.58,2026-06-24,ouvert
+SIN-00501,CTR-94837,211,dégât des eaux,454.10,2026-04-02,ouvert
+SIN-00502,CTR-85008,76,dégât des eaux,533.20,2026-03-09,ouvert
+SIN-00503,CTR-12440,146,dégât des eaux,38954.29,2026-04-15,indemnisé
+SIN-00504,CTR-88753,74,catastrophe naturelle,5323.24,2026-10-27,ouvert
+SIN-00505,CTR-54914,233,collision,11702.54,2026-10-03,ouvert
+SIN-00506,CTR-76107,215,catastrophe naturelle,6563.13,2026-03-20,ouvert
+SIN-00507,CTR-75972,61,dégât des eaux,26393.67,2026-08-22,ouvert
+SIN-00508,CTR-95096,221,collision,6040.81,2026-07-12,ouvert
+SIN-00509,CTR-59969,180,collision,3087.68,2026-10-04,en_expertise
+SIN-00510,CTR-47128,279,incendie,155.14,2026-05-07,ouvert
+SIN-00511,CTR-78126,4,incendie,649.87,2026-04-23,en_expertise
+SIN-00512,CTR-43244,134,catastrophe naturelle,20486.43,2026-09-14,indemnisé
+SIN-00513,CTR-64162,283,catastrophe naturelle,354.45,2026-09-16,ouvert
+SIN-00514,CTR-85713,177,catastrophe naturelle,3730.05,2026-07-24,ouvert
+SIN-00515,CTR-31206,52,bris de glace,4262.34,2026-09-13,en_expertise
+SIN-00516,CTR-31068,200,grêle,728.73,2026-01-26,ouvert
+SIN-00517,CTR-18399,135,bris de glace,748.00,2026-06-03,indemnisé
+SIN-00518,CTR-96006,267,vol,39471.24,2026-10-02,ouvert
+SIN-00519,CTR-77915,147,bris de glace,12858.05,2026-01-26,indemnisé
+SIN-00520,CTR-14726,185,bris de glace,26916.46,2026-01-06,ouvert
+SIN-00521,CTR-63143,103,collision,4876.33,2026-01-24,indemnisé
+SIN-00522,CTR-86406,179,vol,15672.79,2026-05-08,indemnisé
+SIN-00523,CTR-44223,90,incendie,868.23,2026-09-04,indemnisé
+SIN-00524,CTR-43776,276,catastrophe naturelle,38198.53,2026-10-09,indemnisé
+SIN-00525,CTR-54520,235,grêle,420.78,2026-08-19,ouvert
+SIN-00526,CTR-98724,118,catastrophe naturelle,454.49,2026-06-14,en_expertise
+SIN-00527,CTR-47655,48,incendie,484.19,2026-06-03,indemnisé
+SIN-00528,CTR-45268,94,grêle,18020.29,2026-04-16,indemnisé
+SIN-00529,CTR-40042,104,catastrophe naturelle,211.71,2026-04-27,indemnisé
+SIN-00530,CTR-98580,253,collision,346.18,2026-01-25,indemnisé
+SIN-00531,CTR-74532,295,catastrophe naturelle,5224.85,2026-05-16,ouvert
+SIN-00532,CTR-85584,66,dégât des eaux,886.58,2026-09-26,en_expertise
+SIN-00533,CTR-99959,90,incendie,3657.92,2026-02-23,indemnisé
+SIN-00534,CTR-59732,298,dégât des eaux,435.66,2026-06-12,indemnisé
+SIN-00535,CTR-71780,176,vol,1854.48,2026-03-16,en_expertise
+SIN-00536,CTR-46651,231,bris de glace,4473.63,2026-10-05,indemnisé
+SIN-00537,CTR-82789,222,catastrophe naturelle,629.97,2026-07-07,ouvert
+SIN-00538,CTR-33148,216,incendie,728.03,2026-03-28,indemnisé
+SIN-00539,CTR-42895,288,catastrophe naturelle,4574.86,2026-10-02,en_expertise
+SIN-00540,CTR-72460,50,incendie,1733.04,2026-06-09,en_expertise
+SIN-00541,CTR-12599,211,dégât des eaux,3743.21,2026-06-28,indemnisé
+SIN-00542,CTR-80574,90,catastrophe naturelle,25580.41,2026-05-12,en_expertise
+SIN-00543,CTR-59947,147,incendie,618.95,2026-03-28,ouvert
+SIN-00544,CTR-84925,208,catastrophe naturelle,20341.76,2026-02-03,ouvert
+SIN-00545,CTR-45058,203,vol,28202.45,2026-08-25,en_expertise
+SIN-00546,CTR-34102,12,bris de glace,683.19,2026-04-22,en_expertise
+SIN-00547,CTR-62041,53,dégât des eaux,848.78,2026-02-16,indemnisé
+SIN-00548,CTR-23622,135,collision,86.29,2026-03-03,indemnisé
+SIN-00549,CTR-47247,227,grêle,13798.10,2026-03-05,indemnisé
+SIN-00550,CTR-72410,240,catastrophe naturelle,1045.71,2026-09-09,indemnisé
+SIN-00551,CTR-87441,234,grêle,422.57,2026-10-14,indemnisé
+SIN-00552,CTR-80735,117,catastrophe naturelle,3622.30,2026-02-15,en_expertise
+SIN-00553,CTR-78592,70,vol,354.57,2026-05-16,indemnisé
+SIN-00554,CTR-49270,5,catastrophe naturelle,5602.65,2026-07-26,en_expertise
+SIN-00555,CTR-63967,288,incendie,553.42,2026-07-08,ouvert
+SIN-00556,CTR-44469,41,incendie,654.85,2026-04-17,indemnisé
+SIN-00557,CTR-79722,138,incendie,15679.01,2026-04-28,ouvert
+SIN-00558,CTR-69345,140,grêle,27654.35,2026-10-16,ouvert
+SIN-00559,CTR-34371,53,vol,315.75,2026-05-05,indemnisé
+SIN-00560,CTR-74694,112,vol,417.04,2026-07-10,en_expertise
+SIN-00561,CTR-20515,75,dégât des eaux,3264.79,2026-05-25,en_expertise
+SIN-00562,CTR-60014,7,dégât des eaux,3297.75,2026-04-13,en_expertise
+SIN-00563,CTR-22315,267,grêle,12772.12,2026-04-16,en_expertise
+SIN-00564,CTR-15529,282,collision,16984.15,2026-02-09,en_expertise
+SIN-00565,CTR-38545,58,bris de glace,36175.67,2026-07-11,ouvert
+SIN-00566,CTR-11170,22,collision,183.93,2026-08-23,indemnisé
+SIN-00567,CTR-21980,174,catastrophe naturelle,4831.06,2026-01-02,en_expertise
+SIN-00568,CTR-73942,120,vol,594.33,2026-09-26,indemnisé
+SIN-00569,CTR-12798,194,vol,690.76,2026-03-09,ouvert
+SIN-00570,CTR-74237,98,collision,16020.30,2026-03-18,en_expertise
+SIN-00571,CTR-82682,83,dégât des eaux,35500.50,2026-09-05,en_expertise
+SIN-00572,CTR-93627,260,incendie,294.28,2026-03-01,indemnisé
+SIN-00573,CTR-18302,276,catastrophe naturelle,14118.74,2026-07-07,indemnisé
+SIN-00574,CTR-52283,210,grêle,4805.24,2026-06-04,ouvert
+SIN-00575,CTR-33414,17,bris de glace,489.95,2026-02-16,ouvert
+SIN-00576,CTR-74213,270,collision,34434.18,2026-10-09,ouvert
+SIN-00577,CTR-95950,252,catastrophe naturelle,355.06,2026-02-15,indemnisé
+SIN-00578,CTR-58374,30,catastrophe naturelle,3745.90,2026-10-09,indemnisé
+SIN-00579,CTR-78089,50,dégât des eaux,74.96,2026-04-18,en_expertise
+SIN-00580,CTR-33448,286,grêle,14457.94,2026-09-14,indemnisé
+SIN-00581,CTR-97194,219,dégât des eaux,4156.98,2026-03-26,ouvert
+SIN-00582,CTR-88632,227,vol,28356.08,2026-06-18,en_expertise
+SIN-00583,CTR-52395,124,collision,27530.19,2026-09-07,en_expertise
+SIN-00584,CTR-68654,204,dégât des eaux,5623.35,2026-01-10,indemnisé
+SIN-00585,CTR-49365,114,bris de glace,54.02,2026-06-01,indemnisé
+SIN-00586,CTR-84922,80,dégât des eaux,23383.23,2026-01-15,en_expertise
+SIN-00587,CTR-40539,132,catastrophe naturelle,174.25,2026-05-03,indemnisé
+SIN-00588,CTR-52558,248,bris de glace,30965.04,2026-08-27,indemnisé
+SIN-00589,CTR-49373,20,grêle,9242.38,2026-10-13,ouvert
+SIN-00590,CTR-64594,62,catastrophe naturelle,5601.54,2026-04-24,indemnisé
+SIN-00591,CTR-60133,28,vol,27552.16,2026-09-02,en_expertise
+SIN-00592,CTR-30079,26,grêle,504.34,2026-07-15,indemnisé
+SIN-00593,CTR-29400,68,vol,1359.42,2026-02-16,indemnisé
+SIN-00594,CTR-75774,223,catastrophe naturelle,3695.58,2026-03-25,ouvert
+SIN-00595,CTR-35703,288,collision,19440.84,2026-09-08,ouvert
+SIN-00596,CTR-21743,58,grêle,16996.00,2026-07-14,en_expertise
+SIN-00597,CTR-49953,87,vol,339.54,2026-10-27,en_expertise
+SIN-00598,CTR-36173,192,bris de glace,575.94,2026-02-04,indemnisé
+SIN-00599,CTR-11800,176,grêle,5739.60,2026-02-10,en_expertise
+SIN-00600,CTR-36712,280,collision,445.22,2026-05-18,en_expertise
+SIN-00601,CTR-12410,193,collision,29632.42,2026-09-02,en_expertise
+SIN-00602,CTR-45557,28,incendie,32832.41,2026-01-03,en_expertise
+SIN-00603,CTR-24141,10,vol,4281.21,2026-07-08,en_expertise
+SIN-00604,CTR-88263,273,dégât des eaux,4519.41,2026-03-07,indemnisé
+SIN-00605,CTR-42426,272,vol,871.44,2026-06-16,en_expertise
+SIN-00606,CTR-91950,155,bris de glace,993.70,2026-09-09,ouvert
+SIN-00607,CTR-82737,144,bris de glace,578.18,2026-03-11,en_expertise
+SIN-00608,CTR-90274,117,incendie,18995.04,2026-04-19,ouvert
+SIN-00609,CTR-81071,68,bris de glace,2493.15,2026-03-19,indemnisé
+SIN-00610,CTR-78656,70,incendie,10695.73,2026-03-21,indemnisé
+SIN-00611,CTR-25517,95,vol,24949.57,2026-03-24,ouvert
+SIN-00612,CTR-49760,227,grêle,5388.67,2026-05-05,ouvert
+SIN-00613,CTR-90864,137,collision,31923.21,2026-10-20,ouvert
+SIN-00614,CTR-72469,69,collision,552.87,2026-10-16,indemnisé
+SIN-00615,CTR-28024,84,bris de glace,1838.28,2026-04-02,en_expertise
+SIN-00616,CTR-39170,104,catastrophe naturelle,976.57,2026-04-03,ouvert
+SIN-00617,CTR-52584,235,bris de glace,5926.70,2026-07-13,ouvert
+SIN-00618,CTR-90151,293,collision,5104.08,2026-09-17,indemnisé
+SIN-00619,CTR-69886,22,bris de glace,4913.29,2026-09-18,en_expertise
+SIN-00620,CTR-16461,98,vol,19171.53,2026-08-13,en_expertise
+SIN-00621,CTR-90364,28,grêle,2358.16,2026-09-05,en_expertise
+SIN-00622,CTR-33562,300,grêle,753.71,2026-09-05,en_expertise
+SIN-00623,CTR-36467,233,dégât des eaux,12081.87,2026-05-11,indemnisé
+SIN-00624,CTR-26193,47,dégât des eaux,11575.80,2026-08-21,en_expertise
+SIN-00625,CTR-90225,82,incendie,30713.71,2026-09-13,ouvert
+SIN-00626,CTR-29672,84,catastrophe naturelle,25226.71,2026-03-06,indemnisé
+SIN-00627,CTR-47851,93,dégât des eaux,2471.12,2026-03-07,ouvert
+SIN-00628,CTR-81237,3,collision,2190.87,2026-08-08,ouvert
+SIN-00629,CTR-88802,4,bris de glace,546.42,2026-09-09,indemnisé
+SIN-00630,CTR-29432,29,grêle,580.63,2026-06-02,ouvert
+SIN-00631,CTR-53399,45,dégât des eaux,4301.68,2026-02-14,ouvert
+SIN-00632,CTR-87983,294,catastrophe naturelle,28471.44,2026-09-06,en_expertise
+SIN-00633,CTR-52312,189,incendie,2736.96,2026-02-25,en_expertise
+SIN-00634,CTR-45968,169,collision,765.25,2026-07-17,ouvert
+SIN-00635,CTR-92441,271,dégât des eaux,9716.28,2026-08-24,indemnisé
+SIN-00636,CTR-89802,163,vol,4919.74,2026-09-19,indemnisé
+SIN-00637,CTR-92818,255,incendie,25129.57,2026-03-20,ouvert
+SIN-00638,CTR-70933,61,grêle,649.38,2026-04-26,indemnisé
+SIN-00639,CTR-93558,109,dégât des eaux,17348.94,2026-04-23,en_expertise
+SIN-00640,CTR-52457,4,dégât des eaux,16209.66,2026-06-11,en_expertise
+SIN-00641,CTR-35430,170,catastrophe naturelle,662.98,2026-06-22,en_expertise
+SIN-00642,CTR-30366,236,catastrophe naturelle,4966.00,2026-09-11,en_expertise
+SIN-00643,CTR-49235,290,grêle,31247.88,2026-06-18,indemnisé
+SIN-00644,CTR-18678,77,vol,3844.73,2026-01-11,en_expertise
+SIN-00645,CTR-34560,60,catastrophe naturelle,5196.27,2026-05-23,en_expertise
+SIN-00646,CTR-58704,232,catastrophe naturelle,650.46,2026-05-07,indemnisé
+SIN-00647,CTR-22137,228,collision,299.99,2026-01-26,en_expertise
+SIN-00648,CTR-78632,159,catastrophe naturelle,1685.80,2026-06-05,ouvert
+SIN-00649,CTR-36894,19,incendie,747.04,2026-07-23,indemnisé
+SIN-00650,CTR-21413,171,incendie,7497.02,2026-01-04,indemnisé
+SIN-00651,CTR-93735,108,vol,4702.33,2026-04-07,en_expertise
+SIN-00652,CTR-45737,77,bris de glace,277.92,2026-05-04,ouvert
+SIN-00653,CTR-55916,282,vol,9480.76,2026-05-05,indemnisé
+SIN-00654,CTR-90381,174,collision,3827.82,2026-08-02,ouvert
+SIN-00655,CTR-17051,45,incendie,5506.79,2026-07-06,indemnisé
+SIN-00656,CTR-68436,183,vol,34429.93,2026-06-27,ouvert
+SIN-00657,CTR-84421,68,dégât des eaux,4321.44,2026-08-04,en_expertise
+SIN-00658,CTR-40368,115,bris de glace,4186.53,2026-10-09,en_expertise
+SIN-00659,CTR-69412,250,dégât des eaux,4468.03,2026-02-16,ouvert
+SIN-00660,CTR-89225,295,bris de glace,3252.33,2026-09-04,en_expertise
+SIN-00661,CTR-19296,155,collision,17079.57,2026-08-13,indemnisé
+SIN-00662,CTR-60307,34,vol,4066.46,2026-04-27,indemnisé
+SIN-00663,CTR-81372,121,bris de glace,4900.00,2026-02-24,indemnisé
+SIN-00664,CTR-52647,285,dégât des eaux,3381.81,2026-08-06,en_expertise
+SIN-00665,CTR-59664,168,incendie,9697.32,2026-01-03,ouvert
+SIN-00666,CTR-10024,76,grêle,36710.70,2026-03-15,indemnisé
+SIN-00667,CTR-99327,163,vol,290.69,2026-10-26,indemnisé
+SIN-00668,CTR-21703,299,dégât des eaux,5711.00,2026-10-17,en_expertise
+SIN-00669,CTR-16963,1,grêle,8121.96,2026-09-27,en_expertise
+SIN-00670,CTR-87353,202,grêle,2339.27,2026-06-23,en_expertise
+SIN-00671,CTR-72242,72,bris de glace,389.19,2026-09-13,en_expertise
+SIN-00672,CTR-26455,69,dégât des eaux,39913.51,2026-02-21,ouvert
+SIN-00673,CTR-21097,71,grêle,163.84,2026-07-28,en_expertise
+SIN-00674,CTR-33566,233,collision,37630.57,2026-07-18,en_expertise
+SIN-00675,CTR-85751,256,catastrophe naturelle,370.85,2026-04-23,indemnisé
+SIN-00676,CTR-14963,291,incendie,271.56,2026-06-04,indemnisé
+SIN-00677,CTR-78997,144,incendie,10830.97,2026-09-03,indemnisé
+SIN-00678,CTR-96997,40,grêle,22063.35,2026-09-26,indemnisé
+SIN-00679,CTR-71455,233,collision,308.75,2026-08-19,indemnisé
+SIN-00680,CTR-47907,86,dégât des eaux,2699.86,2026-10-24,en_expertise
+SIN-00681,CTR-85778,87,collision,3774.90,2026-01-22,en_expertise
+SIN-00682,CTR-26622,259,dégât des eaux,735.65,2026-05-09,ouvert
+SIN-00683,CTR-24621,90,collision,14736.49,2026-03-22,en_expertise
+SIN-00684,CTR-73559,93,catastrophe naturelle,358.00,2026-09-28,ouvert
+SIN-00685,CTR-75004,212,catastrophe naturelle,334.85,2026-07-08,indemnisé
+SIN-00686,CTR-55229,28,grêle,13169.13,2026-05-25,ouvert
+SIN-00687,CTR-79798,120,incendie,3266.48,2026-07-16,en_expertise
+SIN-00688,CTR-60070,162,collision,5338.42,2026-01-04,indemnisé
+SIN-00689,CTR-45728,172,vol,20680.72,2026-05-26,ouvert
+SIN-00690,CTR-41692,100,collision,21677.69,2026-06-22,indemnisé
+SIN-00691,CTR-18906,7,incendie,894.16,2026-02-17,ouvert
+SIN-00692,CTR-35307,18,dégât des eaux,2692.73,2026-10-03,ouvert
+SIN-00693,CTR-93634,63,grêle,34405.61,2026-02-03,indemnisé
+SIN-00694,CTR-34217,57,grêle,36596.51,2026-03-09,en_expertise
+SIN-00695,CTR-65965,166,vol,5674.53,2026-03-25,ouvert
+SIN-00696,CTR-43847,136,bris de glace,278.47,2026-08-03,en_expertise
+SIN-00697,CTR-74494,56,bris de glace,19349.57,2026-09-25,en_expertise
+SIN-00698,CTR-43947,53,dégât des eaux,37028.71,2026-02-03,indemnisé
+SIN-00699,CTR-29510,1,dégât des eaux,4863.91,2026-07-09,ouvert
+SIN-00700,CTR-74314,245,incendie,25537.77,2026-07-28,indemnisé
+SIN-00701,CTR-60387,247,dégât des eaux,711.61,2026-10-18,en_expertise
+SIN-00702,CTR-21883,188,collision,7876.62,2026-06-03,en_expertise
+SIN-00703,CTR-15155,197,grêle,12906.10,2026-04-10,indemnisé
+SIN-00704,CTR-21123,225,grêle,1444.52,2026-04-05,ouvert
+SIN-00705,CTR-60956,33,catastrophe naturelle,4570.67,2026-09-21,en_expertise
+SIN-00706,CTR-14855,174,dégât des eaux,469.73,2026-06-26,indemnisé
+SIN-00707,CTR-78566,235,grêle,33441.53,2026-09-05,indemnisé
+SIN-00708,CTR-74080,10,incendie,538.24,2026-10-02,ouvert
+SIN-00709,CTR-50283,50,incendie,643.12,2026-10-06,indemnisé
+SIN-00710,CTR-90691,113,dégât des eaux,9882.11,2026-04-14,en_expertise
+SIN-00711,CTR-25833,295,collision,5909.18,2026-03-11,ouvert
+SIN-00712,CTR-45899,73,catastrophe naturelle,697.24,2026-07-06,indemnisé
+SIN-00713,CTR-15334,69,dégât des eaux,14283.92,2026-10-13,ouvert
+SIN-00714,CTR-21683,146,incendie,53.44,2026-08-23,ouvert
+SIN-00715,CTR-41359,90,collision,4163.11,2026-01-20,ouvert
+SIN-00716,CTR-55593,215,dégât des eaux,4021.45,2026-09-08,ouvert
+SIN-00717,CTR-80742,260,bris de glace,3604.02,2026-08-25,indemnisé
+SIN-00718,CTR-99816,243,incendie,607.02,2026-03-06,indemnisé
+SIN-00719,CTR-66973,129,vol,833.50,2026-10-26,en_expertise
+SIN-00720,CTR-30715,15,incendie,77.25,2026-09-04,ouvert
+SIN-00721,CTR-64927,102,grêle,4579.16,2026-06-08,ouvert
+SIN-00722,CTR-59221,113,dégât des eaux,320.47,2026-08-19,en_expertise
+SIN-00723,CTR-69636,92,incendie,13349.62,2026-06-05,en_expertise
+SIN-00724,CTR-54025,66,dégât des eaux,659.05,2026-10-02,en_expertise
+SIN-00725,CTR-55033,113,vol,157.39,2026-10-06,indemnisé
+SIN-00726,CTR-40107,45,incendie,25656.13,2026-09-16,ouvert
+SIN-00727,CTR-66113,127,bris de glace,15491.81,2026-06-14,indemnisé
+SIN-00728,CTR-10665,214,dégât des eaux,38172.58,2026-01-16,indemnisé
+SIN-00729,CTR-22844,232,incendie,1071.46,2026-04-03,indemnisé
+SIN-00730,CTR-27394,184,vol,687.65,2026-04-21,ouvert
+SIN-00731,CTR-84760,299,dégât des eaux,4312.08,2026-08-15,ouvert
+SIN-00732,CTR-92157,238,grêle,2967.34,2026-01-28,indemnisé
+SIN-00733,CTR-48874,219,catastrophe naturelle,100.80,2026-05-23,indemnisé
+SIN-00734,CTR-91324,172,grêle,506.49,2026-01-17,indemnisé
+SIN-00735,CTR-91151,21,vol,1162.97,2026-06-06,indemnisé
+SIN-00736,CTR-28141,172,bris de glace,520.56,2026-09-04,indemnisé
+SIN-00737,CTR-37498,116,vol,25724.06,2026-06-09,indemnisé
+SIN-00738,CTR-69298,249,collision,2313.44,2026-09-27,ouvert
+SIN-00739,CTR-69241,189,catastrophe naturelle,3612.71,2026-02-07,en_expertise
+SIN-00740,CTR-24334,85,vol,115.09,2026-02-23,ouvert
+SIN-00741,CTR-12974,151,incendie,23703.38,2026-09-05,en_expertise
+SIN-00742,CTR-34780,33,dégât des eaux,3163.69,2026-04-27,indemnisé
+SIN-00743,CTR-52769,249,collision,17654.94,2026-09-27,indemnisé
+SIN-00744,CTR-32509,134,bris de glace,2450.82,2026-08-12,en_expertise
+SIN-00745,CTR-31805,83,grêle,1141.33,2026-09-10,ouvert
+SIN-00746,CTR-30117,83,bris de glace,29557.22,2026-02-02,en_expertise
+SIN-00747,CTR-83726,18,grêle,534.09,2026-06-12,ouvert
+SIN-00748,CTR-25923,13,incendie,3653.32,2026-08-25,ouvert
+SIN-00749,CTR-81584,260,vol,11305.81,2026-05-16,en_expertise
+SIN-00750,CTR-29278,290,grêle,39798.24,2026-08-11,indemnisé
+SIN-00751,CTR-82215,60,vol,7362.75,2026-01-13,indemnisé
+SIN-00752,CTR-89711,100,collision,763.15,2026-09-08,en_expertise
+SIN-00753,CTR-98022,45,collision,34881.35,2026-07-07,en_expertise
+SIN-00754,CTR-57325,204,bris de glace,38075.67,2026-07-12,en_expertise
+SIN-00755,CTR-83535,45,bris de glace,2351.72,2026-08-24,en_expertise
+SIN-00756,CTR-64289,72,catastrophe naturelle,2372.03,2026-10-20,ouvert
+SIN-00757,CTR-53963,34,collision,39605.00,2026-07-03,ouvert
+SIN-00758,CTR-70570,291,catastrophe naturelle,20093.48,2026-03-07,ouvert
+SIN-00759,CTR-86704,156,incendie,2376.26,2026-09-24,en_expertise
+SIN-00760,CTR-93958,242,dégât des eaux,4935.22,2026-05-14,ouvert
+SIN-00761,CTR-46335,253,dégât des eaux,463.02,2026-10-24,en_expertise
+SIN-00762,CTR-99903,244,grêle,35523.76,2026-02-12,indemnisé
+SIN-00763,CTR-17669,75,vol,14824.26,2026-08-23,ouvert
+SIN-00764,CTR-56659,25,vol,18279.56,2026-05-17,indemnisé
+SIN-00765,CTR-22387,86,collision,845.23,2026-06-28,en_expertise
+SIN-00766,CTR-57516,50,collision,16236.46,2026-10-12,ouvert
+SIN-00767,CTR-64000,175,bris de glace,3542.67,2026-02-07,ouvert
+SIN-00768,CTR-90403,270,catastrophe naturelle,33033.63,2026-09-23,indemnisé
+SIN-00769,CTR-25278,68,dégât des eaux,643.95,2026-08-12,en_expertise
+SIN-00770,CTR-78566,176,bris de glace,21025.89,2026-05-01,indemnisé
+SIN-00771,CTR-39697,158,bris de glace,740.53,2026-04-05,ouvert
+SIN-00772,CTR-73472,221,dégât des eaux,405.33,2026-04-04,ouvert
+SIN-00773,CTR-43162,23,dégât des eaux,722.03,2026-05-22,ouvert
+SIN-00774,CTR-87018,103,bris de glace,688.91,2026-06-01,ouvert
+SIN-00775,CTR-55591,181,bris de glace,15430.77,2026-09-25,indemnisé
+SIN-00776,CTR-11832,271,bris de glace,8323.46,2026-04-10,ouvert
+SIN-00777,CTR-38051,259,catastrophe naturelle,815.43,2026-08-12,indemnisé
+SIN-00778,CTR-56507,195,incendie,546.87,2026-04-17,ouvert
+SIN-00779,CTR-24459,267,bris de glace,4783.19,2026-08-25,en_expertise
+SIN-00780,CTR-74711,60,incendie,3741.37,2026-05-15,indemnisé
+SIN-00781,CTR-82602,209,vol,673.11,2026-07-07,ouvert
+SIN-00782,CTR-33500,7,grêle,4992.43,2026-08-22,ouvert
+SIN-00783,CTR-28791,203,incendie,380.88,2026-10-04,indemnisé
+SIN-00784,CTR-54385,103,collision,835.75,2026-07-04,ouvert
+SIN-00785,CTR-86273,140,catastrophe naturelle,15469.62,2026-07-12,en_expertise
+SIN-00786,CTR-46554,76,catastrophe naturelle,39575.79,2026-08-04,ouvert
+SIN-00787,CTR-13895,51,grêle,255.59,2026-01-27,ouvert
+SIN-00788,CTR-99024,168,bris de glace,12089.25,2026-05-20,indemnisé
+SIN-00789,CTR-71082,104,vol,1290.24,2026-08-16,indemnisé
+SIN-00790,CTR-12316,17,incendie,35228.86,2026-02-13,en_expertise
+SIN-00791,CTR-33182,286,grêle,310.52,2026-05-23,ouvert
+SIN-00792,CTR-24336,292,grêle,1585.89,2026-08-22,indemnisé
+SIN-00793,CTR-76412,29,incendie,629.42,2026-05-16,indemnisé
+SIN-00794,CTR-52006,32,dégât des eaux,4046.39,2026-10-02,ouvert
+SIN-00795,CTR-91940,175,incendie,759.76,2026-02-14,en_expertise
+SIN-00796,CTR-42455,121,grêle,893.07,2026-05-19,ouvert
+SIN-00797,CTR-32253,11,collision,1234.05,2026-06-02,en_expertise
+SIN-00798,CTR-44946,11,grêle,3054.61,2026-08-19,ouvert
+SIN-00799,CTR-22809,251,dégât des eaux,19270.23,2026-04-11,en_expertise
+SIN-00800,CTR-49258,187,incendie,17544.34,2026-04-16,indemnisé
+SIN-00801,CTR-38059,148,vol,34572.94,2026-01-10,indemnisé
+SIN-00802,CTR-85784,49,collision,385.74,2026-06-09,ouvert
+SIN-00803,CTR-20048,155,collision,3608.42,2026-05-14,indemnisé
+SIN-00804,CTR-77550,233,grêle,19678.23,2026-09-06,ouvert
+SIN-00805,CTR-37912,240,vol,3532.74,2026-09-26,indemnisé
+SIN-00806,CTR-92150,31,collision,37777.62,2026-04-12,en_expertise
+SIN-00807,CTR-67067,211,vol,1667.41,2026-02-21,ouvert
+SIN-00808,CTR-43612,121,incendie,767.53,2026-04-04,ouvert
+SIN-00809,CTR-73620,287,incendie,2152.49,2026-07-21,ouvert
+SIN-00810,CTR-96333,282,bris de glace,2290.83,2026-01-24,en_expertise
+SIN-00811,CTR-88852,153,catastrophe naturelle,1182.17,2026-02-14,en_expertise
+SIN-00812,CTR-28423,121,dégât des eaux,19494.43,2026-10-24,indemnisé
+SIN-00813,CTR-43004,255,dégât des eaux,34185.37,2026-04-20,ouvert
+SIN-00814,CTR-61111,121,incendie,34299.36,2026-04-05,ouvert
+SIN-00815,CTR-87264,29,incendie,5846.61,2026-09-12,indemnisé
+SIN-00816,CTR-42289,143,catastrophe naturelle,20408.56,2026-03-12,en_expertise
+SIN-00817,CTR-14562,28,grêle,6716.52,2026-04-09,indemnisé
+SIN-00818,CTR-25997,274,catastrophe naturelle,29820.97,2026-04-28,en_expertise
+SIN-00819,CTR-49438,47,catastrophe naturelle,5539.92,2026-04-10,ouvert
+SIN-00820,CTR-94466,209,catastrophe naturelle,1717.16,2026-01-09,ouvert
+SIN-00821,CTR-53610,217,catastrophe naturelle,5696.53,2026-02-27,ouvert
+SIN-00822,CTR-81791,168,incendie,17963.12,2026-01-25,ouvert
+SIN-00823,CTR-27837,2,incendie,21075.77,2026-04-21,en_expertise
+SIN-00824,CTR-95089,67,catastrophe naturelle,11365.96,2026-10-22,en_expertise
+SIN-00825,CTR-27499,134,bris de glace,22264.43,2026-10-27,en_expertise
+SIN-00826,CTR-61576,194,catastrophe naturelle,727.59,2026-10-08,ouvert
+SIN-00827,CTR-39977,46,incendie,28001.63,2026-04-09,indemnisé
+SIN-00828,CTR-44099,77,dégât des eaux,27012.14,2026-06-06,indemnisé
+SIN-00829,CTR-98291,254,dégât des eaux,4564.78,2026-04-23,ouvert
+SIN-00830,CTR-74771,196,bris de glace,5295.88,2026-07-28,ouvert
+SIN-00831,CTR-34820,215,bris de glace,15620.89,2026-07-26,ouvert
+SIN-00832,CTR-42547,190,collision,5878.25,2026-08-03,ouvert
+SIN-00833,CTR-37815,197,grêle,5344.36,2026-07-24,indemnisé
+SIN-00834,CTR-40781,242,vol,1385.93,2026-10-22,indemnisé
+SIN-00835,CTR-91219,196,vol,6182.27,2026-07-22,en_expertise
+SIN-00836,CTR-44116,87,collision,153.72,2026-08-11,en_expertise
+SIN-00837,CTR-44131,60,vol,153.45,2026-01-05,en_expertise
+SIN-00838,CTR-47083,135,collision,5157.50,2026-05-17,en_expertise
+SIN-00839,CTR-29826,285,catastrophe naturelle,1741.42,2026-08-02,ouvert
+SIN-00840,CTR-31437,240,incendie,2072.29,2026-02-16,ouvert
+SIN-00841,CTR-74616,58,catastrophe naturelle,5942.97,2026-03-04,en_expertise
+SIN-00842,CTR-76681,140,collision,120.48,2026-10-07,indemnisé
+SIN-00843,CTR-64580,40,bris de glace,898.28,2026-08-22,ouvert
+SIN-00844,CTR-25989,202,vol,29164.62,2026-10-04,en_expertise
+SIN-00845,CTR-72895,233,grêle,34243.77,2026-05-20,indemnisé
+SIN-00846,CTR-52587,292,bris de glace,5845.83,2026-04-28,ouvert
+SIN-00847,CTR-19269,281,collision,33137.00,2026-07-03,en_expertise
+SIN-00848,CTR-21690,11,catastrophe naturelle,2124.41,2026-04-06,en_expertise
+SIN-00849,CTR-30202,62,vol,31586.99,2026-08-26,en_expertise
+SIN-00850,CTR-27208,184,grêle,36726.97,2026-02-27,en_expertise
+SIN-00851,CTR-45190,289,collision,3397.08,2026-07-03,en_expertise
+SIN-00852,CTR-22182,21,collision,4030.73,2026-06-15,indemnisé
+SIN-00853,CTR-79111,269,dégât des eaux,4399.81,2026-05-15,en_expertise
+SIN-00854,CTR-99694,154,catastrophe naturelle,108.10,2026-04-17,en_expertise
+SIN-00855,CTR-77294,56,collision,294.11,2026-07-14,ouvert
+SIN-00856,CTR-43405,300,dégât des eaux,4573.58,2026-09-01,ouvert
+SIN-00857,CTR-15932,43,incendie,3260.68,2026-05-11,indemnisé
+SIN-00858,CTR-54739,96,bris de glace,4762.51,2026-03-03,indemnisé
+SIN-00859,CTR-80041,10,dégât des eaux,2222.52,2026-07-04,ouvert
+SIN-00860,CTR-88890,250,vol,29521.41,2026-10-27,indemnisé
+SIN-00861,CTR-49669,45,bris de glace,4336.40,2026-03-01,ouvert
+SIN-00862,CTR-37424,247,grêle,136.24,2026-03-21,ouvert
+SIN-00863,CTR-21284,155,catastrophe naturelle,414.78,2026-08-05,en_expertise
+SIN-00864,CTR-68361,249,incendie,36682.12,2026-01-28,en_expertise
+SIN-00865,CTR-16674,171,dégât des eaux,1926.83,2026-02-21,indemnisé
+SIN-00866,CTR-88097,284,vol,22853.91,2026-01-16,en_expertise
+SIN-00867,CTR-73950,119,grêle,26790.84,2026-01-17,ouvert
+SIN-00868,CTR-64675,243,dégât des eaux,8159.36,2026-08-20,indemnisé
+SIN-00869,CTR-35192,241,vol,4457.32,2026-08-08,indemnisé
+SIN-00870,CTR-96108,240,bris de glace,17531.20,2026-05-24,indemnisé
+SIN-00871,CTR-57219,242,catastrophe naturelle,38000.70,2026-03-20,ouvert
+SIN-00872,CTR-32713,103,bris de glace,282.91,2026-10-16,ouvert
+SIN-00873,CTR-37450,286,dégât des eaux,722.39,2026-01-12,en_expertise
+SIN-00874,CTR-14190,33,vol,34150.26,2026-07-04,indemnisé
+SIN-00875,CTR-56562,24,catastrophe naturelle,3766.11,2026-09-09,ouvert
+SIN-00876,CTR-16608,225,catastrophe naturelle,773.93,2026-08-27,ouvert
+SIN-00877,CTR-83724,22,collision,878.21,2026-02-06,indemnisé
+SIN-00878,CTR-48289,227,catastrophe naturelle,18295.71,2026-09-16,indemnisé
+SIN-00879,CTR-26119,104,incendie,788.62,2026-07-25,ouvert
+SIN-00880,CTR-32447,44,vol,17604.88,2026-06-23,en_expertise
+SIN-00881,CTR-65275,117,bris de glace,11154.78,2026-07-14,en_expertise
+SIN-00882,CTR-57418,16,incendie,23549.28,2026-03-25,ouvert
+SIN-00883,CTR-51262,206,catastrophe naturelle,3538.48,2026-03-14,ouvert
+SIN-00884,CTR-85308,30,grêle,378.21,2026-09-10,en_expertise
+SIN-00885,CTR-51116,177,dégât des eaux,4372.44,2026-05-17,indemnisé
+SIN-00886,CTR-81358,227,grêle,831.59,2026-06-26,indemnisé
+SIN-00887,CTR-80442,172,incendie,387.87,2026-03-17,indemnisé
+SIN-00888,CTR-54657,82,dégât des eaux,24760.72,2026-01-26,indemnisé
+SIN-00889,CTR-65410,259,dégât des eaux,32321.36,2026-01-27,en_expertise
+SIN-00890,CTR-26351,230,vol,10209.64,2026-10-24,ouvert
+SIN-00891,CTR-84133,274,catastrophe naturelle,33383.18,2026-10-08,en_expertise
+SIN-00892,CTR-98137,72,grêle,33712.69,2026-07-17,indemnisé
+SIN-00893,CTR-69547,51,bris de glace,2572.02,2026-07-27,en_expertise
+SIN-00894,CTR-38152,229,dégât des eaux,1217.19,2026-06-22,indemnisé
+SIN-00895,CTR-86585,256,grêle,3750.74,2026-07-15,indemnisé
+SIN-00896,CTR-28919,259,bris de glace,840.69,2026-08-23,en_expertise
+SIN-00897,CTR-37871,234,incendie,151.27,2026-01-24,ouvert
+SIN-00898,CTR-63558,57,dégât des eaux,38361.94,2026-06-19,en_expertise
+SIN-00899,CTR-49748,151,incendie,1681.85,2026-01-26,ouvert
+SIN-00900,CTR-47156,111,bris de glace,3907.08,2026-08-01,ouvert
+SIN-00901,CTR-85112,159,collision,1244.58,2026-08-11,en_expertise
+SIN-00902,CTR-76160,236,catastrophe naturelle,448.70,2026-08-22,en_expertise
+SIN-00903,CTR-97097,210,incendie,9036.71,2026-04-13,en_expertise
+SIN-00904,CTR-46356,46,catastrophe naturelle,36261.47,2026-03-23,ouvert
+SIN-00905,CTR-94562,64,grêle,30051.56,2026-09-03,ouvert
+SIN-00906,CTR-78387,97,catastrophe naturelle,31758.92,2026-08-17,ouvert
+SIN-00907,CTR-46039,106,bris de glace,143.44,2026-10-15,ouvert
+SIN-00908,CTR-74418,12,vol,733.95,2026-07-06,en_expertise
+SIN-00909,CTR-25026,51,collision,60.69,2026-03-10,ouvert
+SIN-00910,CTR-98946,87,dégât des eaux,4818.35,2026-10-11,ouvert
+SIN-00911,CTR-28672,212,vol,1198.36,2026-05-13,ouvert
+SIN-00912,CTR-74615,261,catastrophe naturelle,84.62,2026-09-13,ouvert
+SIN-00913,CTR-73461,15,incendie,271.59,2026-04-01,en_expertise
+SIN-00914,CTR-95400,65,vol,9451.32,2026-10-14,en_expertise
+SIN-00915,CTR-58929,277,bris de glace,112.16,2026-04-18,en_expertise
+SIN-00916,CTR-91360,149,grêle,3731.28,2026-03-01,ouvert
+SIN-00917,CTR-59827,180,catastrophe naturelle,26327.50,2026-04-19,indemnisé
+SIN-00918,CTR-49405,46,incendie,281.93,2026-02-27,ouvert
+SIN-00919,CTR-90012,259,catastrophe naturelle,663.56,2026-06-22,en_expertise
+SIN-00920,CTR-42234,165,vol,5896.17,2026-04-15,indemnisé
+SIN-00921,CTR-89794,244,dégât des eaux,322.47,2026-01-22,ouvert
+SIN-00922,CTR-80533,42,catastrophe naturelle,5465.87,2026-02-18,ouvert
+SIN-00923,CTR-56267,193,catastrophe naturelle,807.61,2026-10-12,en_expertise
+SIN-00924,CTR-26353,237,vol,192.38,2026-04-15,ouvert
+SIN-00925,CTR-56900,99,dégât des eaux,15558.57,2026-10-21,en_expertise
+SIN-00926,CTR-14822,144,incendie,2027.85,2026-10-07,ouvert
+SIN-00927,CTR-84593,257,incendie,5087.73,2026-03-18,ouvert
+SIN-00928,CTR-33006,34,collision,29201.04,2026-03-24,ouvert
+SIN-00929,CTR-45956,99,catastrophe naturelle,35086.28,2026-01-23,indemnisé
+SIN-00930,CTR-10256,219,grêle,2189.90,2026-01-28,en_expertise
+SIN-00931,CTR-77933,239,incendie,15317.21,2026-06-17,ouvert
+SIN-00932,CTR-79784,230,vol,2045.20,2026-01-13,ouvert
+SIN-00933,CTR-39573,217,dégât des eaux,33460.88,2026-04-07,ouvert
+SIN-00934,CTR-72910,222,catastrophe naturelle,323.13,2026-01-19,indemnisé
+SIN-00935,CTR-41242,175,catastrophe naturelle,5186.59,2026-01-27,en_expertise
+SIN-00936,CTR-91207,225,catastrophe naturelle,8478.97,2026-02-21,en_expertise
+SIN-00937,CTR-59465,161,catastrophe naturelle,537.88,2026-02-26,ouvert
+SIN-00938,CTR-92075,222,dégât des eaux,7862.82,2026-02-22,ouvert
+SIN-00939,CTR-90911,211,bris de glace,520.96,2026-10-26,indemnisé
+SIN-00940,CTR-91292,52,vol,3212.40,2026-01-15,indemnisé
+SIN-00941,CTR-18853,100,collision,9491.45,2026-03-21,indemnisé
+SIN-00942,CTR-34369,125,bris de glace,3047.14,2026-01-02,ouvert
+SIN-00943,CTR-50788,299,collision,3122.83,2026-03-05,en_expertise
+SIN-00944,CTR-77853,75,dégât des eaux,305.46,2026-04-17,indemnisé
+SIN-00945,CTR-93958,104,catastrophe naturelle,778.48,2026-02-11,ouvert
+SIN-00946,CTR-53403,297,collision,39385.39,2026-06-20,en_expertise
+SIN-00947,CTR-75002,113,dégât des eaux,400.08,2026-04-23,ouvert
+SIN-00948,CTR-59271,106,incendie,1987.01,2026-03-27,ouvert
+SIN-00949,CTR-28664,149,incendie,352.02,2026-04-21,indemnisé
+SIN-00950,CTR-35929,146,bris de glace,824.93,2026-04-09,indemnisé
+SIN-00951,CTR-12817,91,catastrophe naturelle,189.88,2026-05-04,ouvert
+SIN-00952,CTR-54352,108,vol,755.04,2026-08-08,en_expertise
+SIN-00953,CTR-66848,34,dégât des eaux,37999.50,2026-03-05,ouvert
+SIN-00954,CTR-66300,126,dégât des eaux,18724.68,2026-10-19,ouvert
+SIN-00955,CTR-16980,144,catastrophe naturelle,774.81,2026-03-28,indemnisé
+SIN-00956,CTR-71691,34,bris de glace,872.81,2026-09-13,indemnisé
+SIN-00957,CTR-52182,192,collision,685.98,2026-08-23,en_expertise
+SIN-00958,CTR-95162,19,bris de glace,27695.59,2026-04-07,en_expertise
+SIN-00959,CTR-84890,81,catastrophe naturelle,2919.09,2026-06-09,indemnisé
+SIN-00960,CTR-56081,118,collision,16031.63,2026-01-15,indemnisé
+SIN-00961,CTR-58170,255,vol,3073.12,2026-05-13,ouvert
+SIN-00962,CTR-20802,151,catastrophe naturelle,2092.33,2026-09-17,indemnisé
+SIN-00963,CTR-25543,37,vol,593.54,2026-01-18,ouvert
+SIN-00964,CTR-99592,141,bris de glace,14500.80,2026-10-05,indemnisé
+SIN-00965,CTR-46942,178,catastrophe naturelle,5553.15,2026-07-13,indemnisé
+SIN-00966,CTR-62101,117,bris de glace,691.71,2026-04-16,ouvert
+SIN-00967,CTR-70476,175,catastrophe naturelle,31759.12,2026-02-11,ouvert
+SIN-00968,CTR-68978,286,dégât des eaux,5703.84,2026-06-05,indemnisé
+SIN-00969,CTR-96356,182,vol,2458.42,2026-04-14,en_expertise
+SIN-00970,CTR-49274,167,collision,32473.88,2026-01-19,ouvert
+SIN-00971,CTR-84473,294,catastrophe naturelle,1683.83,2026-07-13,ouvert
+SIN-00972,CTR-24239,169,collision,1224.92,2026-08-21,en_expertise
+SIN-00973,CTR-89084,251,dégât des eaux,120.19,2026-03-07,ouvert
+SIN-00974,CTR-96451,269,dégât des eaux,2868.06,2026-08-02,en_expertise
+SIN-00975,CTR-61262,81,dégât des eaux,1776.31,2026-03-18,en_expertise
+SIN-00976,CTR-27030,106,vol,451.30,2026-07-27,indemnisé
+SIN-00977,CTR-87003,104,collision,1709.78,2026-08-09,ouvert
+SIN-00978,CTR-89278,127,collision,1627.73,2026-06-19,en_expertise
+SIN-00979,CTR-94711,234,vol,3838.28,2026-05-13,indemnisé
+SIN-00980,CTR-90967,222,incendie,748.15,2026-07-22,ouvert
+SIN-00981,CTR-41417,81,vol,640.73,2026-09-10,indemnisé
+SIN-00982,CTR-74682,211,catastrophe naturelle,828.01,2026-09-04,en_expertise
+SIN-00983,CTR-63752,231,bris de glace,1436.65,2026-05-07,indemnisé
+SIN-00984,CTR-70542,196,vol,27721.47,2026-07-28,ouvert
+SIN-00985,CTR-52875,238,incendie,381.14,2026-08-03,ouvert
+SIN-00986,CTR-71707,143,catastrophe naturelle,511.65,2026-03-06,ouvert
+SIN-00987,CTR-61229,87,dégât des eaux,10221.15,2026-01-22,en_expertise
+SIN-00988,CTR-98479,273,bris de glace,172.01,2026-08-23,ouvert
+SIN-00989,CTR-96512,53,incendie,27794.41,2026-05-15,ouvert
+SIN-00990,CTR-42728,192,bris de glace,554.46,2026-04-03,ouvert
+SIN-00991,CTR-99123,33,bris de glace,402.65,2026-02-26,indemnisé
+SIN-00992,CTR-52879,166,collision,184.38,2026-04-20,ouvert
+SIN-00993,CTR-38020,55,vol,843.52,2026-06-06,ouvert
+SIN-00994,CTR-38848,34,grêle,2512.83,2026-05-21,indemnisé
+SIN-00995,CTR-88494,256,dégât des eaux,1243.39,2026-09-26,indemnisé
+SIN-00996,CTR-60930,69,vol,26395.48,2026-03-21,indemnisé
+SIN-00997,CTR-12313,300,incendie,5242.93,2026-07-17,indemnisé
+SIN-00998,CTR-40488,11,collision,677.96,2026-02-10,ouvert
+SIN-00999,CTR-28029,192,incendie,674.61,2026-05-07,ouvert
+SIN-01000,CTR-88390,228,grêle,14094.17,2026-06-05,en_expertise
+SIN-01001,CTR-94940,148,catastrophe naturelle,4913.55,2026-01-08,indemnisé
+SIN-01002,CTR-42550,114,collision,24336.60,2026-07-17,en_expertise
+SIN-01003,CTR-19173,99,dégât des eaux,4111.89,2026-03-07,ouvert
+SIN-01004,CTR-40973,260,dégât des eaux,118.91,2026-07-24,en_expertise
+SIN-01005,CTR-89410,128,vol,307.86,2026-05-19,en_expertise
+SIN-01006,CTR-20487,185,incendie,1927.15,2026-07-06,en_expertise
+SIN-01007,CTR-73176,11,catastrophe naturelle,419.58,2026-07-14,ouvert
+SIN-01008,CTR-82463,90,vol,692.62,2026-07-15,en_expertise
+SIN-01009,CTR-53677,70,grêle,430.10,2026-08-07,ouvert
+SIN-01010,CTR-59054,252,incendie,35296.27,2026-07-13,indemnisé
+SIN-01011,CTR-19336,210,dégât des eaux,27795.66,2026-02-13,indemnisé
+SIN-01012,CTR-55688,261,grêle,38541.29,2026-08-21,indemnisé
+SIN-01013,CTR-42347,125,incendie,1194.29,2026-01-27,en_expertise
+SIN-01014,CTR-29383,134,collision,29714.03,2026-08-22,ouvert
+SIN-01015,CTR-11617,60,catastrophe naturelle,258.69,2026-02-21,indemnisé
+SIN-01016,CTR-77965,97,incendie,828.52,2026-03-27,en_expertise
+SIN-01017,CTR-60172,158,grêle,38901.24,2026-07-25,indemnisé
+SIN-01018,CTR-28705,138,grêle,1457.30,2026-04-24,en_expertise
+SIN-01019,CTR-10206,50,dégât des eaux,932.74,2026-07-17,en_expertise
+SIN-01020,CTR-34431,69,bris de glace,4638.52,2026-08-06,indemnisé
+SIN-01021,CTR-36337,31,grêle,855.70,2026-03-26,ouvert
+SIN-01022,CTR-91844,56,catastrophe naturelle,19898.94,2026-03-03,en_expertise
+SIN-01023,CTR-86761,121,incendie,113.71,2026-08-22,ouvert
+SIN-01024,CTR-86342,22,dégât des eaux,38477.27,2026-04-17,ouvert
+SIN-01025,CTR-73691,243,catastrophe naturelle,3552.38,2026-06-20,en_expertise
+SIN-01026,CTR-41404,185,grêle,4377.49,2026-07-13,indemnisé
+SIN-01027,CTR-10404,234,catastrophe naturelle,89.23,2026-07-24,ouvert
+SIN-01028,CTR-42576,189,incendie,24041.40,2026-10-22,indemnisé
+SIN-01029,CTR-93633,165,dégât des eaux,788.07,2026-06-28,ouvert
+SIN-01030,CTR-89529,249,incendie,873.85,2026-10-26,ouvert
+SIN-01031,CTR-96289,52,grêle,5689.33,2026-07-10,indemnisé
+SIN-01032,CTR-76143,17,bris de glace,23681.85,2026-08-26,ouvert
+SIN-01033,CTR-32027,229,dégât des eaux,4332.62,2026-08-22,indemnisé
+SIN-01034,CTR-21722,55,incendie,31610.59,2026-01-06,en_expertise
+SIN-01035,CTR-97285,244,grêle,4808.18,2026-02-22,ouvert
+SIN-01036,CTR-53620,115,collision,22726.60,2026-10-03,indemnisé
+SIN-01037,CTR-60023,288,catastrophe naturelle,31260.91,2026-07-26,ouvert
+SIN-01038,CTR-54595,97,grêle,232.25,2026-02-19,en_expertise
+SIN-01039,CTR-10220,160,dégât des eaux,18926.63,2026-10-18,ouvert
+SIN-01040,CTR-99037,65,collision,5897.23,2026-10-19,ouvert
+SIN-01041,CTR-28966,152,catastrophe naturelle,946.86,2026-04-16,indemnisé
+SIN-01042,CTR-14501,164,vol,10959.60,2026-09-23,ouvert
+SIN-01043,CTR-38272,254,vol,25515.05,2026-07-02,en_expertise
+SIN-01044,CTR-16889,92,catastrophe naturelle,171.32,2026-08-24,en_expertise
+SIN-01045,CTR-12826,281,incendie,297.23,2026-06-14,indemnisé
+SIN-01046,CTR-79185,145,vol,447.14,2026-04-23,indemnisé
+SIN-01047,CTR-17094,156,incendie,31577.06,2026-03-19,ouvert
+SIN-01048,CTR-38591,101,grêle,420.02,2026-01-12,indemnisé
+SIN-01049,CTR-59355,219,grêle,776.28,2026-03-02,ouvert
+SIN-01050,CTR-77559,174,collision,345.80,2026-07-05,indemnisé
+SIN-01051,CTR-74045,155,grêle,2149.51,2026-10-06,indemnisé
+SIN-01052,CTR-96313,46,catastrophe naturelle,39699.57,2026-08-28,indemnisé
+SIN-01053,CTR-25728,60,dégât des eaux,368.61,2026-02-16,indemnisé
+SIN-01054,CTR-85055,246,vol,6782.91,2026-02-26,indemnisé
+SIN-01055,CTR-49107,293,bris de glace,3369.38,2026-02-11,ouvert
+SIN-01056,CTR-12588,202,collision,5297.27,2026-09-26,indemnisé
+SIN-01057,CTR-95419,64,catastrophe naturelle,25880.53,2026-04-22,ouvert
+SIN-01058,CTR-68619,161,dégât des eaux,12117.88,2026-01-05,indemnisé
+SIN-01059,CTR-21090,64,collision,217.36,2026-05-12,indemnisé
+SIN-01060,CTR-49400,24,collision,187.58,2026-05-22,indemnisé
+SIN-01061,CTR-56152,276,collision,29633.45,2026-04-23,ouvert
+SIN-01062,CTR-49283,111,bris de glace,609.85,2026-10-18,ouvert
+SIN-01063,CTR-19746,282,vol,2314.72,2026-05-13,indemnisé
+SIN-01064,CTR-98673,218,grêle,2940.30,2026-03-18,ouvert
+SIN-01065,CTR-94616,99,grêle,39842.22,2026-06-19,indemnisé
+SIN-01066,CTR-51465,223,incendie,597.08,2026-01-20,ouvert
+SIN-01067,CTR-63317,34,vol,9739.66,2026-02-12,en_expertise
+SIN-01068,CTR-11292,51,incendie,1646.28,2026-04-13,ouvert
+SIN-01069,CTR-87178,251,dégât des eaux,1529.87,2026-09-12,indemnisé
+SIN-01070,CTR-16286,88,vol,532.06,2026-07-06,en_expertise
+SIN-01071,CTR-87937,207,incendie,32817.41,2026-10-05,en_expertise
+SIN-01072,CTR-28700,194,collision,48.17,2026-05-02,indemnisé
+SIN-01073,CTR-89783,215,grêle,32435.96,2026-08-06,en_expertise
+SIN-01074,CTR-66068,267,grêle,4972.19,2026-04-10,indemnisé
+SIN-01075,CTR-21814,41,dégât des eaux,5732.02,2026-04-03,ouvert
+SIN-01076,CTR-11401,218,grêle,1331.38,2026-09-24,ouvert
+SIN-01077,CTR-26343,208,dégât des eaux,39930.45,2026-10-07,indemnisé
+SIN-01078,CTR-42011,271,grêle,3067.39,2026-10-02,indemnisé
+SIN-01079,CTR-39500,90,dégât des eaux,37626.30,2026-06-27,ouvert
+SIN-01080,CTR-32345,192,dégât des eaux,5757.67,2026-06-22,ouvert
+SIN-01081,CTR-49213,248,vol,5238.96,2026-05-07,ouvert
+SIN-01082,CTR-94275,264,catastrophe naturelle,3801.09,2026-01-15,indemnisé
+SIN-01083,CTR-53063,153,vol,1193.23,2026-02-01,en_expertise
+SIN-01084,CTR-66466,252,bris de glace,805.57,2026-02-17,indemnisé
+SIN-01085,CTR-30398,129,bris de glace,812.72,2026-08-13,en_expertise
+SIN-01086,CTR-24246,225,grêle,3084.54,2026-08-06,ouvert
+SIN-01087,CTR-36013,57,bris de glace,18214.05,2026-05-02,ouvert
+SIN-01088,CTR-97320,102,incendie,379.31,2026-05-04,en_expertise
+SIN-01089,CTR-52583,205,collision,460.60,2026-07-05,ouvert
+SIN-01090,CTR-75536,7,catastrophe naturelle,4942.84,2026-04-02,indemnisé
+SIN-01091,CTR-66928,246,vol,753.66,2026-05-16,ouvert
+SIN-01092,CTR-34492,128,vol,11184.85,2026-02-28,en_expertise
+SIN-01093,CTR-72114,53,grêle,895.06,2026-09-20,ouvert
+SIN-01094,CTR-40065,62,bris de glace,202.26,2026-07-02,en_expertise
+SIN-01095,CTR-36167,47,catastrophe naturelle,20494.30,2026-01-13,en_expertise
+SIN-01096,CTR-54063,219,incendie,491.48,2026-01-17,en_expertise
+SIN-01097,CTR-56009,215,bris de glace,2451.88,2026-06-02,ouvert
+SIN-01098,CTR-47397,242,vol,75.16,2026-10-04,en_expertise
+SIN-01099,CTR-24618,50,grêle,5736.47,2026-01-22,indemnisé
+SIN-01100,CTR-87189,271,collision,1564.57,2026-06-08,indemnisé
+SIN-01101,CTR-27102,62,dégât des eaux,277.31,2026-10-21,ouvert
+SIN-01102,CTR-91134,176,vol,9353.67,2026-08-25,ouvert
+SIN-01103,CTR-82154,130,catastrophe naturelle,1683.73,2026-09-12,en_expertise
+SIN-01104,CTR-73284,215,collision,425.69,2026-09-26,ouvert
+SIN-01105,CTR-15956,290,dégât des eaux,2298.16,2026-04-24,en_expertise
+SIN-01106,CTR-31694,225,catastrophe naturelle,465.72,2026-09-13,indemnisé
+SIN-01107,CTR-10471,82,collision,710.26,2026-04-19,indemnisé
+SIN-01108,CTR-78822,133,vol,23435.05,2026-04-10,indemnisé
+SIN-01109,CTR-41223,150,dégât des eaux,13613.60,2026-03-09,ouvert
+SIN-01110,CTR-37521,274,dégât des eaux,272.57,2026-01-21,en_expertise
+SIN-01111,CTR-81994,136,grêle,17035.10,2026-03-14,indemnisé
+SIN-01112,CTR-56593,113,grêle,293.61,2026-05-06,en_expertise
+SIN-01113,CTR-23951,196,grêle,39277.92,2026-05-28,indemnisé
+SIN-01114,CTR-52501,138,bris de glace,585.50,2026-10-21,en_expertise
+SIN-01115,CTR-29442,246,dégât des eaux,2081.79,2026-08-06,en_expertise
+SIN-01116,CTR-33646,145,dégât des eaux,5298.00,2026-05-06,ouvert
+SIN-01117,CTR-19443,219,bris de glace,743.05,2026-08-21,en_expertise
+SIN-01118,CTR-89074,52,incendie,126.20,2026-07-01,ouvert
+SIN-01119,CTR-27324,128,catastrophe naturelle,750.84,2026-02-09,ouvert
+SIN-01120,CTR-23938,278,grêle,847.19,2026-06-28,indemnisé
+SIN-01121,CTR-31383,158,vol,1610.07,2026-08-05,ouvert
+SIN-01122,CTR-12779,23,dégât des eaux,88.05,2026-09-10,ouvert
+SIN-01123,CTR-13145,117,incendie,479.93,2026-07-05,en_expertise
+SIN-01124,CTR-24733,252,bris de glace,2052.01,2026-02-08,ouvert
+SIN-01125,CTR-25512,185,dégât des eaux,2337.25,2026-01-20,ouvert
+SIN-01126,CTR-65737,77,grêle,26386.79,2026-05-20,en_expertise
+SIN-01127,CTR-58380,136,catastrophe naturelle,37151.97,2026-02-26,ouvert
+SIN-01128,CTR-51976,76,incendie,781.07,2026-08-24,en_expertise
+SIN-01129,CTR-46500,75,dégât des eaux,20533.41,2026-06-05,ouvert
+SIN-01130,CTR-64256,171,bris de glace,2698.30,2026-04-13,en_expertise
+SIN-01131,CTR-40161,197,dégât des eaux,22748.45,2026-10-23,en_expertise
+SIN-01132,CTR-21436,121,vol,493.17,2026-01-07,ouvert
+SIN-01133,CTR-17808,179,vol,351.66,2026-03-10,en_expertise
+SIN-01134,CTR-41784,108,catastrophe naturelle,5251.89,2026-04-02,indemnisé
+SIN-01135,CTR-13453,218,vol,5806.47,2026-01-23,ouvert
+SIN-01136,CTR-13956,76,vol,609.96,2026-03-03,ouvert
+SIN-01137,CTR-33910,241,grêle,106.28,2026-03-24,indemnisé
+SIN-01138,CTR-68192,7,vol,2427.49,2026-02-05,ouvert
+SIN-01139,CTR-31017,6,incendie,31538.52,2026-07-22,en_expertise
+SIN-01140,CTR-50112,117,incendie,37251.11,2026-03-09,ouvert
+SIN-01141,CTR-62481,29,bris de glace,488.49,2026-07-06,indemnisé
+SIN-01142,CTR-71398,245,vol,8625.11,2026-07-27,en_expertise
+SIN-01143,CTR-45378,56,dégât des eaux,181.75,2026-02-12,indemnisé
+SIN-01144,CTR-80984,55,dégât des eaux,709.77,2026-04-20,ouvert
+SIN-01145,CTR-14242,124,vol,24757.51,2026-02-19,indemnisé
+SIN-01146,CTR-51232,48,vol,78.59,2026-01-12,en_expertise
+SIN-01147,CTR-56640,67,grêle,3451.10,2026-02-11,en_expertise
+SIN-01148,CTR-13104,196,incendie,811.00,2026-10-28,ouvert
+SIN-01149,CTR-22227,119,bris de glace,21745.61,2026-03-25,indemnisé
+SIN-01150,CTR-89788,268,catastrophe naturelle,23554.23,2026-06-15,ouvert
+SIN-01151,CTR-15244,199,bris de glace,2737.61,2026-04-20,indemnisé
+SIN-01152,CTR-22767,8,bris de glace,1677.25,2026-05-18,ouvert
+SIN-01153,CTR-31164,35,vol,3219.52,2026-10-12,en_expertise
+SIN-01154,CTR-72031,132,catastrophe naturelle,1813.85,2026-08-21,ouvert
+SIN-01155,CTR-47568,206,incendie,5855.57,2026-10-22,ouvert
+SIN-01156,CTR-58979,43,grêle,3513.64,2026-07-17,en_expertise
+SIN-01157,CTR-94392,30,grêle,29206.89,2026-04-23,indemnisé
+SIN-01158,CTR-84728,205,catastrophe naturelle,46.83,2026-02-08,en_expertise
+SIN-01159,CTR-94211,274,catastrophe naturelle,4312.67,2026-08-04,ouvert
+SIN-01160,CTR-66769,103,incendie,1452.58,2026-06-03,en_expertise
+SIN-01161,CTR-72419,59,vol,13229.60,2026-08-02,indemnisé
+SIN-01162,CTR-84475,17,collision,3296.83,2026-07-02,en_expertise
+SIN-01163,CTR-13007,217,vol,719.02,2026-05-21,ouvert
+SIN-01164,CTR-69168,215,collision,1253.22,2026-04-22,en_expertise
+SIN-01165,CTR-54829,153,bris de glace,1174.09,2026-04-12,en_expertise
+SIN-01166,CTR-67250,182,grêle,32651.15,2026-10-13,ouvert
+SIN-01167,CTR-97551,297,collision,12751.04,2026-03-11,indemnisé
+SIN-01168,CTR-51486,8,bris de glace,31256.44,2026-08-05,en_expertise
+SIN-01169,CTR-44446,267,grêle,1479.40,2026-01-15,ouvert
+SIN-01170,CTR-38655,97,incendie,585.49,2026-09-25,ouvert
+SIN-01171,CTR-99080,296,dégât des eaux,556.81,2026-06-27,en_expertise
+SIN-01172,CTR-75422,234,incendie,53.92,2026-07-12,en_expertise
+SIN-01173,CTR-24860,91,incendie,3071.83,2026-07-12,ouvert
+SIN-01174,CTR-96455,224,grêle,1729.55,2026-05-23,indemnisé
+SIN-01175,CTR-23606,46,grêle,846.60,2026-01-20,en_expertise
+SIN-01176,CTR-23068,228,collision,27210.07,2026-10-26,ouvert
+SIN-01177,CTR-82297,196,dégât des eaux,5243.70,2026-04-28,en_expertise
+SIN-01178,CTR-64124,203,dégât des eaux,2688.13,2026-06-26,ouvert
+SIN-01179,CTR-64357,124,dégât des eaux,2264.81,2026-07-02,ouvert
+SIN-01180,CTR-88636,163,vol,34586.17,2026-03-19,en_expertise
+SIN-01181,CTR-61552,27,catastrophe naturelle,12550.45,2026-10-14,ouvert
+SIN-01182,CTR-51697,265,bris de glace,2891.10,2026-07-08,ouvert
+SIN-01183,CTR-61381,134,catastrophe naturelle,10024.67,2026-09-06,en_expertise
+SIN-01184,CTR-87763,79,dégât des eaux,20872.32,2026-10-23,indemnisé
+SIN-01185,CTR-27111,233,grêle,19001.76,2026-06-06,ouvert
+SIN-01186,CTR-59559,134,grêle,601.17,2026-01-09,ouvert
+SIN-01187,CTR-23555,57,incendie,27705.14,2026-10-04,ouvert
+SIN-01188,CTR-74781,186,catastrophe naturelle,161.98,2026-04-13,ouvert
+SIN-01189,CTR-20002,108,grêle,8501.58,2026-07-13,en_expertise
+SIN-01190,CTR-11329,92,grêle,3199.48,2026-10-21,indemnisé
+SIN-01191,CTR-73427,280,dégât des eaux,1497.76,2026-03-17,indemnisé
+SIN-01192,CTR-13019,266,collision,26607.77,2026-03-07,en_expertise
+SIN-01193,CTR-20937,65,vol,138.72,2026-05-16,ouvert
+SIN-01194,CTR-71216,254,incendie,2677.62,2026-09-13,ouvert
+SIN-01195,CTR-46842,202,dégât des eaux,34765.22,2026-10-26,indemnisé
+SIN-01196,CTR-66815,229,incendie,4949.91,2026-10-24,en_expertise
+SIN-01197,CTR-36177,291,vol,4076.85,2026-06-21,ouvert
+SIN-01198,CTR-86922,210,vol,5436.19,2026-10-27,indemnisé
+SIN-01199,CTR-33580,166,incendie,857.33,2026-03-12,ouvert
+SIN-01200,CTR-26030,5,vol,4250.47,2026-01-23,en_expertise
+SIN-01201,CTR-83615,34,incendie,223.84,2026-05-20,ouvert
+SIN-01202,CTR-97994,39,collision,15453.65,2026-07-22,en_expertise
+SIN-01203,CTR-75359,24,vol,2532.62,2026-07-04,ouvert
+SIN-01204,CTR-85551,11,vol,429.40,2026-01-21,indemnisé
+SIN-01205,CTR-14850,274,collision,5549.38,2026-01-11,indemnisé
+SIN-01206,CTR-49452,141,vol,3296.46,2026-06-13,ouvert
+SIN-01207,CTR-49117,233,incendie,2497.19,2026-02-27,en_expertise
+SIN-01208,CTR-28184,54,vol,846.43,2026-07-08,ouvert
+SIN-01209,CTR-10647,27,vol,33617.59,2026-01-04,ouvert
+SIN-01210,CTR-59749,139,grêle,17197.19,2026-03-05,indemnisé
+SIN-01211,CTR-64171,229,grêle,35304.43,2026-02-17,indemnisé
+SIN-01212,CTR-52193,248,bris de glace,3337.43,2026-02-09,en_expertise
+SIN-01213,CTR-96439,106,grêle,651.79,2026-02-03,en_expertise
+SIN-01214,CTR-34630,250,dégât des eaux,966.95,2026-06-07,indemnisé
+SIN-01215,CTR-69509,79,catastrophe naturelle,3521.03,2026-09-04,ouvert
+SIN-01216,CTR-77300,104,catastrophe naturelle,39152.20,2026-07-07,ouvert
+SIN-01217,CTR-94984,53,bris de glace,16442.99,2026-08-04,indemnisé
+SIN-01218,CTR-13746,244,grêle,984.60,2026-09-15,en_expertise
+SIN-01219,CTR-37795,78,incendie,5627.33,2026-09-14,indemnisé
+SIN-01220,CTR-95016,196,grêle,327.02,2026-07-07,en_expertise
+SIN-01221,CTR-74699,266,incendie,15381.47,2026-02-22,ouvert
+SIN-01222,CTR-14677,295,vol,595.86,2026-04-03,indemnisé
+SIN-01223,CTR-63026,201,incendie,27087.51,2026-02-08,indemnisé
+SIN-01224,CTR-36683,178,grêle,748.70,2026-05-23,indemnisé
+SIN-01225,CTR-91542,245,grêle,12292.68,2026-05-28,indemnisé
+SIN-01226,CTR-53536,234,bris de glace,245.21,2026-01-22,en_expertise
+SIN-01227,CTR-32377,5,collision,408.01,2026-06-16,indemnisé
+SIN-01228,CTR-12279,291,grêle,40.87,2026-05-27,ouvert
+SIN-01229,CTR-23106,156,catastrophe naturelle,491.73,2026-06-15,en_expertise
+SIN-01230,CTR-43231,187,incendie,5947.94,2026-01-27,en_expertise
+SIN-01231,CTR-88085,248,dégât des eaux,23606.26,2026-05-22,indemnisé
+SIN-01232,CTR-96424,73,vol,666.27,2026-08-01,ouvert
+SIN-01233,CTR-21701,100,incendie,536.72,2026-02-09,indemnisé
+SIN-01234,CTR-32931,136,grêle,21275.16,2026-06-11,en_expertise
+SIN-01235,CTR-15387,297,collision,546.67,2026-06-27,indemnisé
+SIN-01236,CTR-47802,57,dégât des eaux,4956.20,2026-08-22,ouvert
+SIN-01237,CTR-83156,84,vol,38866.83,2026-08-10,ouvert
+SIN-01238,CTR-87735,64,dégât des eaux,979.52,2026-08-10,ouvert
+SIN-01239,CTR-28051,180,vol,4267.29,2026-09-22,indemnisé
+SIN-01240,CTR-35785,222,collision,15202.74,2026-02-10,ouvert
+SIN-01241,CTR-93498,198,incendie,14456.77,2026-07-04,en_expertise
+SIN-01242,CTR-98987,166,catastrophe naturelle,3944.90,2026-10-05,indemnisé
+SIN-01243,CTR-49460,157,dégât des eaux,700.19,2026-05-19,indemnisé
+SIN-01244,CTR-22588,71,collision,1835.20,2026-08-23,en_expertise
+SIN-01245,CTR-66055,239,incendie,4394.33,2026-07-15,ouvert
+SIN-01246,CTR-28426,155,catastrophe naturelle,824.80,2026-04-19,indemnisé
+SIN-01247,CTR-17017,202,bris de glace,4066.54,2026-07-22,ouvert
+SIN-01248,CTR-21096,29,vol,438.01,2026-02-11,indemnisé
+SIN-01249,CTR-17977,63,grêle,2381.94,2026-10-22,indemnisé
+SIN-01250,CTR-83668,254,bris de glace,675.85,2026-04-22,indemnisé
+SIN-01251,CTR-73564,103,dégât des eaux,772.94,2026-02-01,ouvert
+SIN-01252,CTR-23579,243,dégât des eaux,559.26,2026-09-15,en_expertise
+SIN-01253,CTR-40792,280,vol,87.86,2026-10-22,en_expertise
+SIN-01254,CTR-12838,95,bris de glace,20700.03,2026-04-06,indemnisé
+SIN-01255,CTR-47938,52,collision,3688.07,2026-08-12,indemnisé
+SIN-01256,CTR-64643,218,bris de glace,2867.69,2026-01-10,en_expertise
+SIN-01257,CTR-94555,228,dégât des eaux,143.31,2026-06-05,en_expertise
+SIN-01258,CTR-56890,257,catastrophe naturelle,798.88,2026-09-07,en_expertise
+SIN-01259,CTR-95972,78,vol,816.19,2026-10-11,en_expertise
+SIN-01260,CTR-49705,202,dégât des eaux,15463.56,2026-08-13,en_expertise
+SIN-01261,CTR-96364,270,vol,30089.01,2026-03-23,en_expertise
+SIN-01262,CTR-18856,24,dégât des eaux,3861.70,2026-03-08,ouvert
+SIN-01263,CTR-40347,122,dégât des eaux,3447.11,2026-03-24,en_expertise
+SIN-01264,CTR-42831,59,dégât des eaux,8188.58,2026-02-15,en_expertise
+SIN-01265,CTR-24111,231,incendie,5187.46,2026-03-21,indemnisé
+SIN-01266,CTR-47498,116,bris de glace,22697.50,2026-03-14,indemnisé
+SIN-01267,CTR-97642,50,bris de glace,25791.67,2026-01-26,ouvert
+SIN-01268,CTR-19432,175,bris de glace,19872.93,2026-09-16,ouvert
+SIN-01269,CTR-56725,287,catastrophe naturelle,3808.89,2026-03-26,ouvert
+SIN-01270,CTR-20242,66,catastrophe naturelle,35715.21,2026-09-10,ouvert
+SIN-01271,CTR-12954,115,catastrophe naturelle,2075.92,2026-05-27,en_expertise
+SIN-01272,CTR-47757,39,collision,375.77,2026-10-08,indemnisé
+SIN-01273,CTR-81557,57,collision,841.36,2026-08-09,indemnisé
+SIN-01274,CTR-17784,72,bris de glace,2624.03,2026-09-27,indemnisé
+SIN-01275,CTR-40882,253,dégât des eaux,323.46,2026-10-20,indemnisé
+SIN-01276,CTR-64557,42,collision,758.10,2026-08-05,en_expertise
+SIN-01277,CTR-95240,180,incendie,662.06,2026-08-10,ouvert
+SIN-01278,CTR-80016,195,grêle,58.44,2026-01-18,en_expertise
+SIN-01279,CTR-65945,282,bris de glace,4804.98,2026-02-15,ouvert
+SIN-01280,CTR-54974,224,dégât des eaux,811.55,2026-04-08,ouvert
+SIN-01281,CTR-84455,24,catastrophe naturelle,31414.17,2026-01-28,indemnisé
+SIN-01282,CTR-33670,145,dégât des eaux,1190.11,2026-06-12,indemnisé
+SIN-01283,CTR-62142,246,grêle,15942.03,2026-02-22,ouvert
+SIN-01284,CTR-56787,113,incendie,12999.27,2026-05-12,indemnisé
+SIN-01285,CTR-51793,278,collision,4233.58,2026-02-02,en_expertise
+SIN-01286,CTR-20282,105,bris de glace,4498.06,2026-09-08,en_expertise
+SIN-01287,CTR-14701,121,grêle,678.04,2026-08-21,en_expertise
+SIN-01288,CTR-46433,197,vol,1008.58,2026-02-02,en_expertise
+SIN-01289,CTR-60418,228,dégât des eaux,2858.07,2026-04-07,en_expertise
+SIN-01290,CTR-14103,278,catastrophe naturelle,3098.53,2026-06-01,indemnisé
+SIN-01291,CTR-87458,111,catastrophe naturelle,2614.71,2026-01-11,indemnisé
+SIN-01292,CTR-17486,56,collision,20536.67,2026-07-24,indemnisé
+SIN-01293,CTR-85052,291,catastrophe naturelle,5953.54,2026-09-09,ouvert
+SIN-01294,CTR-27284,8,vol,865.86,2026-05-03,ouvert
+SIN-01295,CTR-90681,141,vol,703.35,2026-05-22,en_expertise
+SIN-01296,CTR-50225,292,grêle,712.89,2026-06-27,en_expertise
+SIN-01297,CTR-71137,19,vol,768.93,2026-08-21,indemnisé
+SIN-01298,CTR-89996,283,vol,1198.78,2026-02-15,ouvert
+SIN-01299,CTR-26675,117,grêle,4912.35,2026-03-05,indemnisé
+SIN-01300,CTR-99711,260,catastrophe naturelle,604.14,2026-08-19,en_expertise
+SIN-01301,CTR-43954,132,dégât des eaux,8067.64,2026-06-18,indemnisé
+SIN-01302,CTR-68171,58,collision,9711.56,2026-02-08,ouvert
+SIN-01303,CTR-19357,219,vol,2793.93,2026-03-01,en_expertise
+SIN-01304,CTR-59114,241,vol,39153.36,2026-10-01,ouvert
+SIN-01305,CTR-13346,55,collision,11102.15,2026-04-26,en_expertise
+SIN-01306,CTR-55095,111,incendie,23278.20,2026-10-02,indemnisé
+SIN-01307,CTR-20133,115,collision,664.58,2026-09-19,indemnisé
+SIN-01308,CTR-16741,242,grêle,30923.55,2026-09-17,en_expertise
+SIN-01309,CTR-53081,125,catastrophe naturelle,312.57,2026-06-08,en_expertise
+SIN-01310,CTR-63729,186,dégât des eaux,5859.22,2026-06-18,indemnisé
+SIN-01311,CTR-68847,215,bris de glace,105.74,2026-10-27,ouvert
+SIN-01312,CTR-86645,71,collision,36915.04,2026-05-26,en_expertise
+SIN-01313,CTR-29450,295,incendie,19889.09,2026-04-06,en_expertise
+SIN-01314,CTR-71585,52,bris de glace,14954.79,2026-01-27,en_expertise
+SIN-01315,CTR-79377,199,incendie,8482.50,2026-06-05,en_expertise
+SIN-01316,CTR-54124,56,grêle,2131.32,2026-01-03,indemnisé
+SIN-01317,CTR-68950,224,vol,36962.92,2026-08-23,ouvert
+SIN-01318,CTR-20982,78,dégât des eaux,26044.98,2026-10-19,en_expertise
+SIN-01319,CTR-76672,144,catastrophe naturelle,619.56,2026-02-08,en_expertise
+SIN-01320,CTR-85999,261,catastrophe naturelle,23601.04,2026-07-10,en_expertise
+SIN-01321,CTR-37614,221,collision,370.30,2026-05-19,indemnisé
+SIN-01322,CTR-45893,250,incendie,2671.46,2026-04-06,en_expertise
+SIN-01323,CTR-40366,143,bris de glace,847.72,2026-02-07,indemnisé
+SIN-01324,CTR-80756,276,catastrophe naturelle,761.36,2026-04-01,en_expertise
+SIN-01325,CTR-65902,228,collision,12906.79,2026-03-27,en_expertise
+SIN-01326,CTR-68249,222,incendie,293.65,2026-05-03,ouvert
+SIN-01327,CTR-20363,114,grêle,4631.33,2026-02-11,ouvert
+SIN-01328,CTR-98091,38,grêle,27441.21,2026-06-02,en_expertise
+SIN-01329,CTR-83160,19,grêle,126.38,2026-01-08,ouvert
+SIN-01330,CTR-44771,241,bris de glace,544.26,2026-08-27,ouvert
+SIN-01331,CTR-77673,110,dégât des eaux,670.86,2026-07-03,en_expertise
+SIN-01332,CTR-44481,195,grêle,1963.59,2026-10-08,indemnisé
+SIN-01333,CTR-40394,150,grêle,3605.35,2026-08-16,indemnisé
+SIN-01334,CTR-38695,58,catastrophe naturelle,377.30,2026-05-14,en_expertise
+SIN-01335,CTR-51799,59,vol,4278.33,2026-07-23,ouvert
+SIN-01336,CTR-88781,211,grêle,3367.07,2026-04-01,en_expertise
+SIN-01337,CTR-17969,288,catastrophe naturelle,1997.04,2026-06-09,indemnisé
+SIN-01338,CTR-44170,28,vol,2896.03,2026-08-24,ouvert
+SIN-01339,CTR-39007,294,bris de glace,5074.48,2026-09-07,indemnisé
+SIN-01340,CTR-89293,277,dégât des eaux,134.87,2026-01-26,en_expertise
+SIN-01341,CTR-18318,26,collision,37015.77,2026-04-12,indemnisé
+SIN-01342,CTR-40059,149,catastrophe naturelle,24213.76,2026-03-12,en_expertise
+SIN-01343,CTR-14728,11,catastrophe naturelle,395.52,2026-09-04,indemnisé
+SIN-01344,CTR-13177,118,grêle,3372.99,2026-04-02,en_expertise
+SIN-01345,CTR-27195,139,catastrophe naturelle,5046.28,2026-02-03,ouvert
+SIN-01346,CTR-11932,278,collision,473.88,2026-03-04,indemnisé
+SIN-01347,CTR-52431,218,collision,2894.73,2026-01-10,en_expertise
+SIN-01348,CTR-71787,193,vol,38954.92,2026-07-03,ouvert
+SIN-01349,CTR-79888,260,bris de glace,22433.88,2026-07-01,en_expertise
+SIN-01350,CTR-24195,232,bris de glace,31931.81,2026-10-01,en_expertise
+SIN-01351,CTR-94255,160,vol,703.24,2026-03-26,indemnisé
+SIN-01352,CTR-87779,128,dégât des eaux,1386.48,2026-03-13,indemnisé
+SIN-01353,CTR-17724,253,vol,760.74,2026-07-10,indemnisé
+SIN-01354,CTR-88476,209,catastrophe naturelle,16929.06,2026-01-09,indemnisé
+SIN-01355,CTR-51027,121,vol,3768.29,2026-08-23,en_expertise
+SIN-01356,CTR-23768,218,grêle,482.41,2026-02-13,ouvert
+SIN-01357,CTR-35869,225,catastrophe naturelle,690.92,2026-02-02,en_expertise
+SIN-01358,CTR-81707,215,incendie,465.86,2026-01-10,ouvert
+SIN-01359,CTR-45534,268,vol,37346.99,2026-10-12,indemnisé
+SIN-01360,CTR-90478,191,collision,599.19,2026-10-09,en_expertise
+SIN-01361,CTR-27739,85,collision,37520.71,2026-08-01,en_expertise
+SIN-01362,CTR-50873,97,bris de glace,398.02,2026-02-18,en_expertise
+SIN-01363,CTR-18751,180,grêle,324.69,2026-09-08,en_expertise
+SIN-01364,CTR-86607,157,vol,5632.19,2026-10-25,en_expertise
+SIN-01365,CTR-20154,79,dégât des eaux,843.50,2026-04-09,ouvert
+SIN-01366,CTR-94519,197,vol,33094.07,2026-10-25,indemnisé
+SIN-01367,CTR-97621,243,bris de glace,31067.03,2026-03-01,ouvert
+SIN-01368,CTR-28786,85,incendie,890.62,2026-01-11,ouvert
+SIN-01369,CTR-65758,242,vol,1166.16,2026-05-17,ouvert
+SIN-01370,CTR-72190,182,vol,32313.27,2026-09-11,indemnisé
+SIN-01371,CTR-93069,143,grêle,107.25,2026-03-27,en_expertise
+SIN-01372,CTR-25760,286,incendie,32824.81,2026-06-06,ouvert
+SIN-01373,CTR-65584,110,collision,5262.40,2026-09-07,en_expertise
+SIN-01374,CTR-67944,185,collision,361.82,2026-04-01,indemnisé
+SIN-01375,CTR-75902,7,collision,1379.95,2026-05-02,indemnisé
+SIN-01376,CTR-43166,141,grêle,7493.19,2026-01-19,ouvert
+SIN-01377,CTR-69569,252,bris de glace,39905.87,2026-08-24,indemnisé
+SIN-01378,CTR-90336,79,grêle,685.50,2026-03-28,ouvert
+SIN-01379,CTR-93555,32,vol,5153.73,2026-02-28,indemnisé
+SIN-01380,CTR-12185,171,catastrophe naturelle,28273.58,2026-06-23,ouvert
+SIN-01381,CTR-11857,207,incendie,38106.23,2026-01-03,ouvert
+SIN-01382,CTR-32621,228,dégât des eaux,749.54,2026-05-20,ouvert
+SIN-01383,CTR-50784,141,collision,632.30,2026-06-04,en_expertise
+SIN-01384,CTR-21555,60,dégât des eaux,5164.14,2026-03-24,ouvert
+SIN-01385,CTR-11368,112,grêle,199.67,2026-06-15,ouvert
+SIN-01386,CTR-94189,98,grêle,16464.60,2026-03-10,ouvert
+SIN-01387,CTR-51358,212,bris de glace,15484.76,2026-04-09,ouvert
+SIN-01388,CTR-22112,251,vol,2404.15,2026-10-12,en_expertise
+SIN-01389,CTR-32344,19,catastrophe naturelle,34203.00,2026-10-13,ouvert
+SIN-01390,CTR-94673,148,bris de glace,1974.38,2026-06-23,indemnisé
+SIN-01391,CTR-37619,133,bris de glace,15144.30,2026-08-09,ouvert
+SIN-01392,CTR-28325,240,collision,3536.85,2026-06-12,indemnisé
+SIN-01393,CTR-23711,184,catastrophe naturelle,7150.89,2026-01-06,en_expertise
+SIN-01394,CTR-56924,157,bris de glace,448.93,2026-08-18,ouvert
+SIN-01395,CTR-85492,223,grêle,26964.82,2026-07-16,ouvert
+SIN-01396,CTR-62579,154,dégât des eaux,17487.86,2026-04-25,indemnisé
+SIN-01397,CTR-62527,15,bris de glace,15158.27,2026-09-06,en_expertise
+SIN-01398,CTR-84447,72,bris de glace,802.47,2026-06-26,ouvert
+SIN-01399,CTR-70124,203,bris de glace,2477.30,2026-08-01,indemnisé
+SIN-01400,CTR-34195,121,catastrophe naturelle,166.84,2026-04-14,ouvert
+SIN-01401,CTR-10648,245,bris de glace,1686.10,2026-06-04,en_expertise
+SIN-01402,CTR-97613,193,catastrophe naturelle,2909.64,2026-08-23,ouvert
+SIN-01403,CTR-62413,168,vol,696.23,2026-07-20,en_expertise
+SIN-01404,CTR-13525,114,collision,28775.81,2026-03-25,ouvert
+SIN-01405,CTR-88534,204,dégât des eaux,33990.10,2026-04-05,en_expertise
+SIN-01406,CTR-60340,93,incendie,1977.28,2026-03-10,en_expertise
+SIN-01407,CTR-33529,84,incendie,5088.50,2026-09-27,ouvert
+SIN-01408,CTR-95966,208,catastrophe naturelle,439.83,2026-01-06,en_expertise
+SIN-01409,CTR-73719,206,incendie,150.72,2026-01-10,en_expertise
+SIN-01410,CTR-75806,191,catastrophe naturelle,4134.00,2026-08-23,en_expertise
+SIN-01411,CTR-65583,273,catastrophe naturelle,765.98,2026-07-28,indemnisé
+SIN-01412,CTR-87352,133,bris de glace,38238.84,2026-09-27,indemnisé
+SIN-01413,CTR-15222,63,catastrophe naturelle,3220.45,2026-08-15,en_expertise
+SIN-01414,CTR-54231,152,catastrophe naturelle,3956.57,2026-01-18,en_expertise
+SIN-01415,CTR-49017,19,collision,2720.12,2026-02-12,indemnisé
+SIN-01416,CTR-80121,49,bris de glace,71.49,2026-03-21,en_expertise
+SIN-01417,CTR-90903,125,catastrophe naturelle,39042.99,2026-09-19,en_expertise
+SIN-01418,CTR-93599,52,incendie,7301.77,2026-09-24,ouvert
+SIN-01419,CTR-12933,95,grêle,4147.38,2026-05-24,indemnisé
+SIN-01420,CTR-35119,293,vol,678.71,2026-05-20,indemnisé
+SIN-01421,CTR-59051,294,incendie,503.68,2026-04-25,en_expertise
+SIN-01422,CTR-98006,24,collision,12314.26,2026-07-06,indemnisé
+SIN-01423,CTR-96142,67,vol,925.76,2026-05-15,indemnisé
+SIN-01424,CTR-12368,167,bris de glace,719.62,2026-02-20,en_expertise
+SIN-01425,CTR-93200,169,collision,4007.51,2026-07-16,indemnisé
+SIN-01426,CTR-29893,237,catastrophe naturelle,2637.04,2026-08-07,indemnisé
+SIN-01427,CTR-96599,293,dégât des eaux,640.04,2026-08-18,en_expertise
+SIN-01428,CTR-48249,162,incendie,4714.86,2026-08-01,ouvert
+SIN-01429,CTR-64446,12,catastrophe naturelle,1750.34,2026-05-18,indemnisé
+SIN-01430,CTR-59601,64,dégât des eaux,462.05,2026-07-07,ouvert
+SIN-01431,CTR-62575,282,incendie,893.23,2026-06-25,ouvert
+SIN-01432,CTR-92611,55,grêle,3956.17,2026-06-17,indemnisé
+SIN-01433,CTR-47523,231,bris de glace,2048.01,2026-03-13,en_expertise
+SIN-01434,CTR-32579,51,incendie,31939.79,2026-10-21,en_expertise
+SIN-01435,CTR-39385,71,collision,27638.17,2026-10-17,ouvert
+SIN-01436,CTR-89929,128,bris de glace,4633.95,2026-10-21,en_expertise
+SIN-01437,CTR-95736,200,collision,6772.46,2026-09-28,ouvert
+SIN-01438,CTR-32965,242,grêle,771.27,2026-04-11,ouvert
+SIN-01439,CTR-70187,126,grêle,5461.67,2026-10-15,ouvert
+SIN-01440,CTR-89168,170,catastrophe naturelle,725.21,2026-03-08,en_expertise
+SIN-01441,CTR-98719,209,catastrophe naturelle,31452.69,2026-09-16,en_expertise
+SIN-01442,CTR-80430,62,grêle,14840.99,2026-10-21,indemnisé
+SIN-01443,CTR-48399,204,catastrophe naturelle,654.70,2026-01-12,en_expertise
+SIN-01444,CTR-26260,54,bris de glace,3508.95,2026-05-25,indemnisé
+SIN-01445,CTR-96053,174,bris de glace,1470.10,2026-04-26,en_expertise
+SIN-01446,CTR-70062,252,catastrophe naturelle,220.67,2026-04-25,en_expertise
+SIN-01447,CTR-43806,291,vol,4414.89,2026-10-02,ouvert
+SIN-01448,CTR-83864,186,grêle,2371.00,2026-05-10,indemnisé
+SIN-01449,CTR-98247,151,bris de glace,4132.86,2026-03-05,indemnisé
+SIN-01450,CTR-37742,299,vol,291.41,2026-03-19,ouvert
+SIN-01451,CTR-63194,245,collision,31345.55,2026-03-12,indemnisé
+SIN-01452,CTR-59542,249,grêle,5248.31,2026-03-28,indemnisé
+SIN-01453,CTR-18487,176,bris de glace,18915.66,2026-05-07,ouvert
+SIN-01454,CTR-95196,101,vol,169.08,2026-08-15,indemnisé
+SIN-01455,CTR-39933,104,vol,34559.22,2026-01-13,indemnisé
+SIN-01456,CTR-80091,276,catastrophe naturelle,8284.72,2026-02-26,ouvert
+SIN-01457,CTR-33944,126,bris de glace,14319.54,2026-08-06,ouvert
+SIN-01458,CTR-34905,33,bris de glace,15434.20,2026-09-10,ouvert
+SIN-01459,CTR-70852,51,collision,2144.10,2026-01-11,indemnisé
+SIN-01460,CTR-35873,52,collision,3339.33,2026-10-07,indemnisé
+SIN-01461,CTR-68017,100,collision,459.02,2026-10-25,en_expertise
+SIN-01462,CTR-74566,91,vol,2183.91,2026-09-16,indemnisé
+SIN-01463,CTR-42639,175,vol,14982.80,2026-09-17,en_expertise
+SIN-01464,CTR-73908,4,vol,578.29,2026-09-16,en_expertise
+SIN-01465,CTR-22395,227,vol,1234.35,2026-09-27,ouvert
+SIN-01466,CTR-75769,157,vol,1454.43,2026-09-16,ouvert
+SIN-01467,CTR-30263,166,bris de glace,13149.93,2026-04-25,en_expertise
+SIN-01468,CTR-52687,265,incendie,715.80,2026-10-26,en_expertise
+SIN-01469,CTR-49795,190,bris de glace,2273.85,2026-05-11,indemnisé
+SIN-01470,CTR-83831,202,catastrophe naturelle,4700.59,2026-07-01,en_expertise
+SIN-01471,CTR-69885,141,dégât des eaux,87.56,2026-04-07,indemnisé
+SIN-01472,CTR-66033,196,vol,2403.46,2026-09-18,indemnisé
+SIN-01473,CTR-24003,39,bris de glace,1996.40,2026-03-11,indemnisé
+SIN-01474,CTR-96431,200,grêle,452.53,2026-08-08,en_expertise
+SIN-01475,CTR-93837,176,vol,888.76,2026-09-12,en_expertise
+SIN-01476,CTR-19697,167,catastrophe naturelle,10565.68,2026-07-27,ouvert
+SIN-01477,CTR-21535,225,bris de glace,25519.00,2026-06-19,indemnisé
+SIN-01478,CTR-12864,72,catastrophe naturelle,2229.67,2026-02-28,indemnisé
+SIN-01479,CTR-38155,95,vol,2501.20,2026-08-08,en_expertise
+SIN-01480,CTR-43470,12,bris de glace,1914.82,2026-02-21,en_expertise
+SIN-01481,CTR-17901,263,vol,33135.30,2026-01-19,en_expertise
+SIN-01482,CTR-80622,252,vol,5794.92,2026-10-11,indemnisé
+SIN-01483,CTR-24723,273,bris de glace,9132.88,2026-09-28,ouvert
+SIN-01484,CTR-19579,221,catastrophe naturelle,533.58,2026-05-15,en_expertise
+SIN-01485,CTR-19571,94,grêle,5971.18,2026-10-11,en_expertise
+SIN-01486,CTR-12815,206,collision,4432.19,2026-05-01,indemnisé
+SIN-01487,CTR-29725,133,catastrophe naturelle,996.25,2026-04-19,indemnisé
+SIN-01488,CTR-85292,182,grêle,700.29,2026-10-05,ouvert
+SIN-01489,CTR-79916,21,catastrophe naturelle,704.77,2026-03-18,en_expertise
+SIN-01490,CTR-96267,107,bris de glace,861.01,2026-05-06,en_expertise
+SIN-01491,CTR-13577,71,incendie,2088.19,2026-02-27,en_expertise
+SIN-01492,CTR-59861,26,incendie,61.86,2026-08-13,ouvert
+SIN-01493,CTR-32950,260,collision,216.84,2026-09-04,ouvert
+SIN-01494,CTR-56974,163,incendie,22629.69,2026-04-07,ouvert
+SIN-01495,CTR-69893,9,dégât des eaux,727.82,2026-07-26,en_expertise
+SIN-01496,CTR-18559,223,catastrophe naturelle,5273.21,2026-05-08,indemnisé
+SIN-01497,CTR-12077,141,grêle,4182.27,2026-06-02,ouvert
+SIN-01498,CTR-30415,72,grêle,6315.31,2026-08-25,ouvert
+SIN-01499,CTR-48415,191,collision,35455.73,2026-07-27,ouvert
+SIN-01500,CTR-97643,93,vol,400.55,2026-02-26,ouvert
+SIN-01501,CTR-44757,165,dégât des eaux,1940.79,2026-01-11,ouvert
+SIN-01502,CTR-16094,277,incendie,1074.54,2026-10-24,indemnisé
+SIN-01503,CTR-22074,215,dégât des eaux,185.98,2026-02-16,en_expertise
+SIN-01504,CTR-89071,1,vol,885.70,2026-08-16,en_expertise
+SIN-01505,CTR-97612,50,incendie,18429.81,2026-08-24,indemnisé
+SIN-01506,CTR-39563,43,grêle,208.81,2026-02-23,en_expertise
+SIN-01507,CTR-34199,155,vol,4036.57,2026-08-22,indemnisé
+SIN-01508,CTR-52984,217,vol,487.13,2026-03-19,indemnisé
+SIN-01509,CTR-92821,25,catastrophe naturelle,1074.55,2026-04-06,ouvert
+SIN-01510,CTR-62004,166,dégât des eaux,162.94,2026-10-16,en_expertise
+SIN-01511,CTR-63170,232,bris de glace,35563.88,2026-08-20,en_expertise
+SIN-01512,CTR-54217,173,bris de glace,15496.38,2026-05-11,en_expertise
+SIN-01513,CTR-78035,135,dégât des eaux,3227.21,2026-06-14,indemnisé
+SIN-01514,CTR-24566,62,collision,3670.93,2026-05-05,en_expertise
+SIN-01515,CTR-76155,94,incendie,304.05,2026-09-07,ouvert
+SIN-01516,CTR-56391,270,collision,6568.45,2026-03-19,indemnisé
+SIN-01517,CTR-79582,86,vol,491.54,2026-03-04,indemnisé
+SIN-01518,CTR-29929,277,collision,27018.26,2026-07-28,ouvert
+SIN-01519,CTR-61088,268,incendie,5791.19,2026-08-15,en_expertise
+SIN-01520,CTR-82844,160,bris de glace,5684.53,2026-10-20,ouvert
+SIN-01521,CTR-41780,201,catastrophe naturelle,90.93,2026-03-21,en_expertise
+SIN-01522,CTR-39662,142,bris de glace,376.26,2026-07-04,indemnisé
+SIN-01523,CTR-28665,142,catastrophe naturelle,5716.14,2026-06-01,indemnisé
+SIN-01524,CTR-88439,242,bris de glace,9488.82,2026-08-10,ouvert
+SIN-01525,CTR-54744,140,dégât des eaux,11225.00,2026-07-27,en_expertise
+SIN-01526,CTR-73871,150,bris de glace,25889.27,2026-09-04,ouvert
+SIN-01527,CTR-41626,254,catastrophe naturelle,3976.91,2026-07-14,ouvert
+SIN-01528,CTR-46158,129,grêle,15526.92,2026-09-11,en_expertise
+SIN-01529,CTR-23255,249,bris de glace,613.60,2026-10-16,ouvert
+SIN-01530,CTR-73945,288,collision,9534.83,2026-10-13,indemnisé
+SIN-01531,CTR-24129,51,collision,19007.97,2026-02-04,ouvert
+SIN-01532,CTR-61608,21,vol,4330.31,2026-08-28,en_expertise
+SIN-01533,CTR-66596,14,bris de glace,37966.70,2026-10-06,ouvert
+SIN-01534,CTR-13719,234,catastrophe naturelle,2577.71,2026-05-12,indemnisé
+SIN-01535,CTR-16265,167,incendie,5865.26,2026-05-25,ouvert
+SIN-01536,CTR-62601,179,catastrophe naturelle,4831.13,2026-03-28,en_expertise
+SIN-01537,CTR-39828,163,catastrophe naturelle,26957.69,2026-05-04,indemnisé
+SIN-01538,CTR-34404,196,bris de glace,27141.19,2026-05-28,indemnisé
+SIN-01539,CTR-30868,87,vol,2618.71,2026-01-04,ouvert
+SIN-01540,CTR-48824,287,collision,29807.76,2026-03-13,indemnisé
+SIN-01541,CTR-96925,208,catastrophe naturelle,9078.44,2026-05-05,indemnisé
+SIN-01542,CTR-23582,151,collision,2704.38,2026-10-03,en_expertise
+SIN-01543,CTR-30317,141,dégât des eaux,7386.28,2026-08-08,indemnisé
+SIN-01544,CTR-38307,75,dégât des eaux,13678.31,2026-05-08,ouvert
+SIN-01545,CTR-82250,291,bris de glace,20924.30,2026-07-06,indemnisé
+SIN-01546,CTR-44274,187,catastrophe naturelle,4099.00,2026-05-14,en_expertise
+SIN-01547,CTR-56802,40,grêle,13980.00,2026-03-11,indemnisé
+SIN-01548,CTR-72355,275,vol,10378.00,2026-02-26,indemnisé
+SIN-01549,CTR-39355,239,vol,29872.91,2026-10-27,ouvert
+SIN-01550,CTR-32458,12,collision,435.81,2026-08-18,indemnisé
+SIN-01551,CTR-18359,182,dégât des eaux,89.49,2026-05-19,en_expertise
+SIN-01552,CTR-66469,69,incendie,4611.58,2026-04-22,en_expertise
+SIN-01553,CTR-84692,261,incendie,306.45,2026-03-25,indemnisé
+SIN-01554,CTR-16943,184,collision,35332.96,2026-02-25,ouvert
+SIN-01555,CTR-35509,128,collision,30832.93,2026-03-27,ouvert
+SIN-01556,CTR-21679,49,incendie,5637.01,2026-10-23,indemnisé
+SIN-01557,CTR-54996,94,dégât des eaux,373.21,2026-05-12,ouvert
+SIN-01558,CTR-44144,206,bris de glace,648.25,2026-04-12,indemnisé
+SIN-01559,CTR-43786,11,collision,31561.72,2026-01-18,ouvert
+SIN-01560,CTR-11648,3,vol,6058.78,2026-07-10,ouvert
+SIN-01561,CTR-32595,97,grêle,728.03,2026-10-16,ouvert
+SIN-01562,CTR-30273,192,collision,9296.84,2026-03-15,indemnisé
+SIN-01563,CTR-13976,20,collision,4837.12,2026-02-26,en_expertise
+SIN-01564,CTR-77959,86,dégât des eaux,29223.09,2026-08-07,indemnisé
+SIN-01565,CTR-96309,281,catastrophe naturelle,4027.28,2026-07-26,en_expertise
+SIN-01566,CTR-57932,73,bris de glace,851.85,2026-08-07,en_expertise
+SIN-01567,CTR-96462,51,catastrophe naturelle,1198.98,2026-09-03,indemnisé
+SIN-01568,CTR-79720,268,incendie,25141.89,2026-09-21,ouvert
+SIN-01569,CTR-92095,219,incendie,1590.93,2026-07-13,ouvert
+SIN-01570,CTR-89909,200,vol,3405.32,2026-08-26,en_expertise
+SIN-01571,CTR-34651,46,vol,702.92,2026-10-24,indemnisé
+SIN-01572,CTR-13665,25,vol,31134.74,2026-07-07,en_expertise
+SIN-01573,CTR-76633,269,catastrophe naturelle,1167.42,2026-03-17,en_expertise
+SIN-01574,CTR-34340,114,grêle,1128.08,2026-06-03,indemnisé
+SIN-01575,CTR-15928,196,bris de glace,215.10,2026-02-10,ouvert
+SIN-01576,CTR-33207,200,catastrophe naturelle,4263.93,2026-04-12,en_expertise
+SIN-01577,CTR-43840,217,grêle,14369.89,2026-10-23,indemnisé
+SIN-01578,CTR-63635,6,incendie,5695.39,2026-07-13,en_expertise
+SIN-01579,CTR-88660,6,grêle,1866.43,2026-07-02,indemnisé
+SIN-01580,CTR-93571,59,dégât des eaux,699.73,2026-03-26,en_expertise
+SIN-01581,CTR-43619,204,vol,11690.47,2026-09-10,en_expertise
+SIN-01582,CTR-36493,45,collision,2233.65,2026-08-07,ouvert
+SIN-01583,CTR-39968,20,catastrophe naturelle,485.67,2026-07-06,ouvert
+SIN-01584,CTR-58614,225,grêle,14219.56,2026-03-15,indemnisé
+SIN-01585,CTR-37581,163,dégât des eaux,701.45,2026-10-01,ouvert
+SIN-01586,CTR-70559,103,grêle,5747.11,2026-01-13,en_expertise
+SIN-01587,CTR-92210,100,vol,171.66,2026-08-01,en_expertise
+SIN-01588,CTR-31115,74,collision,23970.92,2026-06-02,ouvert
+SIN-01589,CTR-32271,165,vol,24165.31,2026-01-05,ouvert
+SIN-01590,CTR-60793,291,dégât des eaux,628.51,2026-04-25,indemnisé
+SIN-01591,CTR-84906,198,vol,3682.47,2026-10-13,en_expertise
+SIN-01592,CTR-55239,233,incendie,2112.11,2026-03-15,indemnisé
+SIN-01593,CTR-32852,199,vol,15753.36,2026-03-12,indemnisé
+SIN-01594,CTR-63788,278,catastrophe naturelle,5007.80,2026-04-13,ouvert
+SIN-01595,CTR-64752,236,grêle,2700.00,2026-08-15,en_expertise
+SIN-01596,CTR-79459,106,bris de glace,438.62,2026-04-23,ouvert
+SIN-01597,CTR-57633,238,collision,30796.43,2026-07-12,indemnisé
+SIN-01598,CTR-95490,232,vol,21987.90,2026-10-14,ouvert
+SIN-01599,CTR-60369,265,incendie,36257.44,2026-03-15,ouvert
+SIN-01600,CTR-99211,289,catastrophe naturelle,2868.45,2026-03-21,en_expertise
+SIN-01601,CTR-71417,126,catastrophe naturelle,4984.27,2026-03-25,en_expertise
+SIN-01602,CTR-92324,19,grêle,26819.05,2026-02-26,ouvert
+SIN-01603,CTR-53451,47,vol,113.75,2026-06-07,indemnisé
+SIN-01604,CTR-91688,162,collision,1986.36,2026-08-16,en_expertise
+SIN-01605,CTR-30946,78,bris de glace,9450.98,2026-07-04,indemnisé
+SIN-01606,CTR-71547,144,grêle,25096.58,2026-04-04,indemnisé
+SIN-01607,CTR-27773,196,incendie,853.05,2026-07-16,ouvert
+SIN-01608,CTR-67794,300,collision,3889.49,2026-03-15,ouvert
+SIN-01609,CTR-21142,190,dégât des eaux,5727.68,2026-03-05,indemnisé
+SIN-01610,CTR-35838,165,vol,11082.52,2026-02-12,indemnisé
+SIN-01611,CTR-64753,87,vol,27143.31,2026-05-07,indemnisé
+SIN-01612,CTR-51755,86,dégât des eaux,3554.20,2026-04-23,en_expertise
+SIN-01613,CTR-96074,235,grêle,5980.39,2026-02-11,indemnisé
+SIN-01614,CTR-85189,10,vol,66.98,2026-07-07,en_expertise
+SIN-01615,CTR-59170,172,vol,28844.73,2026-09-28,en_expertise
+SIN-01616,CTR-44286,283,bris de glace,38058.81,2026-08-10,en_expertise
+SIN-01617,CTR-51761,261,dégât des eaux,28841.47,2026-01-26,ouvert
+SIN-01618,CTR-18514,79,collision,1445.95,2026-04-25,ouvert
+SIN-01619,CTR-90931,37,bris de glace,949.19,2026-10-21,en_expertise
+SIN-01620,CTR-25987,29,grêle,28607.89,2026-03-07,indemnisé
+SIN-01621,CTR-10503,222,catastrophe naturelle,836.84,2026-04-07,ouvert
+SIN-01622,CTR-72396,102,grêle,656.60,2026-08-20,indemnisé
+SIN-01623,CTR-68001,95,collision,200.02,2026-01-03,ouvert
+SIN-01624,CTR-34817,64,grêle,35858.01,2026-02-07,ouvert
+SIN-01625,CTR-93269,152,collision,4757.06,2026-07-17,indemnisé
+SIN-01626,CTR-41558,272,dégât des eaux,34031.93,2026-05-10,ouvert
+SIN-01627,CTR-17917,221,dégât des eaux,17703.59,2026-08-01,indemnisé
+SIN-01628,CTR-99270,34,collision,2523.83,2026-05-24,en_expertise
+SIN-01629,CTR-49353,251,vol,4685.18,2026-09-24,ouvert
+SIN-01630,CTR-70941,237,vol,1769.82,2026-07-15,en_expertise
+SIN-01631,CTR-13208,72,catastrophe naturelle,1624.62,2026-06-13,indemnisé
+SIN-01632,CTR-32646,78,collision,20768.96,2026-03-07,ouvert
+SIN-01633,CTR-12841,255,incendie,54.09,2026-03-10,indemnisé
+SIN-01634,CTR-66735,223,catastrophe naturelle,1868.72,2026-03-16,indemnisé
+SIN-01635,CTR-72482,149,bris de glace,5803.34,2026-04-17,en_expertise
+SIN-01636,CTR-92773,82,vol,3023.36,2026-05-22,indemnisé
+SIN-01637,CTR-54708,192,catastrophe naturelle,1521.42,2026-03-12,indemnisé
+SIN-01638,CTR-42258,108,vol,1221.94,2026-04-28,en_expertise
+SIN-01639,CTR-82744,175,collision,5499.38,2026-06-23,ouvert
+SIN-01640,CTR-40005,122,catastrophe naturelle,32574.23,2026-04-16,indemnisé
+SIN-01641,CTR-60350,76,collision,443.99,2026-06-03,indemnisé
+SIN-01642,CTR-44866,35,incendie,36290.96,2026-07-25,ouvert
+SIN-01643,CTR-72094,127,bris de glace,720.50,2026-01-11,en_expertise
+SIN-01644,CTR-51947,249,vol,3361.02,2026-10-18,ouvert
+SIN-01645,CTR-89309,62,vol,38562.67,2026-01-24,ouvert
+SIN-01646,CTR-65442,6,vol,3471.06,2026-05-07,ouvert
+SIN-01647,CTR-20316,189,incendie,1046.99,2026-03-15,indemnisé
+SIN-01648,CTR-24122,141,incendie,1700.59,2026-05-07,indemnisé
+SIN-01649,CTR-12222,64,dégât des eaux,2352.29,2026-06-18,en_expertise
+SIN-01650,CTR-13337,223,grêle,30497.04,2026-06-13,ouvert
+SIN-01651,CTR-52469,290,catastrophe naturelle,5163.97,2026-10-02,indemnisé
+SIN-01652,CTR-18899,72,bris de glace,88.04,2026-02-17,ouvert
+SIN-01653,CTR-54323,42,incendie,2098.57,2026-06-25,ouvert
+SIN-01654,CTR-61903,80,collision,23839.10,2026-02-27,ouvert
+SIN-01655,CTR-39805,123,dégât des eaux,1487.77,2026-09-01,ouvert
+SIN-01656,CTR-38704,120,bris de glace,592.90,2026-03-17,en_expertise
+SIN-01657,CTR-76879,149,incendie,317.74,2026-01-22,indemnisé
+SIN-01658,CTR-14719,107,bris de glace,7364.42,2026-10-16,ouvert
+SIN-01659,CTR-31519,204,bris de glace,35976.00,2026-03-18,ouvert
+SIN-01660,CTR-59060,262,incendie,15568.18,2026-03-27,ouvert
+SIN-01661,CTR-61463,62,grêle,2207.02,2026-05-15,ouvert
+SIN-01662,CTR-36816,95,dégât des eaux,5835.45,2026-01-13,ouvert
+SIN-01663,CTR-49139,110,collision,12804.85,2026-05-12,en_expertise
+SIN-01664,CTR-38417,262,dégât des eaux,4093.20,2026-05-01,ouvert
+SIN-01665,CTR-60930,168,incendie,13015.99,2026-07-20,ouvert
+SIN-01666,CTR-42573,40,collision,26289.17,2026-02-01,ouvert
+SIN-01667,CTR-49773,228,incendie,572.58,2026-10-06,ouvert
+SIN-01668,CTR-58866,39,vol,1998.07,2026-07-21,ouvert
+SIN-01669,CTR-44435,234,catastrophe naturelle,295.82,2026-04-04,indemnisé
+SIN-01670,CTR-32882,8,dégât des eaux,4377.33,2026-02-24,ouvert
+SIN-01671,CTR-45398,12,grêle,5420.84,2026-10-16,ouvert
+SIN-01672,CTR-59469,16,dégât des eaux,8215.36,2026-08-14,en_expertise
+SIN-01673,CTR-96063,33,catastrophe naturelle,394.68,2026-05-23,en_expertise
+SIN-01674,CTR-45646,97,bris de glace,15087.67,2026-08-26,ouvert
+SIN-01675,CTR-83261,251,catastrophe naturelle,1125.03,2026-04-23,indemnisé
+SIN-01676,CTR-71928,279,bris de glace,2756.58,2026-06-22,en_expertise
+SIN-01677,CTR-55454,209,bris de glace,16904.18,2026-10-13,en_expertise
+SIN-01678,CTR-74816,278,incendie,15943.28,2026-06-14,ouvert
+SIN-01679,CTR-94602,239,incendie,5412.34,2026-09-28,indemnisé
+SIN-01680,CTR-29012,175,collision,23216.00,2026-03-28,indemnisé
+SIN-01681,CTR-61950,42,catastrophe naturelle,12997.63,2026-07-04,indemnisé
+SIN-01682,CTR-82148,85,grêle,3549.80,2026-04-22,indemnisé
+SIN-01683,CTR-81886,203,collision,3394.82,2026-07-08,indemnisé
+SIN-01684,CTR-39597,233,bris de glace,341.98,2026-04-23,ouvert
+SIN-01685,CTR-28920,37,grêle,5843.33,2026-05-08,en_expertise
+SIN-01686,CTR-13080,9,dégât des eaux,300.46,2026-05-04,ouvert
+SIN-01687,CTR-69323,61,incendie,4857.95,2026-06-22,en_expertise
+SIN-01688,CTR-37321,156,incendie,3947.56,2026-10-19,en_expertise
+SIN-01689,CTR-75535,164,vol,586.29,2026-01-09,indemnisé
+SIN-01690,CTR-65404,180,grêle,447.29,2026-08-01,en_expertise
+SIN-01691,CTR-43050,279,dégât des eaux,3385.99,2026-02-08,indemnisé
+SIN-01692,CTR-54221,124,collision,4119.62,2026-08-02,en_expertise
+SIN-01693,CTR-90441,211,dégât des eaux,306.44,2026-01-22,ouvert
+SIN-01694,CTR-68252,36,collision,6960.02,2026-03-15,en_expertise
+SIN-01695,CTR-16385,130,collision,37449.34,2026-02-23,indemnisé
+SIN-01696,CTR-15218,149,collision,462.35,2026-06-14,ouvert
+SIN-01697,CTR-73733,128,dégât des eaux,5839.68,2026-07-25,indemnisé
+SIN-01698,CTR-49620,94,bris de glace,733.85,2026-06-28,indemnisé
+SIN-01699,CTR-25216,52,bris de glace,30270.15,2026-03-05,indemnisé
+SIN-01700,CTR-58060,221,dégât des eaux,3986.55,2026-09-23,en_expertise
+SIN-01701,CTR-67185,286,grêle,1442.27,2026-07-03,ouvert
+SIN-01702,CTR-62602,260,bris de glace,5376.68,2026-03-04,ouvert
+SIN-01703,CTR-96489,280,vol,3809.15,2026-09-09,en_expertise
+SIN-01704,CTR-25184,287,dégât des eaux,4928.99,2026-04-07,ouvert
+SIN-01705,CTR-17863,262,catastrophe naturelle,4707.87,2026-01-04,indemnisé
+SIN-01706,CTR-51881,125,catastrophe naturelle,612.68,2026-08-26,ouvert
+SIN-01707,CTR-32599,199,collision,202.25,2026-09-28,ouvert
+SIN-01708,CTR-72611,263,dégât des eaux,165.66,2026-10-06,ouvert
+SIN-01709,CTR-44402,209,dégât des eaux,579.17,2026-07-02,en_expertise
+SIN-01710,CTR-61219,231,collision,1041.09,2026-04-24,ouvert
+SIN-01711,CTR-94677,81,bris de glace,5741.88,2026-10-17,en_expertise
+SIN-01712,CTR-18694,288,dégât des eaux,1282.78,2026-03-25,indemnisé
+SIN-01713,CTR-54758,156,catastrophe naturelle,15548.34,2026-09-20,en_expertise
+SIN-01714,CTR-60606,287,grêle,5262.43,2026-10-20,indemnisé
+SIN-01715,CTR-74182,176,collision,17460.56,2026-09-20,indemnisé
+SIN-01716,CTR-87913,263,bris de glace,4108.52,2026-06-11,ouvert
+SIN-01717,CTR-77852,211,vol,2677.42,2026-05-20,en_expertise
+SIN-01718,CTR-48668,98,grêle,615.93,2026-06-23,indemnisé
+SIN-01719,CTR-32729,61,grêle,21731.47,2026-05-21,ouvert
+SIN-01720,CTR-94866,255,vol,216.93,2026-04-13,en_expertise
+SIN-01721,CTR-29181,131,collision,5655.67,2026-02-09,ouvert
+SIN-01722,CTR-18722,97,catastrophe naturelle,871.20,2026-05-16,en_expertise
+SIN-01723,CTR-84377,216,bris de glace,33919.38,2026-05-02,en_expertise
+SIN-01724,CTR-60709,161,dégât des eaux,3396.75,2026-03-06,ouvert
+SIN-01725,CTR-46353,56,collision,350.75,2026-09-09,ouvert
+SIN-01726,CTR-15234,291,dégât des eaux,714.13,2026-01-04,en_expertise
+SIN-01727,CTR-40210,113,collision,880.08,2026-10-19,en_expertise
+SIN-01728,CTR-82575,300,vol,837.95,2026-04-06,en_expertise
+SIN-01729,CTR-84873,139,catastrophe naturelle,214.70,2026-08-04,ouvert
+SIN-01730,CTR-31711,89,bris de glace,14228.83,2026-05-04,ouvert
+SIN-01731,CTR-60685,229,bris de glace,25707.68,2026-04-04,ouvert
+SIN-01732,CTR-90616,195,dégât des eaux,3165.08,2026-09-25,en_expertise
+SIN-01733,CTR-54864,165,dégât des eaux,20846.11,2026-08-17,indemnisé
+SIN-01734,CTR-20139,194,bris de glace,373.59,2026-07-07,ouvert
+SIN-01735,CTR-40263,195,collision,2966.02,2026-08-01,indemnisé
+SIN-01736,CTR-12867,200,collision,2144.77,2026-06-12,en_expertise
+SIN-01737,CTR-21725,224,vol,3125.09,2026-06-08,en_expertise
+SIN-01738,CTR-38722,300,grêle,355.27,2026-09-20,indemnisé
+SIN-01739,CTR-16288,118,dégât des eaux,5214.10,2026-03-03,indemnisé
+SIN-01740,CTR-69388,77,vol,1155.33,2026-03-28,en_expertise
+SIN-01741,CTR-31840,267,dégât des eaux,5571.41,2026-04-28,ouvert
+SIN-01742,CTR-33061,148,collision,32625.43,2026-08-14,ouvert
+SIN-01743,CTR-20098,35,catastrophe naturelle,12643.09,2026-02-09,ouvert
+SIN-01744,CTR-33451,79,collision,4873.20,2026-03-08,ouvert
+SIN-01745,CTR-75655,259,dégât des eaux,319.91,2026-07-05,ouvert
+SIN-01746,CTR-58128,294,catastrophe naturelle,10497.89,2026-05-15,ouvert
+SIN-01747,CTR-93903,22,dégât des eaux,431.25,2026-07-05,ouvert
+SIN-01748,CTR-82130,278,grêle,3597.35,2026-07-17,en_expertise
+SIN-01749,CTR-85690,208,catastrophe naturelle,18033.81,2026-05-17,en_expertise
+SIN-01750,CTR-37117,38,collision,183.53,2026-06-27,en_expertise
+SIN-01751,CTR-58971,13,vol,5511.24,2026-08-07,ouvert
+SIN-01752,CTR-87388,72,grêle,4852.87,2026-05-13,ouvert
+SIN-01753,CTR-73802,205,incendie,5492.57,2026-08-12,ouvert
+SIN-01754,CTR-93889,52,vol,438.44,2026-06-02,en_expertise
+SIN-01755,CTR-20239,151,vol,2871.44,2026-09-18,en_expertise
+SIN-01756,CTR-56200,170,bris de glace,74.85,2026-05-17,ouvert
+SIN-01757,CTR-45338,31,dégât des eaux,31307.48,2026-09-07,indemnisé
+SIN-01758,CTR-70331,178,collision,19716.01,2026-06-10,en_expertise
+SIN-01759,CTR-73899,222,catastrophe naturelle,3536.69,2026-09-02,indemnisé
+SIN-01760,CTR-30097,194,vol,710.20,2026-08-24,indemnisé
+SIN-01761,CTR-22214,197,vol,586.28,2026-07-08,ouvert
+SIN-01762,CTR-84618,100,incendie,961.79,2026-03-14,indemnisé
+SIN-01763,CTR-31416,20,vol,528.64,2026-08-26,ouvert
+SIN-01764,CTR-74681,59,dégât des eaux,11630.53,2026-08-26,en_expertise
+SIN-01765,CTR-85634,286,collision,5895.24,2026-06-21,indemnisé
+SIN-01766,CTR-87303,267,grêle,29186.55,2026-05-26,indemnisé
+SIN-01767,CTR-73359,140,vol,2151.01,2026-09-10,en_expertise
+SIN-01768,CTR-49366,132,dégât des eaux,7743.74,2026-03-18,ouvert
+SIN-01769,CTR-30087,51,grêle,2016.66,2026-09-17,en_expertise
+SIN-01770,CTR-20633,125,bris de glace,2939.24,2026-10-16,indemnisé
+SIN-01771,CTR-63205,222,bris de glace,2501.18,2026-07-16,ouvert
+SIN-01772,CTR-74469,203,collision,2788.94,2026-04-13,en_expertise
+SIN-01773,CTR-54054,82,collision,770.53,2026-06-19,en_expertise
+SIN-01774,CTR-11112,77,collision,8798.55,2026-07-16,ouvert
+SIN-01775,CTR-16731,2,incendie,843.56,2026-03-02,ouvert
+SIN-01776,CTR-56825,293,dégât des eaux,29077.15,2026-01-06,en_expertise
+SIN-01777,CTR-90525,1,catastrophe naturelle,323.92,2026-04-26,ouvert
+SIN-01778,CTR-87774,150,collision,5103.37,2026-09-03,indemnisé
+SIN-01779,CTR-30629,264,dégât des eaux,1231.21,2026-08-20,ouvert
+SIN-01780,CTR-31339,243,catastrophe naturelle,34973.32,2026-08-12,indemnisé
+SIN-01781,CTR-40818,159,grêle,4232.80,2026-06-07,ouvert
+SIN-01782,CTR-87028,61,bris de glace,436.71,2026-02-15,ouvert
+SIN-01783,CTR-51936,297,bris de glace,32192.47,2026-08-14,en_expertise
+SIN-01784,CTR-87027,155,grêle,38047.68,2026-04-16,indemnisé
+SIN-01785,CTR-16411,17,catastrophe naturelle,69.10,2026-05-13,ouvert
+SIN-01786,CTR-52412,231,bris de glace,38862.79,2026-06-24,indemnisé
+SIN-01787,CTR-34112,4,catastrophe naturelle,37126.77,2026-03-09,en_expertise
+SIN-01788,CTR-28394,123,collision,120.17,2026-10-16,en_expertise
+SIN-01789,CTR-92776,185,grêle,820.28,2026-06-26,indemnisé
+SIN-01790,CTR-36438,109,bris de glace,22415.14,2026-06-22,indemnisé
+SIN-01791,CTR-79302,101,incendie,4694.67,2026-01-15,indemnisé
+SIN-01792,CTR-15834,146,vol,2379.99,2026-01-14,indemnisé
+SIN-01793,CTR-70757,293,bris de glace,4938.38,2026-06-27,indemnisé
+SIN-01794,CTR-40077,297,vol,231.69,2026-07-09,ouvert
+SIN-01795,CTR-41323,204,dégât des eaux,1106.78,2026-07-02,ouvert
+SIN-01796,CTR-64624,9,collision,33690.44,2026-05-25,indemnisé
+SIN-01797,CTR-96676,283,vol,25725.99,2026-02-28,ouvert
+SIN-01798,CTR-81442,103,dégât des eaux,836.04,2026-07-03,en_expertise
+SIN-01799,CTR-43841,87,grêle,596.28,2026-05-22,en_expertise
+SIN-01800,CTR-57373,50,catastrophe naturelle,397.40,2026-05-10,indemnisé
+SIN-01801,CTR-25917,2,bris de glace,634.74,2026-02-25,en_expertise
+SIN-01802,CTR-75596,274,incendie,870.02,2026-09-04,en_expertise
+SIN-01803,CTR-56299,91,incendie,614.48,2026-04-18,en_expertise
+SIN-01804,CTR-18314,84,bris de glace,663.77,2026-06-06,indemnisé
+SIN-01805,CTR-56056,16,vol,22275.47,2026-07-26,en_expertise
+SIN-01806,CTR-31957,98,collision,129.07,2026-08-25,indemnisé
+SIN-01807,CTR-96117,254,collision,683.05,2026-08-13,en_expertise
+SIN-01808,CTR-34652,2,collision,1915.48,2026-06-01,indemnisé
+SIN-01809,CTR-51309,238,dégât des eaux,843.17,2026-03-27,ouvert
+SIN-01810,CTR-72053,254,collision,551.40,2026-09-24,en_expertise
+SIN-01811,CTR-51558,126,vol,32728.97,2026-09-27,en_expertise
+SIN-01812,CTR-97139,71,grêle,5279.15,2026-05-27,en_expertise
+SIN-01813,CTR-79594,187,dégât des eaux,899.38,2026-08-10,indemnisé
+SIN-01814,CTR-34218,48,catastrophe naturelle,1015.93,2026-03-17,indemnisé
+SIN-01815,CTR-53749,163,dégât des eaux,1410.63,2026-03-19,ouvert
+SIN-01816,CTR-82116,278,catastrophe naturelle,1302.08,2026-02-26,indemnisé
+SIN-01817,CTR-82399,153,dégât des eaux,3844.55,2026-07-25,ouvert
+SIN-01818,CTR-45264,27,bris de glace,5377.62,2026-02-04,indemnisé
+SIN-01819,CTR-63213,278,dégât des eaux,5446.15,2026-05-06,indemnisé
+SIN-01820,CTR-32069,95,grêle,5464.63,2026-10-23,ouvert
+SIN-01821,CTR-26601,87,grêle,13426.21,2026-09-08,en_expertise
+SIN-01822,CTR-34582,253,collision,15292.69,2026-04-02,en_expertise
+SIN-01823,CTR-48365,177,bris de glace,12544.04,2026-07-19,en_expertise
+SIN-01824,CTR-65079,131,grêle,823.24,2026-10-16,ouvert
+SIN-01825,CTR-26802,296,bris de glace,2968.28,2026-10-04,indemnisé
+SIN-01826,CTR-16103,37,grêle,253.95,2026-07-05,ouvert
+SIN-01827,CTR-24519,8,incendie,277.83,2026-02-11,ouvert
+SIN-01828,CTR-58333,167,incendie,424.48,2026-07-22,indemnisé
+SIN-01829,CTR-29125,106,incendie,12852.66,2026-06-07,indemnisé
+SIN-01830,CTR-67337,26,vol,4277.75,2026-01-14,en_expertise
+SIN-01831,CTR-70128,269,vol,34345.46,2026-04-14,ouvert
+SIN-01832,CTR-11804,243,catastrophe naturelle,1617.56,2026-09-03,indemnisé
+SIN-01833,CTR-46125,245,incendie,430.81,2026-05-06,en_expertise
+SIN-01834,CTR-94570,249,incendie,229.69,2026-04-18,indemnisé
+SIN-01835,CTR-78423,131,grêle,1637.93,2026-02-09,indemnisé
+SIN-01836,CTR-84338,55,bris de glace,484.17,2026-05-09,ouvert
+SIN-01837,CTR-85289,272,bris de glace,24902.58,2026-08-17,ouvert
+SIN-01838,CTR-65014,291,vol,32128.77,2026-01-16,ouvert
+SIN-01839,CTR-42921,140,collision,4636.36,2026-04-21,en_expertise
+SIN-01840,CTR-22594,195,incendie,5799.34,2026-10-07,ouvert
+SIN-01841,CTR-79794,171,incendie,319.25,2026-04-14,indemnisé
+SIN-01842,CTR-40317,211,catastrophe naturelle,54.13,2026-01-07,en_expertise
+SIN-01843,CTR-81901,226,grêle,8468.53,2026-03-08,indemnisé
+SIN-01844,CTR-87004,210,dégât des eaux,224.50,2026-05-21,indemnisé
+SIN-01845,CTR-90186,61,dégât des eaux,805.23,2026-05-26,indemnisé
+SIN-01846,CTR-72391,142,collision,501.73,2026-03-22,indemnisé
+SIN-01847,CTR-63976,170,dégât des eaux,666.65,2026-02-17,indemnisé
+SIN-01848,CTR-55738,183,catastrophe naturelle,6003.16,2026-08-18,indemnisé
+SIN-01849,CTR-12799,141,bris de glace,39343.97,2026-03-27,ouvert
+SIN-01850,CTR-35905,68,vol,241.43,2026-08-02,indemnisé
+SIN-01851,CTR-36760,188,grêle,7070.69,2026-05-27,indemnisé
+SIN-01852,CTR-72092,194,dégât des eaux,411.37,2026-03-12,ouvert
+SIN-01853,CTR-21118,81,bris de glace,498.41,2026-02-05,en_expertise
+SIN-01854,CTR-78191,285,grêle,2069.21,2026-09-19,indemnisé
+SIN-01855,CTR-79841,291,bris de glace,11351.50,2026-08-14,ouvert
+SIN-01856,CTR-89466,110,grêle,4953.05,2026-01-07,en_expertise
+SIN-01857,CTR-86205,60,catastrophe naturelle,294.16,2026-03-02,ouvert
+SIN-01858,CTR-72825,203,grêle,35143.98,2026-10-23,indemnisé
+SIN-01859,CTR-26571,124,dégât des eaux,742.37,2026-09-28,indemnisé
+SIN-01860,CTR-54448,269,collision,507.56,2026-02-09,en_expertise
+SIN-01861,CTR-74291,106,bris de glace,1594.52,2026-04-23,indemnisé
+SIN-01862,CTR-93080,280,dégât des eaux,1653.89,2026-06-15,ouvert
+SIN-01863,CTR-11511,14,catastrophe naturelle,625.95,2026-01-28,indemnisé
+SIN-01864,CTR-86787,42,dégât des eaux,31756.99,2026-04-16,ouvert
+SIN-01865,CTR-92686,14,grêle,417.52,2026-03-12,en_expertise
+SIN-01866,CTR-47992,150,vol,37084.81,2026-03-03,indemnisé
+SIN-01867,CTR-47641,252,collision,3961.78,2026-02-05,ouvert
+SIN-01868,CTR-51171,195,incendie,748.95,2026-01-17,en_expertise
+SIN-01869,CTR-44247,126,incendie,7661.01,2026-06-21,en_expertise
+SIN-01870,CTR-63108,194,collision,116.27,2026-02-08,en_expertise
+SIN-01871,CTR-58439,26,vol,2273.99,2026-05-27,ouvert
+SIN-01872,CTR-15161,241,dégât des eaux,7423.69,2026-07-07,ouvert
+SIN-01873,CTR-56540,9,catastrophe naturelle,24980.92,2026-10-25,indemnisé
+SIN-01874,CTR-18456,32,vol,859.67,2026-01-04,en_expertise
+SIN-01875,CTR-10651,134,grêle,36266.97,2026-05-28,indemnisé
+SIN-01876,CTR-77589,100,incendie,192.60,2026-04-17,indemnisé
+SIN-01877,CTR-28546,205,collision,95.18,2026-05-24,ouvert
+SIN-01878,CTR-63430,153,bris de glace,4190.45,2026-01-08,en_expertise
+SIN-01879,CTR-66477,110,dégât des eaux,30556.48,2026-05-25,en_expertise
+SIN-01880,CTR-92789,200,bris de glace,5354.57,2026-06-25,en_expertise
+SIN-01881,CTR-40025,189,vol,5317.99,2026-09-22,ouvert
+SIN-01882,CTR-97643,44,incendie,292.70,2026-07-10,en_expertise
+SIN-01883,CTR-76219,12,catastrophe naturelle,23441.32,2026-04-24,ouvert
+SIN-01884,CTR-46101,170,grêle,356.80,2026-03-15,indemnisé
+SIN-01885,CTR-47971,30,catastrophe naturelle,755.31,2026-05-08,ouvert
+SIN-01886,CTR-35471,270,vol,1965.58,2026-10-11,indemnisé
+SIN-01887,CTR-21804,49,grêle,145.08,2026-10-15,indemnisé
+SIN-01888,CTR-89489,102,bris de glace,441.15,2026-10-03,indemnisé
+SIN-01889,CTR-52338,116,dégât des eaux,10580.04,2026-07-28,ouvert
+SIN-01890,CTR-76176,255,catastrophe naturelle,37216.43,2026-06-13,ouvert
+SIN-01891,CTR-78743,5,dégât des eaux,19844.71,2026-03-07,ouvert
+SIN-01892,CTR-24681,282,bris de glace,1049.93,2026-10-17,ouvert
+SIN-01893,CTR-75188,136,grêle,22057.28,2026-05-27,indemnisé
+SIN-01894,CTR-91403,110,incendie,142.94,2026-06-20,en_expertise
+SIN-01895,CTR-26144,270,grêle,155.18,2026-10-10,ouvert
+SIN-01896,CTR-54951,14,collision,2051.80,2026-03-25,en_expertise
+SIN-01897,CTR-89504,259,bris de glace,207.45,2026-02-08,en_expertise
+SIN-01898,CTR-14781,151,bris de glace,2622.24,2026-09-18,en_expertise
+SIN-01899,CTR-54235,122,incendie,848.97,2026-07-14,en_expertise
+SIN-01900,CTR-25271,66,incendie,871.01,2026-01-02,ouvert
+SIN-01901,CTR-61195,204,collision,1182.48,2026-02-27,ouvert
+SIN-01902,CTR-37899,52,bris de glace,8471.10,2026-04-09,en_expertise
+SIN-01903,CTR-67178,293,dégât des eaux,345.98,2026-08-21,en_expertise
+SIN-01904,CTR-37637,269,catastrophe naturelle,36682.21,2026-05-10,indemnisé
+SIN-01905,CTR-10649,271,incendie,16336.21,2026-04-11,en_expertise
+SIN-01906,CTR-79285,70,incendie,37032.63,2026-01-07,ouvert
+SIN-01907,CTR-97428,190,incendie,594.82,2026-01-20,ouvert
+SIN-01908,CTR-47925,147,collision,476.36,2026-03-01,indemnisé
+SIN-01909,CTR-62803,294,collision,896.01,2026-07-25,indemnisé
+SIN-01910,CTR-82443,234,dégât des eaux,2816.93,2026-09-10,ouvert
+SIN-01911,CTR-42532,76,vol,19059.36,2026-10-04,en_expertise
+SIN-01912,CTR-35487,90,bris de glace,16526.17,2026-02-06,ouvert
+SIN-01913,CTR-83913,287,dégât des eaux,1620.59,2026-07-20,indemnisé
+SIN-01914,CTR-25429,235,catastrophe naturelle,11270.03,2026-07-01,indemnisé
+SIN-01915,CTR-39898,267,collision,16523.06,2026-04-11,indemnisé
+SIN-01916,CTR-28156,288,catastrophe naturelle,28106.45,2026-01-27,en_expertise
+SIN-01917,CTR-25440,73,grêle,38640.70,2026-10-20,en_expertise
+SIN-01918,CTR-63245,184,collision,333.55,2026-03-14,indemnisé
+SIN-01919,CTR-55182,209,grêle,4896.36,2026-02-27,ouvert
+SIN-01920,CTR-99872,75,catastrophe naturelle,20482.43,2026-04-26,indemnisé
+SIN-01921,CTR-43021,99,catastrophe naturelle,309.78,2026-05-13,indemnisé
+SIN-01922,CTR-45638,21,catastrophe naturelle,32286.92,2026-01-27,ouvert
+SIN-01923,CTR-66917,201,incendie,6221.45,2026-02-02,ouvert
+SIN-01924,CTR-20644,99,catastrophe naturelle,756.99,2026-10-11,ouvert
+SIN-01925,CTR-94972,143,dégât des eaux,23945.62,2026-05-21,indemnisé
+SIN-01926,CTR-33224,268,bris de glace,4662.42,2026-10-15,indemnisé
+SIN-01927,CTR-93558,144,vol,393.58,2026-01-16,en_expertise
+SIN-01928,CTR-68854,72,grêle,11518.62,2026-07-25,en_expertise
+SIN-01929,CTR-22067,252,grêle,17714.72,2026-08-13,ouvert
+SIN-01930,CTR-44543,12,incendie,884.50,2026-09-22,indemnisé
+SIN-01931,CTR-40423,46,bris de glace,5848.51,2026-06-12,indemnisé
+SIN-01932,CTR-24249,240,collision,1933.35,2026-02-15,ouvert
+SIN-01933,CTR-23324,41,collision,36859.69,2026-03-01,en_expertise
+SIN-01934,CTR-97770,163,bris de glace,14091.08,2026-08-16,indemnisé
+SIN-01935,CTR-68653,39,grêle,533.15,2026-09-10,en_expertise
+SIN-01936,CTR-52339,25,bris de glace,38682.09,2026-07-10,indemnisé
+SIN-01937,CTR-16933,122,incendie,5069.05,2026-04-22,en_expertise
+SIN-01938,CTR-70713,256,grêle,755.52,2026-09-06,ouvert
+SIN-01939,CTR-87200,275,catastrophe naturelle,5153.19,2026-03-04,indemnisé
+SIN-01940,CTR-85041,280,vol,206.31,2026-08-26,indemnisé
+SIN-01941,CTR-80694,125,dégât des eaux,630.63,2026-09-06,indemnisé
+SIN-01942,CTR-85028,231,grêle,626.12,2026-01-16,indemnisé
+SIN-01943,CTR-25596,233,incendie,20575.43,2026-01-13,en_expertise
+SIN-01944,CTR-12026,187,catastrophe naturelle,242.92,2026-01-13,indemnisé
+SIN-01945,CTR-92467,179,vol,163.52,2026-03-03,en_expertise
+SIN-01946,CTR-80657,230,dégât des eaux,4263.73,2026-05-13,indemnisé
+SIN-01947,CTR-19535,293,bris de glace,169.29,2026-06-19,en_expertise
+SIN-01948,CTR-87415,274,catastrophe naturelle,38466.30,2026-05-08,en_expertise
+SIN-01949,CTR-30753,65,dégât des eaux,576.16,2026-06-26,ouvert
+SIN-01950,CTR-66773,129,collision,13813.17,2026-05-21,ouvert
+SIN-01951,CTR-77135,284,grêle,34768.61,2026-02-21,ouvert
+SIN-01952,CTR-14692,226,dégât des eaux,3204.50,2026-06-06,ouvert
+SIN-01953,CTR-80683,96,dégât des eaux,809.87,2026-10-15,en_expertise
+SIN-01954,CTR-92289,237,incendie,26876.82,2026-10-18,en_expertise
+SIN-01955,CTR-76296,255,grêle,1664.58,2026-03-27,ouvert
+SIN-01956,CTR-15004,273,vol,22792.84,2026-09-01,en_expertise
+SIN-01957,CTR-16798,138,dégât des eaux,4379.93,2026-06-25,en_expertise
+SIN-01958,CTR-15022,16,grêle,29310.82,2026-02-06,en_expertise
+SIN-01959,CTR-45169,129,bris de glace,1797.13,2026-09-13,en_expertise
+SIN-01960,CTR-48556,96,grêle,18002.68,2026-04-21,ouvert
+SIN-01961,CTR-39123,100,collision,4670.74,2026-10-04,en_expertise
+SIN-01962,CTR-34458,273,catastrophe naturelle,2229.71,2026-06-24,en_expertise
+SIN-01963,CTR-32525,207,collision,19228.60,2026-04-28,indemnisé
+SIN-01964,CTR-23398,115,catastrophe naturelle,3601.68,2026-09-04,indemnisé
+SIN-01965,CTR-74177,266,vol,6872.42,2026-07-28,indemnisé
+SIN-01966,CTR-47657,134,bris de glace,31703.59,2026-01-07,en_expertise
+SIN-01967,CTR-85623,39,catastrophe naturelle,28964.51,2026-02-16,indemnisé
+SIN-01968,CTR-53727,298,bris de glace,23732.45,2026-05-26,ouvert
+SIN-01969,CTR-52630,151,incendie,113.97,2026-02-11,en_expertise
+SIN-01970,CTR-38110,215,incendie,11899.33,2026-09-04,ouvert
+SIN-01971,CTR-91365,137,catastrophe naturelle,726.97,2026-03-23,indemnisé
+SIN-01972,CTR-14612,182,bris de glace,730.05,2026-08-13,indemnisé
+SIN-01973,CTR-71982,288,dégât des eaux,29666.68,2026-10-24,ouvert
+SIN-01974,CTR-77404,270,collision,691.68,2026-06-13,ouvert
+SIN-01975,CTR-64536,30,vol,5669.39,2026-10-17,en_expertise
+SIN-01976,CTR-31966,71,incendie,3193.88,2026-06-17,en_expertise
+SIN-01977,CTR-54503,217,vol,15506.87,2026-06-26,indemnisé
+SIN-01978,CTR-90528,61,dégât des eaux,2368.97,2026-07-11,ouvert
+SIN-01979,CTR-30439,158,vol,157.07,2026-04-19,indemnisé
+SIN-01980,CTR-25169,167,catastrophe naturelle,14038.32,2026-06-03,ouvert
+SIN-01981,CTR-93023,218,collision,44.79,2026-03-22,ouvert
+SIN-01982,CTR-60209,198,collision,23673.51,2026-10-23,en_expertise
+SIN-01983,CTR-65452,230,grêle,163.90,2026-08-24,en_expertise
+SIN-01984,CTR-77543,86,vol,1663.49,2026-05-07,ouvert
+SIN-01985,CTR-23875,69,bris de glace,11877.71,2026-02-05,ouvert
+SIN-01986,CTR-49959,48,dégât des eaux,27935.03,2026-07-24,ouvert
+SIN-01987,CTR-30991,105,grêle,3549.91,2026-09-15,en_expertise
+SIN-01988,CTR-21415,234,bris de glace,22036.47,2026-03-12,en_expertise
+SIN-01989,CTR-92278,137,incendie,39092.06,2026-03-13,ouvert
+SIN-01990,CTR-21827,262,catastrophe naturelle,17064.76,2026-08-13,indemnisé
+SIN-01991,CTR-33809,226,dégât des eaux,19344.85,2026-08-06,ouvert
+SIN-01992,CTR-38478,290,grêle,21058.54,2026-10-06,ouvert
+SIN-01993,CTR-90584,110,grêle,25606.03,2026-07-06,ouvert
+SIN-01994,CTR-19877,156,bris de glace,28346.40,2026-09-18,ouvert
+SIN-01995,CTR-42049,296,catastrophe naturelle,28212.87,2026-09-07,en_expertise
+SIN-01996,CTR-94489,238,grêle,2471.11,2026-08-08,ouvert
+SIN-01997,CTR-53597,134,catastrophe naturelle,38024.54,2026-05-19,en_expertise
+SIN-01998,CTR-89116,299,incendie,4597.65,2026-01-06,indemnisé
+SIN-01999,CTR-97388,240,catastrophe naturelle,189.92,2026-09-16,indemnisé
+SIN-02000,CTR-28124,297,collision,3400.67,2026-09-08,ouvert

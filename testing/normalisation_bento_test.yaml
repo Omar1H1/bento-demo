@@ -1,0 +1,26 @@
+tests:
+  - name: les champs texte deviennent des types propres
+    target_processors: /pipeline/processors
+    input_batch:
+      - content: '{"sinistre_id":"7","client_id":"42","type":"auto","montant":"1234.50","statut":"OUVERT"}'
+    output_batches:
+      - - json_equals:
+            sinistre_id: "7"
+            client_id: 42
+            type: AUTO
+            montant: 1234.5
+            statut: "ouvert"
+            valide: true
+
+  - name: un montant illisible est signalé, pas perdu
+    target_processors: /pipeline/processors
+    input_batch:
+      - content: '{"sinistre_id":"8","client_id":"7","type":"sante","montant":"n/a","statut":"OUVERT"}'
+    output_batches:
+      - - json_equals:
+            sinistre_id: "8"
+            client_id: 7
+            type: SANTE
+            montant: null
+            statut: ouvert
+            valide: false
