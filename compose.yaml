@@ -47,10 +47,9 @@ services:
       - "15432:5432"
     volumes:
       - ./data/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
-      - ./data/sinistres.csv:/docker-entrypoint-initdb.d/sinistres.csv:ro
       - postgres-data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "psql -U bento -d assurance -tAc 'select 1 from stats_par_type limit 1' | grep -q 1"]
+      test: ["CMD-SHELL", "pg_isready -h localhost -U bento -d assurance"]
       interval: 3s
       timeout: 3s
       retries: 20

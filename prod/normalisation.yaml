@@ -1,0 +1,46 @@
+# Pipeline "prêt pour la prod" : normalise des sinistres, logs JSON, métriques.
+# Entrée synthétique (generate) : aucun Docker nécessaire, le flux ne s'arrête pas.
+
+http:
+  enabled: true
+  address: 0.0.0.0:4195
+
+logger:
+  level: INFO
+  format: json
+  add_timestamp: true
+  static_fields:
+    "@service": bento-demo
+
+metrics:
+  prometheus: {} # /metrics sur le port 4195
+
+input:
+  generate:
+    interval: 500ms
+    count: 0 # sans fin
+    mapping: |
+      root.sinistre_id = counter().string()
+      root.client_id = (random_int() % 300 + 1).string()
+      root.type = ["auto", "habitation", "sante"].index(random_int() % 3)
+      root.montant = if random_int() % 5 == 0 { "n/a" } else { (random_int() % 500000 / 100).string() }
+      root.statut = "OUVERT"
+
+pipeline:
+  processors:
+    - mapping: |
+        root = this
+        root.client_id = this.client_id.number()
+        root.montant = this.montant.number().catch(null)
+        root.type = this.type.uppercase()
+        root.statut = this.statut.lowercase()
+        root.valide = this.montant.number().catch(null) != null
+    - log:
+        level: INFO
+        message: sinistre normalisé
+        fields_mapping: |
+          root.sinistre_id = this.sinistre_id
+          root.valide = this.valide
+
+output:
+  drop: {}

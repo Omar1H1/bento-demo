@@ -1,0 +1,10 @@
+tests:
+  - name: le sinistre reçoit son client (Postgres remplacé par un mock)
+    target_processors: /pipeline/processors
+    mocks:
+      /pipeline/processors/0/branch/processors/0:
+        mapping: 'root = [{"client_id": 42, "nom": "Dupont", "ville": "Lyon"}]'
+    input_batch:
+      - content: '{"sinistre_id":"7","client_id":"42","type":"auto","montant":"120.50"}'
+    output_batches:
+      - - bloblang: 'this.sinistre_id == "7" && this.client.nom == "Dupont" && this.client.ville == "Lyon"'
