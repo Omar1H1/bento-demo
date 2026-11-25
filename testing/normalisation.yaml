@@ -1,0 +1,49 @@
+# Pipeline "prêt pour la prod" : normalise des sinistres, logs JSON, métriques, pprof.
+# Entrée synthétique (generate) : aucun Docker nécessaire, le flux ne s'arrête pas.
+
+http:
+  enabled: true
+  address: 0.0.0.0:4195
+  debug_endpoints: true # /debug/pprof/*
+
+logger:
+  level: INFO
+  format: json
+  add_timestamp: true
+  static_fields:
+    "@service": bento-demo
+
+metrics:
+  prometheus: {} # /metrics sur le port 4195
+
+input:
+  generate:
+    interval: "${INTERVAL:500ms}" # make load : 1ms
+    count: 0 # sans fin
+    mapping: |
+      root.sinistre_id = counter().string()
+      root.client_id = (random_int() % 300 + 1).string()
+      root.type = ["auto", "habitation", "sante"].index(random_int() % 3)
+      root.montant = if random_int() % 5 == 0 { "n/a" } else { (random_int() % 500000 / 100).string() }
+      root.statut = "OUVERT"
+
+pipeline:
+  processors:
+    - mapping: |
+        root = this
+        root.client_id = this.client_id.number()
+        root.montant = this.montant.number().catch(null)
+        root.type = this.type.uppercase()
+        root.statut = this.statut.lowercase()
+        root.valide = this.montant.number().catch(null) != null
+        # Pour le flamegraph : décommenter, sauvegarder, relancer un profil.
+        # root.empreinte = range(0, 200).map_each(i -> (this.sinistre_id + i.string()).hash("sha256").encode("hex")).join("")
+    - log:
+        level: "${MSG_LOG_LEVEL:INFO}" # make load : DEBUG (masqué)
+        message: sinistre normalisé
+        fields_mapping: |
+          root.sinistre_id = this.sinistre_id
+          root.valide = this.valide
+
+output:
+  drop: {}

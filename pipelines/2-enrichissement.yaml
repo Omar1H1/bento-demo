@@ -1,0 +1,26 @@
+input:
+  file:
+    paths: [ ../data/sinistres.csv ]
+    scanner:
+      csv: {}
+
+pipeline:
+  threads: 4
+  processors:
+    - branch:
+        request_map: 'root = this'
+        processors:
+          - sql_select:
+              driver: postgres
+              dsn: postgres://bento:bento@localhost:15432/assurance?sslmode=disable
+              table: clients
+              columns: [ "*" ]
+              where: client_id = $1
+              args_mapping: 'root = [ this.client_id.number() ]'
+        result_map: 'root.client = this.index(0)'
+
+output:
+  kafka:
+    addresses: [ "localhost:19092" ]
+    topic: sinistres-enrichis
+    key: '${! json("sinistre_id") }'

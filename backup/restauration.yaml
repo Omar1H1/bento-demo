@@ -1,0 +1,12 @@
+# Cas 4b — on relit les archives
+input:
+  file:
+    paths: [ "archives/*.gz" ]
+    scanner:
+      decompress:
+        algorithm: gzip
+        into:
+          lines: {}
+
+output:
+  stdout: {}

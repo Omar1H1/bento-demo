@@ -1,0 +1,12 @@
+# Cas 1 — le pont : CSV -> Kafka
+input:
+  file:
+    paths: [ data/sinistres.csv ]
+    scanner:
+      csv: {}
+
+output:
+  kafka:
+    addresses: [ "localhost:19092" ]
+    topic: sinistres
+    key: '${! json("sinistre_id") }'
