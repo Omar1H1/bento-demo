@@ -1,6 +1,6 @@
 # Bento — présentation + démo
 
-Prérequis : Docker, [presenterm](https://github.com/mfontanini/presenterm), `bento`, `make`, `jq`.
+Prérequis : Podman (avec `docker-compose` ou `podman-compose` pour `podman compose`), [presenterm](https://github.com/mfontanini/presenterm), `bento`, `make`, `jq`.
 Tout se lance depuis la racine du projet. Les images vont dans `assets/` (`output.png`, `openshift.png`).
 
 ```sh

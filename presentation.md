@@ -253,7 +253,7 @@ Un binaire Go : peu de mémoire au repos, peu de ressources demandées.
 # Notre terrain de jeu
 
 ```bash +exec
-docker compose ps --format "table {{.Service}}\t{{.Status}}"
+podman compose ps --format "table {{.Service}}\t{{.Status}}"
 ```
 
 ```bash +exec
@@ -261,7 +261,7 @@ head -4 data/sinistres.csv
 ```
 
 ```bash +exec
-docker compose exec -T postgres psql -U bento assurance -c "SELECT * FROM clients LIMIT 4"
+podman compose exec -T postgres psql -U bento assurance -c "SELECT * FROM clients LIMIT 4"
 ```
 
 <!-- speaker_note: |
@@ -345,7 +345,7 @@ Comment être sûr de ne rien casser ?
   phrase d'accroche (court, posé) : "un test nous évite de déployer un pipeline cassé… mais la logique métier, elle, change"
   [9:15 → 10:45] terminal — test pré-écrit : pipelines/2-enrichissement_bento_test.yaml (secours : make test DIR=backup)
   gestes :
-  - cat du test : "Postgres est remplacé par un mock, aucun Docker"
+  - cat du test : "Postgres est remplacé par un mock, aucun conteneur"
   - make test → vert
   - dans 2-enrichissement.yaml, result_map : root.client → root.societaire
     ("le métier change le mot, le pipeline tourne toujours sans erreur")

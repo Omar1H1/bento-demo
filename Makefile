@@ -1,4 +1,4 @@
-COMPOSE ?= docker compose
+COMPOSE ?= podman compose
 RPK     := $(COMPOSE) exec -T redpanda rpk
 TOPICS  := sinistres sinistres-enrichis
 DIR     ?= pipelines

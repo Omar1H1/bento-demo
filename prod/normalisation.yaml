@@ -1,5 +1,5 @@
 # Pipeline "prêt pour la prod" : normalise des sinistres, logs JSON, métriques.
-# Entrée synthétique (generate) : aucun Docker nécessaire, le flux ne s'arrête pas.
+# Entrée synthétique (generate) : aucun conteneur nécessaire, le flux ne s'arrête pas.
 
 http:
   enabled: true

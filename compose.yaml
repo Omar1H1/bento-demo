@@ -38,7 +38,7 @@ services:
       KAFKA_BROKERS: redpanda:9092
 
   postgres:
-    image: postgres:17-alpine
+    image: docker.io/library/postgres:17-alpine
     environment:
       POSTGRES_USER: bento
       POSTGRES_PASSWORD: bento
@@ -46,7 +46,7 @@ services:
     ports:
       - "15432:5432"
     volumes:
-      - ./data/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+      - ./data/init.sql:/docker-entrypoint-initdb.d/init.sql:ro,Z
       - postgres-data:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -h localhost -U bento -d assurance"]
